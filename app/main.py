@@ -6,6 +6,7 @@ from itertools import cycle
 import pandas as pd
 from termcolor import colored
 
+# todo: start with regular verbs
 # todo: log results
 # todo: extend for other times/modes
 
@@ -46,9 +47,16 @@ def create_decks(verbs, idx):
     }
 
 
-def save_reviewer(obj):
-    with open(f"users/{obj.name}.pickle", 'wb') as file:
-        pickle.dump(obj, file, pickle.HIGHEST_PROTOCOL)
+def create_state(name: str) -> dict:
+    return dict(name=name,
+                decks=create_decks(get_verbs(), 3),
+                min_current_deck_size=3,
+                current_verbs_index=3)
+
+
+def save_reviewer(state: dict):
+    with open(f"users/{state['name']}.pickle", 'wb') as file:
+        pickle.dump(state, file, pickle.HIGHEST_PROTOCOL)
 
 
 def load_reviewer(filename):
@@ -56,102 +64,107 @@ def load_reviewer(filename):
         return pickle.load(file)
 
 
-class Reviewer:
-    def __init__(self, filename):
-        self.name = filename
-        self._current_verbs_index = 3
-        self._min_current_deck_size = 3
-        self.verbs = get_verbs()
-        self.conjugations = get_conjugations()
-        self.decks = create_decks(self.verbs, self._current_verbs_index)
+def ask_verb(conjugations, verb, mode, time):
+    persons = ('eu', 'ele/ela', 'nós', 'eles/elas')
 
-    def start(self):
-        mode = 'indicativo'
-        time = 'presente'
-        for session in cycle(range(10)):
+    print()
+    print(colored(f"conjugate {verb}", 'yellow'))
 
-            words_seen_in_current = {}
+    answers = []
+    for person in persons:
+        try:
+            user_answer = input(f"{person}: ")
+        except UnicodeDecodeError:
+            user_answer = ''
 
-            verbs = self.decks['current']
+        right_answer = conjugations[verb][mode][time][person]
 
-            for verb in sample(verbs, len(verbs)):
-                words_seen_in_current[verb] = self._ask_verb(verb, mode, time)
+        sys.stdout.write("\033[F")
 
-            for progress_id, progress_deck in self.decks['progress'].items():
-                if str(session) in progress_id:
-                    words_seen_in_progress = {}
-                    for verb in sample(progress_deck, len(progress_deck)):
-                        words_seen_in_progress[verb] = self._ask_verb(verb, mode, time)
+        if user_answer == right_answer:
+            print(f"{person}:", colored(f"{right_answer}", 'green'))
+        else:
+            print(f"{person:}:",
+                  colored(f"{user_answer}", 'red'),
+                  " right answer:",
+                  colored(right_answer, 'green'))
 
-                    if str(session) == progress_id[-1]:
-                        for verb, right in words_seen_in_progress.items():
-                            if right:
-                                progress_deck.remove(verb)
-                                self.decks['retired'].append(verb)
+        answers.append(user_answer)
 
+    return all(answers)
+
+
+def get_words_in_progress(decks):
+    return [word for words in decks['progress'].values() for word in words]
+
+
+def print_summary(decks: dict):
+    print()
+    print(colored("=== SUMMARY ===", 'blue'))
+    print(colored(f"words in current: {len(decks['current'])}", 'blue'))
+    print(colored(f"words in progress: {len(get_words_in_progress(decks))}", 'blue'))
+    print(colored(f"words learned: {len(decks['retired'])}", 'blue'))
+
+
+def put_in_progress(decks: dict, session: int, word: str):
+    decks['progress'][get_seq(session)].append(word)
+
+
+def start(name: str, decks: dict, current_verbs_index=3, min_current_deck_size=3):
+    mode = 'indicativo'
+    time = 'presente'
+    verbs = get_verbs()
+    conjugations = get_conjugations()
+
+    for session in cycle(range(10)):
+
+        words_seen_in_current = {}
+
+        current_deck = decks['current']
+
+        for verb in sample(current_deck, len(current_deck)):
+            words_seen_in_current[verb] = ask_verb(conjugations, verb, mode, time)
+
+        for progress_id, progress_deck in decks['progress'].items():
+            if str(session) in progress_id:
+                words_seen_in_progress = {}
+                for verb in sample(progress_deck, len(progress_deck)):
+                    words_seen_in_progress[verb] = ask_verb(conjugations, verb, mode, time)
+
+                if str(session) == progress_id[-1]:
                     for verb, right in words_seen_in_progress.items():
-                        if not right:
+                        if right:
                             progress_deck.remove(verb)
-                            self.decks['current'].append(verb)
+                            decks['retired'].append(verb)
 
-            for verb, right in words_seen_in_current.items():
-                if right:
-                    self._put_in_progress(session, verb)
-                    self.decks['current'].remove(verb)
+                for verb, right in words_seen_in_progress.items():
+                    if not right:
+                        progress_deck.remove(verb)
+                        decks['current'].append(verb)
 
-            if len(self.decks['current']) < self._min_current_deck_size:
-                n_verbs_to_add = self._min_current_deck_size - len(self.decks['current'])
-                prev_idx = self._current_verbs_index
-                self._current_verbs_index += n_verbs_to_add
-                self.decks['current'].extend(self.verbs[prev_idx: self._current_verbs_index])
+        for verb, right in words_seen_in_current.items():
+            if right:
+                put_in_progress(decks, session, verb)
+                decks['current'].remove(verb)
 
-            self._print_summary()
-            save_reviewer(self)
+        if len(decks['current']) < min_current_deck_size:
+            n_verbs_to_add = min_current_deck_size - len(decks['current'])
+            prev_idx = current_verbs_index
+            current_verbs_index += n_verbs_to_add
+            decks['current'].extend(verbs[prev_idx: current_verbs_index])
 
-    def _get_words_in_progress(self):
-        return [word for words in self.decks['progress'].values() for word in words]
+        print_summary(decks)
 
-    def _print_summary(self):
-        print()
-        print(colored("=== SUMMARY ===", 'blue'))
-        print(colored(f"words in current: {len(self.decks['current'])}", 'blue'))
-        print(colored(f"words in progress: {len(self._get_words_in_progress())}", 'blue'))
-        print(colored(f"words learned: {len(self.decks['retired'])}", 'blue'))
-
-    def _put_in_progress(self, session, word):
-        self.decks['progress'][get_seq(session)].append(word)
-
-    def _ask_verb(self, verb, mode, time):
-        persons = ('eu', 'ele/ela', 'nós', 'eles/elas')
-
-        print()
-        print(colored(f"conjugate {verb}", 'yellow'))
-
-        answers = []
-        for person in persons:
-            try:
-                user_answer = input(f"{person}: ")
-            except UnicodeDecodeError:
-                user_answer = ''
-
-            right_answer = self.conjugations[verb][mode][time][person]
-
-            sys.stdout.write("\033[F")
-
-            if user_answer == right_answer:
-                print(f"{person}:", colored(f"{right_answer}", 'green'))
-            else:
-                print(f"{person:}:",
-                      colored(f"{user_answer}", 'red'),
-                      " right answer:",
-                      colored(right_answer, 'green'))
-
-            answers.append(user_answer)
-
-        return all(answers)
+        state = {
+            'name': name,
+            'decks': decks,
+            'current_verbs_index': current_verbs_index,
+            'min_current_deck_size': min_current_deck_size
+        }
+        save_reviewer(state)
 
 
-def is_file(filename):
+def is_file(filename: str):
     users = os.listdir('users')
     for user in users:
         if user.split('.')[0] == filename:
@@ -161,11 +174,8 @@ def is_file(filename):
 
 def main():
     name = input("what's your name? ")
-    if is_file(name):
-        reviewer = load_reviewer(name)
-    else:
-        reviewer = Reviewer(name)
-    reviewer.start()
+    state = load_reviewer(name) if is_file(name) else create_state(name)
+    start(**state)
 
 
 if __name__ == '__main__':
