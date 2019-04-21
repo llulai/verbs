@@ -1,38 +1,38 @@
 import sys
+import csv
+import json
 import os
-import pickle
 from random import sample
 from itertools import cycle
-import pandas as pd
 from termcolor import colored
 
 # todo: start with regular verbs
 # todo: log results
 # todo: extend for other times/modes
+# todo: retake on same session
+# todo: deck by mode/time
+# todo: remove non brazilian times
+# todo: simplify person 1s 1p 3s 3p
 
 
-def get_conjugations():
+def read_json(filename: str):
+    """read json file"""
+    with open(f'{filename}.json', 'r') as file:
+        return json.loads(file.read())
+
+
+def get_conjugations() -> dict:
     """get the conjugations for the top 100 verbs"""
-    conjugations = {}
-
-    for verb, verb_df in pd.read_csv('top_100_pt.csv').groupby('infinitive'):
-        conjugations[verb] = {}
-        for mode, mode_df in verb_df.groupby('mode'):
-            conjugations[verb][mode] = {}
-            for time, time_df in mode_df.groupby('time'):
-                conjugations[verb][mode][time] = {}
-                for pers, pers_df in time_df.groupby('pess'):
-                    conjugations[verb][mode][time][pers] = pers_df.conj.values[0]
-
-    return conjugations
+    return read_json('conjugations')
 
 
-def get_verbs():
+def get_verbs() -> list:
     """get the top 1000 verbs"""
-    return pd.read_csv('top_1000_verbs_pt.csv').verbs.values
+    with open('verbs.csv', newline='') as csv_file:
+        return [word[0] for word in csv.reader(csv_file, delimiter=',')]
 
 
-def get_seq(i):
+def get_seq(i: int) -> str:
     """get the id for the deck given the index of it"""
     nums = ''.join([str(i) for i in range(10)])
     out = [nums[i]]
@@ -42,7 +42,7 @@ def get_seq(i):
     return ''.join(out)
 
 
-def create_decks(verbs, idx):
+def create_decks(verbs: list, idx: int) -> dict:
     """create default decks"""
     return {
         'current': list(verbs[:idx]),
@@ -59,21 +59,21 @@ def create_state(name: str) -> dict:
                 current_verbs_index=3)
 
 
-def save_state(state: dict):
+def save_state(state: dict) -> None:
     """save the current state"""
-    with open(f"users/{state['name']}.pickle", 'wb') as file:
-        pickle.dump(state, file, pickle.HIGHEST_PROTOCOL)
+    with open(f"users/{state['name']}.json", 'w') as file:
+        json.dump(state, file, indent=2)
 
 
-def load_state(filename):
+def load_state(filename: str) -> dict:
     """load the current state"""
-    with open(f"users/{filename}.pickle", 'rb') as file:
-        return pickle.load(file)
+    return read_json(f"users/{filename}")
 
 
-def ask_verb(conjugations, verb, mode, time):
+def ask_verb(conjugations, verb, mode, time) -> bool:
     """ask the given verb conjugations, given the mode and time"""
-    persons = ('eu', 'ele/ela', 'nós', 'eles/elas')
+    # todo: pass only relevant conjugations
+    persons = ('1s', '3s', '1p', '3p')
 
     print()
     print(colored(f"conjugate {verb}", 'yellow'))
@@ -102,12 +102,12 @@ def ask_verb(conjugations, verb, mode, time):
     return all(answers)
 
 
-def get_words_in_progress(decks):
+def get_words_in_progress(decks: dict) -> list:
     """get words that are in progress decks"""
     return [word for words in decks['progress'].values() for word in words]
 
 
-def print_summary(decks: dict):
+def print_summary(decks: dict) -> None:
     """prints a summary of the current state"""
     print()
     print(colored("=== SUMMARY ===", 'blue'))
@@ -116,15 +116,15 @@ def print_summary(decks: dict):
     print(colored(f"words learned: {len(decks['retired'])}", 'blue'))
 
 
-def put_in_progress(decks: dict, session: int, word: str):
+def put_in_progress(decks: dict, session: int, word: str) -> None:
     """puts the given word in the progress deck given the session"""
     decks['progress'][get_seq(session)].append(word)
 
 
 def start(name: str, decks: dict, current_verbs_index=3, min_current_deck_size=3):
     """start the main loop"""
-    mode = 'indicativo'
-    time = 'presente'
+    mode = 'ind'
+    time = 'p'
     verbs = get_verbs()
     conjugations = get_conjugations()
 
@@ -153,7 +153,7 @@ def start(name: str, decks: dict, current_verbs_index=3, min_current_deck_size=3
         save_state(state)
 
 
-def review_progress_deck(conjugations, decks, mode, session, time):
+def review_progress_deck(conjugations, decks, mode, session, time) -> None:
     """review the progress deck"""
     for progress_id, progress_deck in decks['progress'].items():
         if str(session) in progress_id:
@@ -173,7 +173,7 @@ def review_progress_deck(conjugations, decks, mode, session, time):
                     decks['current'].append(verb)
 
 
-def review_current_deck(conjugations, decks, mode, time):
+def review_current_deck(conjugations, decks, mode, time) -> dict:
     """review the current deck"""
     words_seen_in_current = {}
     current_deck = decks['current']
@@ -182,7 +182,7 @@ def review_current_deck(conjugations, decks, mode, time):
     return words_seen_in_current
 
 
-def add_verbs_to_current(current_verbs_index, decks, min_current_deck_size, verbs):
+def add_verbs_to_current(current_verbs_index, decks, min_current_deck_size, verbs) -> int:
     """add new verbs to current deck"""
     if len(decks['current']) < min_current_deck_size:
         n_verbs_to_add = min_current_deck_size - len(decks['current'])
@@ -192,7 +192,7 @@ def add_verbs_to_current(current_verbs_index, decks, min_current_deck_size, verb
     return current_verbs_index
 
 
-def put_right_in_progress(decks, session, words_seen_in_current):
+def put_right_in_progress(decks, session, words_seen_in_current) -> None:
     """put the verbs reviewed in the progress deck"""
     for verb, right in words_seen_in_current.items():
         if right:
@@ -200,7 +200,7 @@ def put_right_in_progress(decks, session, words_seen_in_current):
             decks['current'].remove(verb)
 
 
-def is_file(filename: str):
+def is_file(filename: str) -> bool:
     """returns True if there is a state with the given name"""
     users = os.listdir('users')
     for user in users:
