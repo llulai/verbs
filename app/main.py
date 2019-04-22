@@ -2,14 +2,21 @@ import sys
 import csv
 import json
 import os
+import dataclasses
 from dataclasses import dataclass
 from random import sample
-from itertools import cycle
 from termcolor import colored
 from PyInquirer import prompt
 import colorama
 
 colorama.init()
+
+
+class EnhancedJSONEncoder(json.JSONEncoder):
+    def default(self, o):
+        if dataclasses.is_dataclass(o):
+            return dataclasses.asdict(o)
+        return super().default(o)
 
 
 @dataclass
@@ -44,6 +51,10 @@ class State:
     time: str
     decks: Decks
     current_verbs_index: int
+    current_session: int
+
+    def next_session(self):
+        self.current_session = (self.current_session + 1) % 10
 
 
 @dataclass
@@ -124,13 +135,14 @@ def create_state(pre_state, idx=3) -> State:
                  mode=pre_state['mode'],
                  time=pre_state['time'],
                  decks=create_decks(get_verb_list(pre_state['lang']), idx),
-                 current_verbs_index=idx)
+                 current_verbs_index=idx,
+                 current_session=0)
 
 
 def save_state(state: State) -> None:
     """save the current state"""
     with open(f"users/{state.name}_{state.lang}_{state.time}.json", 'w') as file:
-        json.dump(state, file, indent=2)
+        json.dump(state, file, indent=2, cls=EnhancedJSONEncoder)
 
 
 def load_state(pre_state) -> dict:
@@ -179,35 +191,40 @@ def print_summary(state: State) -> None:
     print(colored(f"words learned: {len(state.decks.retired)}", 'blue'))
 
 
-def put_in_progress(session: int, word: str, state: State) -> None:
+def put_in_progress(word: str, state: State) -> None:
     """puts the given word in the progress deck given the session"""
-    state.decks.progress[get_seq(session)].append(word)
+    state.decks.progress[get_seq(state.current_session)].append(word)
+
+def main_loop(state: State, verbs: Verbs) -> None:
+    words_seen_in_current = review_current_deck(state, verbs)
+    review_progress_deck(state, verbs)
+    put_right_in_progress(words_seen_in_current, state)
+    add_verbs_to_current(state, verbs)
+
+    print_summary(state)
+    state.next_session()
+    save_state(state)
 
 
 def start(state: State):
     """start the main loop"""
     verbs = get_verbs(state)
 
-    for session in cycle(range(10)):
-
-        words_seen_in_current = review_current_deck(state, verbs)
-        review_progress_deck(session, state, verbs)
-        put_right_in_progress(session, words_seen_in_current, state)
-        add_verbs_to_current(state, verbs)
-
-        print_summary(state)
-        save_state(state)
+    while True:
+        main_loop(state, verbs)
 
 
-def review_progress_deck(session: int, state: State, verbs: Verbs) -> None:
+
+
+def review_progress_deck(state: State, verbs: Verbs) -> None:
     """review the progress deck"""
     for progress_id, progress_deck in state.decks.progress.items():
-        if str(session) in progress_id:
+        if str(state.current_session) in progress_id:
             words_seen_in_progress = {}
             for verb in sample(progress_deck, len(progress_deck)):
                 words_seen_in_progress[verb] = ask_verb(verb, verbs)
 
-            if str(session) == progress_id[-1]:
+            if str(state.current_session) == progress_id[-1]:
                 for verb, right in words_seen_in_progress.items():
                     if right:
                         progress_deck.remove(verb)
@@ -233,11 +250,11 @@ def add_verbs_to_current(state: State, verbs: Verbs) -> None:
         state.decks.current.deck.extend(verbs.verbs[prev_idx: state.current_verbs_index])
 
 
-def put_right_in_progress(session: int, words_seen_in_current: dict, state: State) -> None:
+def put_right_in_progress(words_seen_in_current: dict, state: State) -> None:
     """put the verbs reviewed in the progress deck"""
     for verb, right in words_seen_in_current.items():
         if right:
-            put_in_progress(session, verb, state)
+            put_in_progress(verb, state)
             state.decks.current.deck.remove(verb)
 
 
