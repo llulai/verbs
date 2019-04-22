@@ -1,0 +1,19 @@
+{
+  "ind": {
+    "presente": "p",
+    "pret\u00e9rito perfeito": "pp",
+    "futuro do presente": "fdpres",
+    "futuro do pret\u00e9rito": "fdpret",
+    "pret\u00e9rito imperfeito": "pi",
+    "pret\u00e9rito mais que perfeito": "pmqp"
+  },
+  "sub": {
+    "presente": "p",
+    "pret\u00e9rito imperfeito": "pi",
+    "futuro": "f"
+  },
+  "imp": {
+    "afirmativo": "af",
+    "negativo": "neg"
+  }
+}

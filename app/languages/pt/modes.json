@@ -1,10 +1,32 @@
 {
-  "pt": {
-    "indicativo": "ind",
-    "subjuntivo": "sub",
-    "imperativo": "imp",
-    "ger\u00fandio": "ger",
-    "partic\u00edpio": "par",
-    "infinitivo pessoal": "ip"
+  "ind": {
+    "name": "indicativo",
+    "has_times": true,
+    "persons" : ["1s", "3s", "1p", "3p"]
+  },
+  "sub": {
+    "name": "subjuntivo",
+    "has_times": true,
+    "persons" : ["1s", "3s", "1p", "3p"]
+  },
+  "imp": {
+    "name": "imperativo",
+    "has_times": true,
+    "persons" : ["3s", "1p", "3p"]
+  },
+  "ger": {
+    "name": "ger\u00fandio",
+    "has_times": false,
+    "persons" : []
+  },
+  "par": {
+    "name": "partic\u00edpio",
+    "has_times": false,
+    "persons" : []
+  },
+  "ip": {
+    "name": "infinitivo pessoal",
+    "has_times": false,
+    "persons" : ["1s", "3s", "1p", "3p"]
   }
 }

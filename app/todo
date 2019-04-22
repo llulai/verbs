@@ -6,5 +6,8 @@
 [] retake on same session
 
 [] add spanish
-[] add brazilian portuguese
-[] add other modes
+[X] add brazilian portuguese
+[X] add other modes
+[] person translation to json
+[] save conjugations by mode>time>verb>person
+[] refactor long functions

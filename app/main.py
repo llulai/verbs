@@ -82,38 +82,36 @@ def read_json(filename: str):
 
 def get_conjugations(lang: str, mode: str, time: str) -> Conjugations:
     """get the conjugations for the top 100 verbs"""
-    # todo: only the given mode/time
     all_conjugations = read_json(f'languages/{lang}/conjugations')
+    modes_dict = read_json(f'languages/{lang}/modes')
 
-    if time in {'af', 'n'}:
-        persons = ('3s', '1p', '3p')
-    else:
-        persons = ('1s', '3s', '1p', '3p')
+    mode_spec = modes_dict[mode]
 
-    if mode != time:
+    if mode_spec['has_times']:
         return Conjugations(lang=lang,
                             has_time=True,
-                            has_persons=True,
+                            has_persons=mode_spec['persons'] != [],
                             conjugations={verb:{person:conj
-                                                for person, conj in all_conjugations[verb][mode][time].items()}
-                                          for verb in all_conjugations },
-                            persons=persons)
-    if mode in {'ger', 'par'}:
-        return Conjugations(lang=lang,
-                            has_time=False,
-                            has_persons=False,
-                            conjugations={verb: all_conjugations[verb][mode] for verb in all_conjugations},
-                            persons=tuple())
-    if mode == 'ip':
+                                                for person, conj
+                                                in all_conjugations[verb][mode][time].items()}
+                                          for verb in all_conjugations},
+                            persons=mode_spec['persons'])
+
+    if mode_spec['persons']:
         return Conjugations(lang=lang,
                             has_time=False,
                             has_persons=True,
-                            conjugations={verb: {person: conj for person, conj in all_conjugations[verb][mode].items()}
+                            conjugations={verb: {person: conj
+                                                 for person, conj
+                                                 in all_conjugations[verb][mode].items()}
                                           for verb in all_conjugations},
-                            persons=persons)
-    else:
-        raise AttributeError
-
+                            persons=mode_spec['persons'])
+    return Conjugations(lang=lang,
+                        has_time=False,
+                        has_persons=False,
+                        conjugations={verb: all_conjugations[verb][mode]
+                                      for verb in all_conjugations},
+                        persons=tuple())
 
 
 def get_verb_list(lang: str) -> list:
@@ -242,13 +240,14 @@ def print_summary(state: State) -> None:
     print()
     print(colored("=== SUMMARY ===", 'blue'))
     print(colored(f"words in current: {state.decks.current.len}", 'blue'))
-    print(colored(f"words in progress: {state.decks.get_words_in_progress()}", 'blue'))
+    print(colored(f"words in progress: {len(state.decks.get_words_in_progress())}", 'blue'))
     print(colored(f"words learned: {len(state.decks.retired)}", 'blue'))
 
 
 def put_in_progress(word: str, state: State) -> None:
     """puts the given word in the progress deck given the session"""
     state.decks.progress[get_seq(state.current_session)].append(word)
+
 
 def main_loop(state: State, verbs: Verbs) -> None:
     words_seen_in_current = review_current_deck(state, verbs)
@@ -267,8 +266,6 @@ def start(state: State):
 
     while True:
         main_loop(state, verbs)
-
-
 
 
 def review_progress_deck(state: State, verbs: Verbs) -> None:
@@ -348,49 +345,27 @@ def get_mode(lang: str) -> str:
         'name': 'mode',
         'type': 'list',
         'message': "what mode?",
-        'choices': modes[lang].keys()
+        'choices': [mode['name'] for mode in modes.values()]
     })
 
-    return modes[lang][answer['mode']]
+    return [k for k, mode in modes.items() if answer['mode'] == mode['name']][0]
 
 
 def get_time(lang: str, mode: str) -> str:
 
-    if lang == 'pt' and mode in {'ger', 'par', 'ip'}:
+    times = read_json(f"languages/{lang}/times")
+
+    if mode not in times:
         return mode
-
-    times = {
-        'pt': {
-            'ind': {
-                'presente': 'p',
-                'pretérito perfeito': 'pp',
-                'futuro do presente': 'fdpres',
-                'futuro do pretérito': 'fdpret',
-                'pretérito imperfeito': 'pi',
-                'pretérito mais que perfeito': 'pmqp'
-            },
-            'sub': {
-                'presente': 'p',
-                'pretérito imperfeito': 'pi',
-                'futuro': 'f'
-            },
-            'imp': {
-                'afirmativo': 'af',
-                'negativo': 'neg'
-            }
-        }
-    }
-
-
 
     answer = prompt({
         'name': 'time',
         'type': 'list',
         'message': "what time?",
-        'choices': times[lang][mode].keys()
+        'choices': times[mode].keys()
     })
 
-    return times[lang][mode][answer['time']]
+    return times[mode][answer['time']]
 
 
 def get_pre_state() -> dict:
