@@ -5,14 +5,7 @@ import os
 from random import sample
 from itertools import cycle
 from termcolor import colored
-
-# todo: start with regular verbs
-# todo: log results
-# todo: extend for other times/modes
-# todo: retake on same session
-# todo: deck by mode/time
-# todo: remove non brazilian times
-# todo: simplify person 1s 1p 3s 3p
+from PyInquirer import prompt
 
 
 def read_json(filename: str):
@@ -21,15 +14,30 @@ def read_json(filename: str):
         return json.loads(file.read())
 
 
-def get_conjugations() -> dict:
+def get_conjugations(lang: str) -> dict:
     """get the conjugations for the top 100 verbs"""
-    return read_json('conjugations')
+    return read_json(f'languages/{lang}/conjugations')
 
 
-def get_verbs() -> list:
+def get_verbs(lang: str) -> list:
     """get the top 1000 verbs"""
-    with open('verbs.csv', newline='') as csv_file:
+    with open(f'languages/{lang}/verbs.csv', newline='') as csv_file:
         return [word[0] for word in csv.reader(csv_file, delimiter=',')]
+
+
+def get_pers_trans(lang: str) -> dict:
+    trans = {
+        'pt': {
+            '1s': 'eu',
+            '2s': 'tu',
+            '3s': 'você/ele/ela',
+            '1p': 'nós',
+            '2p': 'vós',
+            '3p': 'vocês/eles/elas'
+        }
+    }
+
+    return trans[lang]
 
 
 def get_seq(i: int) -> str:
@@ -51,28 +59,34 @@ def create_decks(verbs: list, idx: int) -> dict:
     }
 
 
-def create_state(name: str) -> dict:
+def has_state(pre_state):
+    return is_file(f"{pre_state['name']}_{pre_state['lang']}")
+
+
+def create_state(pre_state) -> dict:
     """create default state"""
-    return dict(name=name,
-                decks=create_decks(get_verbs(), 3),
+    return dict(name=pre_state['name'],
+                lang=pre_state['lang'],
+                mode=pre_state['mode'],
+                time=pre_state['time'],
+                decks=create_decks(get_verbs(pre_state['lang']), 3),
                 min_current_deck_size=3,
                 current_verbs_index=3)
 
 
 def save_state(state: dict) -> None:
     """save the current state"""
-    with open(f"users/{state['name']}.json", 'w') as file:
+    with open(f"users/{state['name']}_{state['lang']}_{state['time']}.json", 'w') as file:
         json.dump(state, file, indent=2)
 
 
-def load_state(filename: str) -> dict:
+def load_state(pre_state) -> dict:
     """load the current state"""
-    return read_json(f"users/{filename}")
+    return read_json(f"users/{pre_state['name']}_{pre_state['lang']}")
 
 
-def ask_verb(conjugations, verb, mode, time) -> bool:
+def ask_verb(conjugations, verb: str, mode: str, time: str, pers_trasn: dict) -> bool:
     """ask the given verb conjugations, given the mode and time"""
-    # todo: pass only relevant conjugations
     persons = ('1s', '3s', '1p', '3p')
 
     print()
@@ -81,7 +95,7 @@ def ask_verb(conjugations, verb, mode, time) -> bool:
     answers = []
     for person in persons:
         try:
-            user_answer = input(f"{person}: ")
+            user_answer = input(f"{pers_trasn[person]}: ")
         except UnicodeDecodeError:
             user_answer = ''
 
@@ -90,9 +104,9 @@ def ask_verb(conjugations, verb, mode, time) -> bool:
         sys.stdout.write("\033[F")
 
         if user_answer == right_answer:
-            print(f"{person}:", colored(f"{right_answer}", 'green'))
+            print(f"{pers_trasn[person]}:", colored(f"{right_answer}", 'green'))
         else:
-            print(f"{person:}:",
+            print(f"{pers_trasn[person]:}:",
                   colored(f"{user_answer}", 'red'),
                   " right answer:",
                   colored(right_answer, 'green'))
@@ -121,18 +135,22 @@ def put_in_progress(decks: dict, session: int, word: str) -> None:
     decks['progress'][get_seq(session)].append(word)
 
 
-def start(name: str, decks: dict, current_verbs_index=3, min_current_deck_size=3):
+def start(state: dict):
     """start the main loop"""
-    mode = 'ind'
-    time = 'p'
-    verbs = get_verbs()
-    conjugations = get_conjugations()
+    decks = state['decks']
+    current_verbs_index = state['current_verbs_index']
+    min_current_deck_size = state['min_current_deck_size']
+    mode = state['mode']
+    time = state['time']
+    verbs = get_verbs(state['lang'])
+    conjugations = get_conjugations(state['lang'])
+    pers_trans = get_pers_trans(state['lang'])
 
     for session in cycle(range(10)):
 
-        words_seen_in_current = review_current_deck(conjugations, decks, mode, time)
+        words_seen_in_current = review_current_deck(conjugations, decks, mode, time, pers_trans)
 
-        review_progress_deck(conjugations, decks, mode, session, time)
+        review_progress_deck(conjugations, decks, mode, session, time, pers_trans)
 
         put_right_in_progress(decks, session, words_seen_in_current)
 
@@ -142,24 +160,16 @@ def start(name: str, decks: dict, current_verbs_index=3, min_current_deck_size=3
                                                    verbs)
 
         print_summary(decks)
-
-        state = {
-            'name': name,
-            'decks': decks,
-            'current_verbs_index': current_verbs_index,
-            'min_current_deck_size': min_current_deck_size
-        }
-
         save_state(state)
 
 
-def review_progress_deck(conjugations, decks, mode, session, time) -> None:
+def review_progress_deck(conjugations, decks, mode, session, time, pers_trans) -> None:
     """review the progress deck"""
     for progress_id, progress_deck in decks['progress'].items():
         if str(session) in progress_id:
             words_seen_in_progress = {}
             for verb in sample(progress_deck, len(progress_deck)):
-                words_seen_in_progress[verb] = ask_verb(conjugations, verb, mode, time)
+                words_seen_in_progress[verb] = ask_verb(conjugations, verb, mode, time, pers_trans)
 
             if str(session) == progress_id[-1]:
                 for verb, right in words_seen_in_progress.items():
@@ -173,12 +183,12 @@ def review_progress_deck(conjugations, decks, mode, session, time) -> None:
                     decks['current'].append(verb)
 
 
-def review_current_deck(conjugations, decks, mode, time) -> dict:
+def review_current_deck(conjugations, decks, mode, time, pers_trans) -> dict:
     """review the current deck"""
     words_seen_in_current = {}
     current_deck = decks['current']
     for verb in sample(current_deck, len(current_deck)):
-        words_seen_in_current[verb] = ask_verb(conjugations, verb, mode, time)
+        words_seen_in_current[verb] = ask_verb(conjugations, verb, mode, time, pers_trans)
     return words_seen_in_current
 
 
@@ -209,11 +219,80 @@ def is_file(filename: str) -> bool:
     return False
 
 
+def get_lang() -> str:
+    question = {
+        'name': 'lang',
+        'type': 'list',
+        'message': "what language would you like to study?",
+        'choices': ['pt', 'es', 'it', 'fr']
+    }
+
+    return prompt(question)['lang']
+
+
+def get_name() -> str:
+    return prompt({
+        'name': 'name',
+        'type': 'input',
+        'message': "what's your name?"
+    })['name']
+
+
+def get_mode(lang: str) -> str:
+    modes = {
+        'indicativo': 'ind',
+        'subjuntivo': 'sub'
+    }
+    answer = prompt({
+        'name': 'mode',
+        'type': 'list',
+        'message': "what mode?",
+        'choices': modes.keys()
+    })
+
+    return modes[answer['mode']]
+
+
+def get_time(mode: str) -> str:
+    times = {
+        'presente': 'p',
+        'pretérito perfeito': 'pp',
+        'futuro do presente': 'fdpres',
+        'futuro do pretérito': 'fdpret',
+        'pretérito imperfeito': 'pi',
+        'pretérito mais que perfeito': 'pmqp'
+    }
+
+    answer = prompt({
+        'name': 'time',
+        'type': 'list',
+        'message': "what time?",
+        'choices': times.keys()
+    })
+
+    return times[answer['time']]
+
+
+def get_pre_state() -> dict:
+    name = get_name()
+    lang = get_lang()
+    mode = get_mode(lang)
+    time = get_time(mode)
+
+    return dict(
+        name=name,
+        lang=lang,
+        mode=mode,
+        time=time
+    )
+
+
 def main():
     """runs the main program"""
-    name = input("what's your name? ")
-    state = load_state(name) if is_file(name) else create_state(name)
-    start(**state)
+    pre_state = get_pre_state()
+    state = load_state(pre_state) if has_state(pre_state) else create_state(pre_state)
+
+    start(state)
 
 
 if __name__ == '__main__':
