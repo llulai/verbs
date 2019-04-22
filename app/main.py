@@ -7,6 +7,9 @@ from random import sample
 from itertools import cycle
 from termcolor import colored
 from PyInquirer import prompt
+import colorama
+
+colorama.init()
 
 
 @dataclass
