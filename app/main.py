@@ -342,16 +342,7 @@ def get_name() -> str:
 
 
 def get_mode(lang: str) -> str:
-    modes = {
-        'pt': {
-            'indicativo': 'ind',
-            'subjuntivo': 'sub',
-            'imperativo': 'imp',
-            'gerúndio': 'ger',
-            'particípio': 'par',
-            'infinitivo pessoal': 'ip'
-        }
-    }
+    modes = read_json(f"languages/{lang}/modes")
 
     answer = prompt({
         'name': 'mode',
