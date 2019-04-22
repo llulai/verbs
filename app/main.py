@@ -2,10 +2,54 @@ import sys
 import csv
 import json
 import os
+from dataclasses import dataclass
 from random import sample
 from itertools import cycle
 from termcolor import colored
 from PyInquirer import prompt
+
+
+@dataclass
+class CurrentDeck:
+    min_size: int
+    deck: list
+
+    @property
+    def len(self) -> int:
+        return len(self.deck)
+
+    @property
+    def random(self) -> list:
+        return sample(self.deck, self.len)
+
+
+@dataclass
+class Decks:
+    current: CurrentDeck
+    progress: dict
+    retired: list
+
+    def get_words_in_progress(self) -> list:
+        return [word for words in self.progress.values() for word in words]
+
+
+@dataclass
+class State:
+    name: str
+    lang: str
+    mode: str
+    time: str
+    decks: Decks
+    current_verbs_index: int
+
+
+@dataclass
+class Verbs:
+    verbs: list
+    mode: str
+    time: str
+    conjugations: dict
+    pers_trans: dict
 
 
 def read_json(filename: str):
@@ -16,13 +60,22 @@ def read_json(filename: str):
 
 def get_conjugations(lang: str) -> dict:
     """get the conjugations for the top 100 verbs"""
+    # todo: only the given mode/time
     return read_json(f'languages/{lang}/conjugations')
 
 
-def get_verbs(lang: str) -> list:
+def get_verb_list(lang: str) -> list:
     """get the top 1000 verbs"""
     with open(f'languages/{lang}/verbs.csv', newline='') as csv_file:
         return [word[0] for word in csv.reader(csv_file, delimiter=',')]
+
+
+def get_verbs(state: State) -> Verbs:
+    return Verbs(verbs=get_verb_list(state.lang),
+                 conjugations=get_conjugations(state.lang),
+                 pers_trans=get_pers_trans(state.lang),
+                 mode=state.mode,
+                 time=state.time)
 
 
 def get_pers_trans(lang: str) -> dict:
@@ -50,33 +103,30 @@ def get_seq(i: int) -> str:
     return ''.join(out)
 
 
-def create_decks(verbs: list, idx: int) -> dict:
+def create_decks(verbs: list, idx: int) -> Decks:
     """create default decks"""
-    return {
-        'current': list(verbs[:idx]),
-        'progress': {get_seq(i): [] for i in range(10)},
-        'retired': []
-    }
+    return Decks(current=CurrentDeck(deck=verbs[:idx], min_size=3),
+                 progress={get_seq(i): [] for i in range(10)},
+                 retired=[])
 
 
 def has_state(pre_state):
     return is_file(f"{pre_state['name']}_{pre_state['lang']}")
 
 
-def create_state(pre_state) -> dict:
+def create_state(pre_state, idx=3) -> State:
     """create default state"""
-    return dict(name=pre_state['name'],
-                lang=pre_state['lang'],
-                mode=pre_state['mode'],
-                time=pre_state['time'],
-                decks=create_decks(get_verbs(pre_state['lang']), 3),
-                min_current_deck_size=3,
-                current_verbs_index=3)
+    return State(name=pre_state['name'],
+                 lang=pre_state['lang'],
+                 mode=pre_state['mode'],
+                 time=pre_state['time'],
+                 decks=create_decks(get_verb_list(pre_state['lang']), idx),
+                 current_verbs_index=idx)
 
 
-def save_state(state: dict) -> None:
+def save_state(state: State) -> None:
     """save the current state"""
-    with open(f"users/{state['name']}_{state['lang']}_{state['time']}.json", 'w') as file:
+    with open(f"users/{state.name}_{state.lang}_{state.time}.json", 'w') as file:
         json.dump(state, file, indent=2)
 
 
@@ -85,7 +135,7 @@ def load_state(pre_state) -> dict:
     return read_json(f"users/{pre_state['name']}_{pre_state['lang']}")
 
 
-def ask_verb(conjugations, verb: str, mode: str, time: str, pers_trasn: dict) -> bool:
+def ask_verb(verb: str, verbs: Verbs) -> bool:
     """ask the given verb conjugations, given the mode and time"""
     persons = ('1s', '3s', '1p', '3p')
 
@@ -95,18 +145,19 @@ def ask_verb(conjugations, verb: str, mode: str, time: str, pers_trasn: dict) ->
     answers = []
     for person in persons:
         try:
-            user_answer = input(f"{pers_trasn[person]}: ")
+            user_answer = input(f"{verbs.pers_trans[person]}: ")
         except UnicodeDecodeError:
             user_answer = ''
 
-        right_answer = conjugations[verb][mode][time][person]
+        # todo: change when less data is loaded
+        right_answer = verbs.conjugations[verb][verbs.mode][verbs.time][person]
 
         sys.stdout.write("\033[F")
 
         if user_answer == right_answer:
-            print(f"{pers_trasn[person]}:", colored(f"{right_answer}", 'green'))
+            print(f"{verbs.pers_trans[person]}:", colored(f"{right_answer}", 'green'))
         else:
-            print(f"{pers_trasn[person]:}:",
+            print(f"{verbs.pers_trans[person]:}:",
                   colored(f"{user_answer}", 'red'),
                   " right answer:",
                   colored(right_answer, 'green'))
@@ -116,98 +167,75 @@ def ask_verb(conjugations, verb: str, mode: str, time: str, pers_trasn: dict) ->
     return all(answers)
 
 
-def get_words_in_progress(decks: dict) -> list:
-    """get words that are in progress decks"""
-    return [word for words in decks['progress'].values() for word in words]
-
-
-def print_summary(decks: dict) -> None:
+def print_summary(state: State) -> None:
     """prints a summary of the current state"""
     print()
     print(colored("=== SUMMARY ===", 'blue'))
-    print(colored(f"words in current: {len(decks['current'])}", 'blue'))
-    print(colored(f"words in progress: {len(get_words_in_progress(decks))}", 'blue'))
-    print(colored(f"words learned: {len(decks['retired'])}", 'blue'))
+    print(colored(f"words in current: {state.decks.current.len}", 'blue'))
+    print(colored(f"words in progress: {state.decks.get_words_in_progress()}", 'blue'))
+    print(colored(f"words learned: {len(state.decks.retired)}", 'blue'))
 
 
-def put_in_progress(decks: dict, session: int, word: str) -> None:
+def put_in_progress(session: int, word: str, state: State) -> None:
     """puts the given word in the progress deck given the session"""
-    decks['progress'][get_seq(session)].append(word)
+    state.decks.progress[get_seq(session)].append(word)
 
 
-def start(state: dict):
+def start(state: State):
     """start the main loop"""
-    decks = state['decks']
-    current_verbs_index = state['current_verbs_index']
-    min_current_deck_size = state['min_current_deck_size']
-    mode = state['mode']
-    time = state['time']
-    verbs = get_verbs(state['lang'])
-    conjugations = get_conjugations(state['lang'])
-    pers_trans = get_pers_trans(state['lang'])
+    verbs = get_verbs(state)
 
     for session in cycle(range(10)):
 
-        words_seen_in_current = review_current_deck(conjugations, decks, mode, time, pers_trans)
+        words_seen_in_current = review_current_deck(state, verbs)
+        review_progress_deck(session, state, verbs)
+        put_right_in_progress(session, words_seen_in_current, state)
+        add_verbs_to_current(state, verbs)
 
-        review_progress_deck(conjugations, decks, mode, session, time, pers_trans)
-
-        put_right_in_progress(decks, session, words_seen_in_current)
-
-        current_verbs_index = add_verbs_to_current(current_verbs_index,
-                                                   decks,
-                                                   min_current_deck_size,
-                                                   verbs)
-
-        print_summary(decks)
+        print_summary(state)
         save_state(state)
 
 
-def review_progress_deck(conjugations, decks, mode, session, time, pers_trans) -> None:
+def review_progress_deck(session: int, state: State, verbs: Verbs) -> None:
     """review the progress deck"""
-    for progress_id, progress_deck in decks['progress'].items():
+    for progress_id, progress_deck in state.decks.progress.items():
         if str(session) in progress_id:
             words_seen_in_progress = {}
             for verb in sample(progress_deck, len(progress_deck)):
-                words_seen_in_progress[verb] = ask_verb(conjugations, verb, mode, time, pers_trans)
+                words_seen_in_progress[verb] = ask_verb(verb, verbs)
 
             if str(session) == progress_id[-1]:
                 for verb, right in words_seen_in_progress.items():
                     if right:
                         progress_deck.remove(verb)
-                        decks['retired'].append(verb)
+                        state.decks.retired.append(verb)
 
             for verb, right in words_seen_in_progress.items():
                 if not right:
                     progress_deck.remove(verb)
-                    decks['current'].append(verb)
+                    state.decks.current.deck.append(verb)
 
 
-def review_current_deck(conjugations, decks, mode, time, pers_trans) -> dict:
+def review_current_deck(state: State, verbs: Verbs) -> dict:
     """review the current deck"""
-    words_seen_in_current = {}
-    current_deck = decks['current']
-    for verb in sample(current_deck, len(current_deck)):
-        words_seen_in_current[verb] = ask_verb(conjugations, verb, mode, time, pers_trans)
-    return words_seen_in_current
+    return {verb: ask_verb(verb, verbs) for verb in state.decks.current.random}
 
 
-def add_verbs_to_current(current_verbs_index, decks, min_current_deck_size, verbs) -> int:
+def add_verbs_to_current(state: State, verbs: Verbs) -> None:
     """add new verbs to current deck"""
-    if len(decks['current']) < min_current_deck_size:
-        n_verbs_to_add = min_current_deck_size - len(decks['current'])
-        prev_idx = current_verbs_index
-        current_verbs_index += n_verbs_to_add
-        decks['current'].extend(verbs[prev_idx: current_verbs_index])
-    return current_verbs_index
+    if len(state.decks.current.deck) < state.decks.current.min_size:
+        n_verbs_to_add = state.decks.current.min_size - len(state.decks.current.deck)
+        prev_idx = state.current_verbs_index
+        state.current_verbs_index += n_verbs_to_add
+        state.decks.current.deck.extend(verbs.verbs[prev_idx: state.current_verbs_index])
 
 
-def put_right_in_progress(decks, session, words_seen_in_current) -> None:
+def put_right_in_progress(session: int, words_seen_in_current: dict, state: State) -> None:
     """put the verbs reviewed in the progress deck"""
     for verb, right in words_seen_in_current.items():
         if right:
-            put_in_progress(decks, session, verb)
-            decks['current'].remove(verb)
+            put_in_progress(session, verb, state)
+            state.decks.current.deck.remove(verb)
 
 
 def is_file(filename: str) -> bool:
@@ -240,44 +268,63 @@ def get_name() -> str:
 
 def get_mode(lang: str) -> str:
     modes = {
-        'indicativo': 'ind',
-        'subjuntivo': 'sub'
+        'pt': {
+            'indicativo': 'ind',
+            'subjuntivo': 'sub'
+        }
     }
+
     answer = prompt({
         'name': 'mode',
         'type': 'list',
         'message': "what mode?",
-        'choices': modes.keys()
+        'choices': modes[lang].keys()
     })
 
-    return modes[answer['mode']]
+    return modes[lang][answer['mode']]
 
 
-def get_time(mode: str) -> str:
+def get_time(lang: str, mode: str) -> str:
     times = {
-        'presente': 'p',
-        'pretérito perfeito': 'pp',
-        'futuro do presente': 'fdpres',
-        'futuro do pretérito': 'fdpret',
-        'pretérito imperfeito': 'pi',
-        'pretérito mais que perfeito': 'pmqp'
+        'pt': {
+            'ind': {
+                'presente': 'p',
+                'pretérito perfeito': 'pp',
+                'futuro do presente': 'fdpres',
+                'futuro do pretérito': 'fdpret',
+                'pretérito imperfeito': 'pi',
+                'pretérito mais que perfeito': 'pmqp'
+            },
+            'sub': {
+                'presente': 'p',
+                'pretérito imperfeito': 'pi',
+                'futuro': 'f'
+            },
+            'imp': {
+                'afirmativo': 'af',
+                'negativo': 'neg'
+            },
+            'ap': {
+                'ap': 'ap'
+            }
+        }
     }
 
     answer = prompt({
         'name': 'time',
         'type': 'list',
         'message': "what time?",
-        'choices': times.keys()
+        'choices': times[lang][mode].keys()
     })
 
-    return times[answer['time']]
+    return times[lang][mode][answer['time']]
 
 
 def get_pre_state() -> dict:
     name = get_name()
     lang = get_lang()
     mode = get_mode(lang)
-    time = get_time(mode)
+    time = get_time(lang, mode)
 
     return dict(
         name=name,
