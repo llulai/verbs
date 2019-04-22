@@ -11,3 +11,4 @@
 [] person translation to json
 [] save conjugations by mode>time>verb>person
 [] refactor long functions
+[] check pyinquirer back menu

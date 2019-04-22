@@ -82,6 +82,7 @@ def read_json(filename: str):
 
 def get_conjugations(lang: str, mode: str, time: str) -> Conjugations:
     """get the conjugations for the top 100 verbs"""
+    # TODO extract conjugations
     all_conjugations = read_json(f'languages/{lang}/conjugations')
     modes_dict = read_json(f'languages/{lang}/modes')
 
@@ -161,6 +162,7 @@ def create_decks(verbs: list, idx: int) -> Decks:
 
 
 def has_state(pre_state):
+    # TODO fixme
     return is_file(f"{pre_state['name']}_{pre_state['lang']}")
 
 
@@ -183,11 +185,13 @@ def save_state(state: State) -> None:
 
 def load_state(pre_state) -> dict:
     """load the current state"""
+    # TODO fixme
     return read_json(f"users/{pre_state['name']}_{pre_state['lang']}")
 
 
 def ask_verb(verb: str, verbs: Verbs) -> bool:
     """ask the given verb conjugations, given the mode and time"""
+    # TODO refactor
     print()
     print(colored(f"conjugate {verb}", 'yellow'))
 
@@ -270,6 +274,7 @@ def start(state: State):
 
 def review_progress_deck(state: State, verbs: Verbs) -> None:
     """review the progress deck"""
+    # TODO refactor
     for progress_id, progress_deck in state.decks.progress.items():
         if str(state.current_session) in progress_id:
             words_seen_in_progress = {}
@@ -295,6 +300,7 @@ def review_current_deck(state: State, verbs: Verbs) -> dict:
 
 def add_verbs_to_current(state: State, verbs: Verbs) -> None:
     """add new verbs to current deck"""
+    # TODO refactor
     if len(state.decks.current.deck) < state.decks.current.min_size:
         n_verbs_to_add = state.decks.current.min_size - len(state.decks.current.deck)
         prev_idx = state.current_verbs_index
@@ -304,6 +310,7 @@ def add_verbs_to_current(state: State, verbs: Verbs) -> None:
 
 def put_right_in_progress(words_seen_in_current: dict, state: State) -> None:
     """put the verbs reviewed in the progress deck"""
+    # TODO refactor
     for verb, right in words_seen_in_current.items():
         if right:
             put_in_progress(verb, state)
