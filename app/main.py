@@ -58,11 +58,19 @@ class State:
 
 
 @dataclass
+class Conjugations:
+    lang: str
+    has_time: bool
+    has_persons: bool
+    conjugations: dict
+    persons: tuple
+
+@dataclass
 class Verbs:
     verbs: list
     mode: str
     time: str
-    conjugations: dict
+    conjugations: Conjugations
     pers_trans: dict
 
 
@@ -72,10 +80,40 @@ def read_json(filename: str):
         return json.loads(file.read())
 
 
-def get_conjugations(lang: str) -> dict:
+def get_conjugations(lang: str, mode: str, time: str) -> Conjugations:
     """get the conjugations for the top 100 verbs"""
     # todo: only the given mode/time
-    return read_json(f'languages/{lang}/conjugations')
+    all_conjugations = read_json(f'languages/{lang}/conjugations')
+
+    if time in {'af', 'n'}:
+        persons = ('3s', '1p', '3p')
+    else:
+        persons = ('1s', '3s', '1p', '3p')
+
+    if mode != time:
+        return Conjugations(lang=lang,
+                            has_time=True,
+                            has_persons=True,
+                            conjugations={verb:{person:conj
+                                                for person, conj in all_conjugations[verb][mode][time].items()}
+                                          for verb in all_conjugations },
+                            persons=persons)
+    if mode in {'ger', 'par'}:
+        return Conjugations(lang=lang,
+                            has_time=False,
+                            has_persons=False,
+                            conjugations={verb: all_conjugations[verb][mode] for verb in all_conjugations},
+                            persons=tuple())
+    if mode == 'ip':
+        return Conjugations(lang=lang,
+                            has_time=False,
+                            has_persons=True,
+                            conjugations={verb: {person: conj for person, conj in all_conjugations[verb][mode].items()}
+                                          for verb in all_conjugations},
+                            persons=persons)
+    else:
+        raise AttributeError
+
 
 
 def get_verb_list(lang: str) -> list:
@@ -86,7 +124,7 @@ def get_verb_list(lang: str) -> list:
 
 def get_verbs(state: State) -> Verbs:
     return Verbs(verbs=get_verb_list(state.lang),
-                 conjugations=get_conjugations(state.lang),
+                 conjugations=get_conjugations(state.lang, state.mode, state.time),
                  pers_trans=get_pers_trans(state.lang),
                  mode=state.mode,
                  time=state.time)
@@ -141,7 +179,7 @@ def create_state(pre_state, idx=3) -> State:
 
 def save_state(state: State) -> None:
     """save the current state"""
-    with open(f"users/{state.name}_{state.lang}_{state.time}.json", 'w') as file:
+    with open(f"users/{state.name}_{state.lang}_{state.mode}_{state.time}.json", 'w') as file:
         json.dump(state, file, indent=2, cls=EnhancedJSONEncoder)
 
 
@@ -152,28 +190,45 @@ def load_state(pre_state) -> dict:
 
 def ask_verb(verb: str, verbs: Verbs) -> bool:
     """ask the given verb conjugations, given the mode and time"""
-    persons = ('1s', '3s', '1p', '3p')
-
     print()
     print(colored(f"conjugate {verb}", 'yellow'))
 
     answers = []
-    for person in persons:
+    if verbs.conjugations.has_persons:
+        for person in verbs.conjugations.persons:
+            try:
+                user_answer = input(f"{verbs.pers_trans[person]}: ")
+            except UnicodeDecodeError:
+                user_answer = ''
+
+            right_answer = verbs.conjugations.conjugations[verb][person]
+
+            sys.stdout.write("\033[F")
+
+            if user_answer == right_answer:
+                print(f"{verbs.pers_trans[person]}:", colored(f"{right_answer}", 'green'))
+            else:
+                print(f"{verbs.pers_trans[person]:}:",
+                      colored(f"{user_answer}", 'red'),
+                      " right answer:",
+                      colored(right_answer, 'green'))
+
+            answers.append(user_answer)
+    else:
         try:
-            user_answer = input(f"{verbs.pers_trans[person]}: ")
+            user_answer = input(f"")
         except UnicodeDecodeError:
             user_answer = ''
 
-        # todo: change when less data is loaded
-        right_answer = verbs.conjugations[verb][verbs.mode][verbs.time][person]
+
+        right_answer = verbs.conjugations.conjugations[verb]
 
         sys.stdout.write("\033[F")
 
         if user_answer == right_answer:
-            print(f"{verbs.pers_trans[person]}:", colored(f"{right_answer}", 'green'))
+            print(colored(f"{right_answer}", 'green'))
         else:
-            print(f"{verbs.pers_trans[person]:}:",
-                  colored(f"{user_answer}", 'red'),
+            print(colored(f"{user_answer}", 'red'),
                   " right answer:",
                   colored(right_answer, 'green'))
 
@@ -290,7 +345,11 @@ def get_mode(lang: str) -> str:
     modes = {
         'pt': {
             'indicativo': 'ind',
-            'subjuntivo': 'sub'
+            'subjuntivo': 'sub',
+            'imperativo': 'imp',
+            'gerúndio': 'ger',
+            'particípio': 'par',
+            'infinitivo pessoal': 'ip'
         }
     }
 
@@ -305,6 +364,10 @@ def get_mode(lang: str) -> str:
 
 
 def get_time(lang: str, mode: str) -> str:
+
+    if lang == 'pt' and mode in {'ger', 'par', 'ip'}:
+        return mode
+
     times = {
         'pt': {
             'ind': {
@@ -323,12 +386,11 @@ def get_time(lang: str, mode: str) -> str:
             'imp': {
                 'afirmativo': 'af',
                 'negativo': 'neg'
-            },
-            'ap': {
-                'ap': 'ap'
             }
         }
     }
+
+
 
     answer = prompt({
         'name': 'time',
