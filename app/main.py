@@ -187,8 +187,10 @@ def save_state(state: State) -> None:
 
 def load_state(pre_state) -> dict:
     """load the current state"""
-    # TODO fixme
-    return read_json(f"users/{pre_state['name']}_{pre_state['lang']}")
+    return read_json("users/" + '_'.join([pre_state['name'],
+                                          pre_state['lang'],
+                                          pre_state['mode'],
+                                          pre_state['time']]))
 
 
 def ask_verb(verb: str, verbs: Verbs) -> bool:
