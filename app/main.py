@@ -4,7 +4,7 @@ import json
 import os
 import dataclasses
 from dataclasses import dataclass
-from random import sample
+from random import shuffle
 from termcolor import colored
 from PyInquirer import prompt
 import colorama
@@ -27,10 +27,6 @@ class CurrentDeck:
     @property
     def len(self) -> int:
         return len(self.deck)
-
-    @property
-    def random(self) -> list:
-        return sample(self.deck, self.len)
 
 
 @dataclass
@@ -55,6 +51,9 @@ class State:
 
     def next_session(self):
         self.current_session = (self.current_session + 1) % 10
+
+    def get_current_progress_deck(self) -> list:
+        return self.decks.progress[get_seq(self.current_session)]
 
 
 @dataclass
@@ -252,15 +251,10 @@ def print_summary(state: State) -> None:
     print(colored(f"words learned: {len(state.decks.retired)}", 'blue'))
 
 
-def put_in_progress(word: str, state: State) -> None:
-    """puts the given word in the progress deck given the session"""
-    state.decks.progress[get_seq(state.current_session)].append(word)
-
-
 def main_loop(state: State, verbs: Verbs) -> None:
-    words_seen_in_current = review_current_deck(state, verbs)
+    reviewed_verbs = review_deck(state.decks.current.deck, verbs)
     review_progress_deck(state, verbs)
-    put_right_in_progress(words_seen_in_current, state)
+    put_right_in_progress(state, reviewed_verbs)
     add_verbs_to_current(state, verbs)
 
     print_summary(state)
@@ -275,31 +269,55 @@ def start(state: State):
     while True:
         main_loop(state, verbs)
 
+def review_deck(deck: list, verbs: Verbs) -> dict:
+    return {verb: ask_verb(verb, verbs) for verb in shuffle(deck)}
+
+
+def to_review(session: int, progress_id: str)-> bool:
+    return str(session) in progress_id
+
+
+def last_review(session: int, progress_id: str) -> bool:
+    return str(session) == progress_id[-1]
+
 
 def review_progress_deck(state: State, verbs: Verbs) -> None:
     """review the progress deck"""
-    # TODO refactor
     for progress_id, progress_deck in state.decks.progress.items():
-        if str(state.current_session) in progress_id:
-            words_seen_in_progress = {}
-            for verb in sample(progress_deck, len(progress_deck)):
-                words_seen_in_progress[verb] = ask_verb(verb, verbs)
+        if to_review(state.current_session, progress_id):
+            reviewed_verbs = review_deck(progress_deck, verbs)
 
-            if str(state.current_session) == progress_id[-1]:
-                for verb, right in words_seen_in_progress.items():
-                    if right:
-                        progress_deck.remove(verb)
-                        state.decks.retired.append(verb)
+            if last_review(state.current_session, progress_id):
+                move_right_to_retired(state, reviewed_verbs)
 
-            for verb, right in words_seen_in_progress.items():
-                if not right:
-                    progress_deck.remove(verb)
-                    state.decks.current.deck.append(verb)
+            move_wrong_to_current(state, reviewed_verbs)
 
 
-def review_current_deck(state: State, verbs: Verbs) -> dict:
-    """review the current deck"""
-    return {verb: ask_verb(verb, verbs) for verb in state.decks.current.random}
+def move_word_from_to(word: str, _from: list, _to: list) -> None:
+    """move el from one list to another"""
+    _to.append(_from.remove(word))
+
+
+def move_right_to_retired(state: State, reviewed_verbs: dict) -> None:
+    progress_deck = state.get_current_progress_deck()
+    retired_deck = state.decks.retired
+
+    [move_word_from_to(verb, progress_deck, retired_deck) for verb, right in reviewed_verbs.items() if right]
+
+
+def move_wrong_to_current(state: State, reviewed_verbs: dict) -> None:
+    progress_deck = state.get_current_progress_deck()
+    current_deck = state.decks.current.deck
+
+    [move_word_from_to(verb, progress_deck, current_deck) for verb, right in reviewed_verbs.items() if not right]
+
+
+def put_right_in_progress(state: State, reviewed_verbs: dict) -> None:
+    """put the verbs reviewed in the progress deck"""
+    progress_deck = state.get_current_progress_deck()
+    current_deck = state.decks.current.deck
+
+    [move_word_from_to(verb, current_deck, progress_deck) for verb, right in reviewed_verbs.items() if right]
 
 
 def add_verbs_to_current(state: State, verbs: Verbs) -> None:
@@ -311,14 +329,6 @@ def add_verbs_to_current(state: State, verbs: Verbs) -> None:
         state.current_verbs_index += n_verbs_to_add
         state.decks.current.deck.extend(verbs.verbs[prev_idx: state.current_verbs_index])
 
-
-def put_right_in_progress(words_seen_in_current: dict, state: State) -> None:
-    """put the verbs reviewed in the progress deck"""
-    # TODO refactor
-    for verb, right in words_seen_in_current.items():
-        if right:
-            put_in_progress(verb, state)
-            state.decks.current.deck.remove(verb)
 
 
 def is_file(filename: str) -> bool:
