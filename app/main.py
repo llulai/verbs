@@ -162,8 +162,10 @@ def create_decks(verbs: list, idx: int) -> Decks:
 
 
 def has_state(pre_state):
-    # TODO fixme
-    return is_file(f"{pre_state['name']}_{pre_state['lang']}")
+    return is_file("_".join([pre_state['name'],
+                             pre_state['lang'],
+                             pre_state['mode'],
+                             pre_state['time']]))
 
 
 def create_state(pre_state, idx=3) -> State:
