@@ -226,13 +226,14 @@ def ask_verb(verb: str, verbs: Verbs) -> bool:
 
             if user_answer == right_answer:
                 print(f"{verbs.pers_trans[person]}:", colored(f"{right_answer}", 'green'))
+                answers.append(True)
             else:
                 print(f"{verbs.pers_trans[person]:}:",
                       colored(f"{user_answer}", 'red'),
                       " right answer:",
                       colored(right_answer, 'green'))
 
-            answers.append(user_answer)
+                answers.append(False)
     else:
         try:
             user_answer = input(f"")
@@ -245,12 +246,13 @@ def ask_verb(verb: str, verbs: Verbs) -> bool:
 
         if user_answer == right_answer:
             print(colored(f"{right_answer}", 'green'))
+            answers.append(True)
         else:
             print(colored(f"{user_answer}", 'red'),
                   " right answer:",
                   colored(right_answer, 'green'))
 
-        answers.append(user_answer)
+            answers.append(False)
 
     return all(answers)
 
@@ -304,7 +306,7 @@ def review_progress_deck(state: State, verbs: Verbs) -> None:
             if last_review(state.current_session, progress_id):
                 move_right_to_retired(progress_deck, state, reviewed_verbs)
 
-            move_wrong_to_current(state, reviewed_verbs)
+            move_wrong_to_current(progress_deck, state, reviewed_verbs)
 
 
 def move_word_from_to(word: str, _from: list, _to: list) -> None:
@@ -319,8 +321,7 @@ def move_right_to_retired(progress_deck: list, state: State, reviewed_verbs: dic
     [move_word_from_to(verb, progress_deck, retired_deck) for verb, right in reviewed_verbs.items() if right]
 
 
-def move_wrong_to_current(state: State, reviewed_verbs: dict) -> None:
-    progress_deck = state.get_current_progress_deck()
+def move_wrong_to_current(progress_deck: list , state: State, reviewed_verbs: dict) -> None:
     current_deck = state.decks.current.deck
 
     [move_word_from_to(verb, progress_deck, current_deck) for verb, right in reviewed_verbs.items() if not right]
