@@ -20429,8 +20429,8 @@
       "p": {
         "1p": "constru\u00edmos",
         "1s": "construo",
-        "3p": "construem \u2248 constroem",
-        "3s": "construi \u2248 constr\u00f3i"
+        "3p": "construem",
+        "3s": "construi"
       },
       "pi": {
         "1p": "constru\u00edamos",
@@ -28509,8 +28509,8 @@
       "p": {
         "1p": "destru\u00edmos",
         "1s": "destruo",
-        "3p": "destruem \u2248 destroem",
-        "3s": "destrui \u2248 destr\u00f3i"
+        "3p": "destruem",
+        "3s": "destrui"
       },
       "pi": {
         "1p": "destru\u00edamos",
@@ -44667,7 +44667,7 @@
         "3s": "haveria"
       },
       "p": {
-        "1p": "havemos \u2248 hemos",
+        "1p": "hemos",
         "1s": "hei",
         "3p": "h\u00e3o",
         "3s": "h\u00e1"
@@ -48907,7 +48907,7 @@
         "3s": "iria"
       },
       "p": {
-        "1p": "vamos \u2248 imos",
+        "1p": "vamos",
         "1s": "vou",
         "3p": "v\u00e3o",
         "3s": "vai"
@@ -50668,9 +50668,9 @@
       },
       "p": {
         "1p": "licenciamos",
-        "1s": "licencio \u2248 licenceio",
-        "3p": "licenciam \u2248 licenceiam",
-        "3s": "licencia \u2248 licenceia"
+        "1s": "licencio",
+        "3p": "licenciam",
+        "3s": "licencia"
       },
       "pi": {
         "1p": "licenci\u00e1vamos",
@@ -50707,9 +50707,9 @@
       },
       "p": {
         "1p": "licenciemos",
-        "1s": "licencie \u2248 licenceie",
-        "3p": "licenciem \u2248 licenceiem",
-        "3s": "licencie \u2248 licenceie"
+        "1s": "licencie",
+        "3p": "licenciem",
+        "3s": "licencie"
       },
       "pi": {
         "1p": "licenci\u00e1ssemos",
@@ -54348,9 +54348,9 @@
       },
       "p": {
         "1p": "negociamos",
-        "1s": "negocio \u2248 negoceio",
-        "3p": "negociam \u2248 negoceiam",
-        "3s": "negocia \u2248 negoceia"
+        "1s": "negocio",
+        "3p": "negociam",
+        "3s": "negocia"
       },
       "pi": {
         "1p": "negoci\u00e1vamos",
@@ -54387,9 +54387,9 @@
       },
       "p": {
         "1p": "negociemos",
-        "1s": "negocie \u2248 negoceie",
-        "3p": "negociem \u2248 negoceiem",
-        "3s": "negocie \u2248 negoceie"
+        "1s": "negocie",
+        "3p": "negociem",
+        "3s": "negocie"
       },
       "pi": {
         "1p": "negoci\u00e1ssemos",
@@ -56348,7 +56348,7 @@
       },
       "p": {
         "1p": "ouvimos",
-        "1s": "ou\u00e7o \u2248 oi\u00e7o",
+        "1s": "ou\u00e7o",
         "3p": "ouvem",
         "3s": "ouve"
       },
@@ -56386,10 +56386,10 @@
         "3s": "ouvir"
       },
       "p": {
-        "1p": "ou\u00e7amos \u2248 oi\u00e7amos",
-        "1s": "ou\u00e7a \u2248 oi\u00e7a",
-        "3p": "ou\u00e7am \u2248 oi\u00e7am",
-        "3s": "ou\u00e7a \u2248 oi\u00e7a"
+        "1p": "ou\u00e7amos",
+        "1s": "ou\u00e7a",
+        "3p": "ou\u00e7am",
+        "3s": "ou\u00e7a"
       },
       "pi": {
         "1p": "ouv\u00edssemos",
@@ -56748,7 +56748,7 @@
       },
       "p": {
         "1p": "parimos",
-        "1s": "paro \u2248 pairo",
+        "1s": "paro",
         "3p": "parem",
         "3s": "pare"
       },
@@ -56786,10 +56786,10 @@
         "3s": "parir"
       },
       "p": {
-        "1p": "paramos \u2248 pairamos",
-        "1s": "para \u2248 paira",
-        "3p": "param \u2248 pairem",
-        "3s": "para \u2248 paira"
+        "1p": "paramos",
+        "1s": "para",
+        "3p": "param",
+        "3s": "para"
       },
       "pi": {
         "1p": "par\u00edssemos",

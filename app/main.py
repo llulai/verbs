@@ -55,6 +55,14 @@ class State:
     def get_current_progress_deck(self) -> list:
         return self.decks.progress[get_seq(self.current_session)]
 
+    @classmethod
+    def from_json(cls, d: dict):
+        current_deck = CurrentDeck(**d['decks']['current'])
+        decks = Decks(current=current_deck,
+                      progress=d['decks']['progress'],
+                      retired=d['decks']['retired'])
+        return State(decks=decks, **{k: v for k, v in d.items() if k != 'decks'})
+
 
 @dataclass
 class Conjugations:
@@ -63,6 +71,7 @@ class Conjugations:
     has_persons: bool
     conjugations: dict
     persons: tuple
+
 
 @dataclass
 class Verbs:
@@ -91,9 +100,9 @@ def get_conjugations(lang: str, mode: str, time: str) -> Conjugations:
         return Conjugations(lang=lang,
                             has_time=True,
                             has_persons=mode_spec['persons'] != [],
-                            conjugations={verb:{person:conj
-                                                for person, conj
-                                                in all_conjugations[verb][mode][time].items()}
+                            conjugations={verb: {person: conj
+                                                 for person, conj
+                                                 in all_conjugations[verb][mode][time].items()}
                                           for verb in all_conjugations},
                             persons=mode_spec['persons'])
 
@@ -112,6 +121,11 @@ def get_conjugations(lang: str, mode: str, time: str) -> Conjugations:
                         conjugations={verb: all_conjugations[verb][mode]
                                       for verb in all_conjugations},
                         persons=tuple())
+
+
+def shuffle_deck(deck: list):
+    shuffle(deck)
+    return deck
 
 
 def get_verb_list(lang: str) -> list:
@@ -184,12 +198,12 @@ def save_state(state: State) -> None:
         json.dump(state, file, indent=2, cls=EnhancedJSONEncoder)
 
 
-def load_state(pre_state) -> dict:
+def load_state(pre_state) -> State:
     """load the current state"""
-    return read_json("users/" + '_'.join([pre_state['name'],
-                                          pre_state['lang'],
-                                          pre_state['mode'],
-                                          pre_state['time']]))
+    return State.from_json(read_json("users/" + '_'.join([pre_state['name'],
+                                                          pre_state['lang'],
+                                                          pre_state['mode'],
+                                                          pre_state['time']])))
 
 
 def ask_verb(verb: str, verbs: Verbs) -> bool:
@@ -224,7 +238,6 @@ def ask_verb(verb: str, verbs: Verbs) -> bool:
             user_answer = input(f"")
         except UnicodeDecodeError:
             user_answer = ''
-
 
         right_answer = verbs.conjugations.conjugations[verb]
 
@@ -269,8 +282,9 @@ def start(state: State):
     while True:
         main_loop(state, verbs)
 
+
 def review_deck(deck: list, verbs: Verbs) -> dict:
-    return {verb: ask_verb(verb, verbs) for verb in shuffle(deck)}
+    return {verb: ask_verb(verb, verbs) for verb in shuffle_deck(deck)}
 
 
 def to_review(session: int, progress_id: str)-> bool:
@@ -288,18 +302,18 @@ def review_progress_deck(state: State, verbs: Verbs) -> None:
             reviewed_verbs = review_deck(progress_deck, verbs)
 
             if last_review(state.current_session, progress_id):
-                move_right_to_retired(state, reviewed_verbs)
+                move_right_to_retired(progress_deck, state, reviewed_verbs)
 
             move_wrong_to_current(state, reviewed_verbs)
 
 
 def move_word_from_to(word: str, _from: list, _to: list) -> None:
     """move el from one list to another"""
-    _to.append(_from.remove(word))
+    _from.remove(word)
+    _to.append(word)
 
 
-def move_right_to_retired(state: State, reviewed_verbs: dict) -> None:
-    progress_deck = state.get_current_progress_deck()
+def move_right_to_retired(progress_deck: list, state: State, reviewed_verbs: dict) -> None:
     retired_deck = state.decks.retired
 
     [move_word_from_to(verb, progress_deck, retired_deck) for verb, right in reviewed_verbs.items() if right]
@@ -328,7 +342,6 @@ def add_verbs_to_current(state: State, verbs: Verbs) -> None:
         prev_idx = state.current_verbs_index
         state.current_verbs_index += n_verbs_to_add
         state.decks.current.deck.extend(verbs.verbs[prev_idx: state.current_verbs_index])
-
 
 
 def is_file(filename: str) -> bool:
