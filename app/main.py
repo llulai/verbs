@@ -321,7 +321,7 @@ def move_right_to_retired(progress_deck: list, state: State, reviewed_verbs: dic
     [move_word_from_to(verb, progress_deck, retired_deck) for verb, right in reviewed_verbs.items() if right]
 
 
-def move_wrong_to_current(progress_deck: list , state: State, reviewed_verbs: dict) -> None:
+def move_wrong_to_current(progress_deck: list, state: State, reviewed_verbs: dict) -> None:
     current_deck = state.decks.current.deck
 
     [move_word_from_to(verb, progress_deck, current_deck) for verb, right in reviewed_verbs.items() if not right]

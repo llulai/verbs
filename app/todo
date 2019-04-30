@@ -1,7 +1,8 @@
 [] learn verbs
 [] start with regular verbs
 [] log results
-[] pass only relevant conjugations to ask_verb
+
+[X] pass only relevant conjugations to ask_verb
 
 [] retake on same session
 
@@ -12,3 +13,11 @@
 [] save conjugations by mode>time>verb>person
 [] refactor long functions
 [] check pyinquirer back menu
+[] add a backlog of verbs
+[] download 5K verbs https://www.conjugacao.com.br/verbos-populares/50/
+[] prioritize verbs on use
+[] allow for multiple versions of conjugation
+[] create shorter pipes to repeat already leaned verbs
+[] once the verb keep right/wrong of every verb as they
+   go through process, to reinsert it into the pipe
+   if the performance wasn't good enough
