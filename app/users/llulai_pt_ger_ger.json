@@ -1,0 +1,119 @@
+{
+  "name": "llulai",
+  "lang": "pt",
+  "mode": "ger",
+  "time": "ger",
+  "decks": {
+    "current": {
+      "min_size": 3,
+      "deck": [
+        "pagar",
+        "representar",
+        "entender"
+      ]
+    },
+    "progress": {
+      "0259": [
+        "usar",
+        "gostar",
+        "esperar"
+      ],
+      "1360": [
+        "realizar",
+        "abrir",
+        "manter"
+      ],
+      "2471": [
+        "ocorrer",
+        "escrever"
+      ],
+      "3582": [
+        "trazer",
+        "mostrar",
+        "lembrar"
+      ],
+      "4693": [
+        "tentar",
+        "procurar",
+        "morrer"
+      ],
+      "5704": [
+        "formar",
+        "aparecer",
+        "permitir"
+      ],
+      "6815": [
+        "incluir",
+        "correr",
+        "cair"
+      ],
+      "7926": [
+        "nascer",
+        "ganhar",
+        "surgir"
+      ],
+      "8037": [],
+      "9148": [
+        "tratar",
+        "acontecer",
+        "afirmar"
+      ]
+    },
+    "retired": [
+      "ser",
+      "estar",
+      "ter",
+      "fazer",
+      "poder",
+      "ir",
+      "dar",
+      "haver",
+      "dizer",
+      "ver",
+      "saber",
+      "querer",
+      "passar",
+      "dever",
+      "ficar",
+      "chegar",
+      "falar",
+      "deixar",
+      "encontrar",
+      "levar",
+      "partir",
+      "pensar",
+      "come\u00e7ar",
+      "olhar",
+      "parecer",
+      "tornar",
+      "apresentar",
+      "achar",
+      "voltar",
+      "conseguir",
+      "existir",
+      "entrar",
+      "sair",
+      "chamar",
+      "conhecer",
+      "continuar",
+      "considerar",
+      "p\u00f4r",
+      "viver",
+      "tomar",
+      "ouvir",
+      "receber",
+      "acabar",
+      "perder",
+      "andar",
+      "trabalhar",
+      "sentir",
+      "pedir",
+      "criar",
+      "contar",
+      "vir",
+      "seguir"
+    ]
+  },
+  "current_verbs_index": 81,
+  "current_session": 8
+}
