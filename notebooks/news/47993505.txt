@@ -1,0 +1,183 @@
+
+
+
+
+Direito de imagem
+Presidência da República
+
+
+Image caption
+
+                    Em média, orientação do governo foi seguida por 62% dos deputados federais
+                
+
+ O governo de Jair Bolsonaro (PSL) poderia ter tido o pior desempenho na Câmara dos Deputados desde 2003, na comparação com o início da gestão de seus antecessores Michel Temer (MDB) e os petistas Dilma Rousseff e Luiz Inácio Lula da Silva, na análise das votações feitas na Casa. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+Poderia: ao orientar o voto a favor da PEC (proposta de emenda à Constituição) do Orçamento Impositivo para evitar uma derrota no plenário da Câmara, no fim de março, o governo acabou "inflando" os números da adesão dos deputados ao seu governo. Com isso, o capitão reformado do Exército passou pelo teste dos primeiros 100 dias com um desempenho pouco melhor que o da petista Dilma Rousseff (2011) e do emedebista Michel Temer (2016), embora mais modesto que o do também petista Lula (2003). Formalmente, Bolsonaro teve os votos de 62% dos deputados. Se considerarmos que o governo teve uma derrota na votação da PEC do Orçamento Impositivo, porém, esse desempenho cai para apenas 46,8% - o pior pelo menos desde 2003.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+
+Em 4 temas importantes, as profundas diferenças no pensamento de olavistas e militares
+Não é só a Previdência: outros 4 grandes desafios do governo Bolsonaro na economia
+O que os primeiros 100 dias de Bolsonaro indicam sobre os desafios de seu governo
+A conta é feita considerando quantos, dos 513 deputados, votaram da forma como o governo gostaria (expressa pela orientação no painel eletrônico). Imagine que o governo peça o voto "sim" para um determinado projeto e que 256 dos 512 deputados votem "sim" (o presidente da sessão não vota). Nesse caso, a chamada "taxa de governismo" é de 50%. A PEC do Orçamento Impositivo foi votada em dois turnos numa sessão relâmpago, em 26 de março. Na época, Bolsonaro e um de seus filhos, o vereador Carlos Bolsonaro (PSL-RJ), estavam batendo boca com o presidente da Câmara dos Deputados, Rodrigo Maia (DEM-RJ), nas redes sociais e na imprensa. A PEC obriga o Executivo a pagar as emendas coletivas apresentadas por deputados e senadores - ou seja, tira poder do governo sobre mais uma parte do Orçamento da União. Mesmo com a orientação a favor, a PEC foi criticada pela líder do governo no Congresso, Joice Hasselmann (PSL-SP,) e também pelo ministro da Economia, Paulo Guedes, entre outros. Tanto Guedes quanto o ministro da Casa Civil, Onyx Lorenzoni, defendem a adoção do chamado "orçamento base zero", sem verbas carimbadas para qualquer área - exatamente o contrário da PEC do Orçamento Impositivo. O desempenho do governo Bolsonaro na Câmara também piora um pouco quando são consideradas as situações nas quais o governo deixou de orientar os deputados de sua base de apoio - nesse caso, ele obteve 60% dos votos. O governo Bolsonaro foi o que mais se omitiu nas votações, pelo menos na comparação com os últimos presidentes desde Lula. Sob o político do PSL, o governo deixou de orientar os deputados em mais de um terço (36,6%) das votações, ante 3% sob Temer, 27% sob Dilma e 20% na época de Lula. Nas últimas semanas, Bolsonaro e seu entorno têm tomado medidas para tentar melhorar a relação do governo com o Congresso: o presidente reuniu-se com presidentes de partidos e abriu uma parte de sua agenda para receber deputados e senadores. Segundo reportagens do site especializado Poder360 e do jornal Folha de S. Paulo, o governo também teria oferecido R$ 40 milhões extras em emendas para deputados e senadores que votassem a favor da reforma da Previdência. 
+
+
+
+Nos 100 primeiros dias de Bolsonaro, a Câmara teve 44 votações nominais. A maioria foi de requerimentos, como os usados pela oposição para atrasar a análise de projetos. Votação nominal é aquela em que o voto de cada deputado é registrado, ao contrário das votações simbólicas. Além da PEC do orçamento impositivo, a maioria das votações nos 100 primeiros dias de Bolsonaro faz parte do processo de aprovação de dois outros projetos: o que torna o "cadastro positivo" de crédito obrigatório para os consumidores; e o que permite o controle de empresas aéreas pelo capital estrangeiro. Ambos foram aprovados pela Câmara, e iniciaram sua tramitação em governos anteriores. Nenhum projeto do governo atual chegou ao plenário da Câmara.Com seus 62%, de votos favoráveis após a "manobra", Bolsonaro não se saiu mal quando comparado aos seus antecessores no cargo - pelo menos formalmente. Em meados de 2016, Temer teve os votos de 56,4% dos deputados, após assumir temporariamente depois do afastamento de Dilma Rousseff (PT). A média do emedebista nesse período inicial foi puxada para baixo pelas votações de vetos presidenciais - muitos deputados simplesmente não estavam presentes no plenário, e, portanto, não poderiam votar segundo a orientação do governo. Excluídos os vetos, o desempenho de Temer no começo da gestão sobe para 59,3%. 
+
+
+
+Nos 100 primeiros dias de seu 1º mandato, em 2011, Dilma Rousseff conquistou os votos de 60,35% dos deputados federais - ela assumiu o governo num período de crescimento econômico e estribada na popularidade de seu antecessor e padrinho político, Lula (PT). Os primeiros dias de Dilma foram também um período de pouca atividade na Câmara, com apenas 18 votações nominais registradas.O antecessor dela, Lula (PT) também teve um começo de gestão "tranquilo" com os deputados - em seus primeiros 100 dias, a Câmara teve apenas 10 votações nominais, e a orientação do governo foi seguida por 66,6% dos deputados. Ao longo do primeiro mandato de Lula, o número de partidos que apoiavam formalmente o governo aumentou. No fim de 2003, eram 11 legendas, e somavam 376 deputados. A situação do petista só se agravou em maio de 2015, quando estourou o escândalo do mensalão. Este consistia, segundo a acusação, na compra de apoio parlamentar com propina.O site da câmara mantém registros sistematizados até o ano de 1991, mas não é possível estender a análise ao começo dos governos de Fernando Henrique Cardoso (1995-2002). Isto porque os registros do primeiro ano de governo do tucano já não incluem a orientação do governo. No começo dos governos de Itamar Franco (1992), Fernando Collor de Mello (1990) e José Sarney (1985), não há registros sistematizados. 
+
+
+Direito de imagem
+Agência Câmara
+
+
+Image caption
+
+                    Em 1995, o registro das sessões não traz a orientação do governo, o que impede comparações diretas
+                
+
+Antônio Augusto de Queiroz é analista político e diretor do Departamento Intersindical de Análise Parlamentar (DIAP). Segundo ele, o governo Bolsonaro é o primeiro desde a redemocratização do país (1985) a atingir a marca dos 100 dias de gestão sem uma base parlamentar consolidada. "Por outro lado, a capacidade de articulação deste governo no Congresso não foi testada ainda, porque os projetos que foram votados até agora ou são do governo Temer (capital estrangeiro em empresas aéreas, cadastro positivo) ou são de iniciativa do próprio Parlamento (PEC do Orçamento Impositivo). Nenhum projeto do próprio Bolsonaro chegou até o plenário", diz ele. "O grande teste será mesmo com a votação da reforma da Previdência", diz o analista."Na verdade, o governo se encontra em um impasse na relação com o Congresso. Ao mesmo tempo em que contenta o eleitorado com o discurso sobre 'nova política', agride a maioria dos congressistas", diz Antônio. "Para consolidar esta base no Congresso, precisará mudar o discurso", diz.Clique aqui para conhecer os dados que embasam esta reportagem.'Bolsonaro não teve lua de mel com o Congresso'Depois de ver os números levantados pela reportagem da BBC News Brasil, o cientista político Cláudio Couto, da Fundação Getúlio Vargas, pontuou que o desempenho de Bolsonaro no plenário da Câmara não está ligado à chamada "lua de mel" que os governantes costumam experimentar no começo de seus mandatos. Tal "lua de mel" foi algo que não existiu no caso de Bolsonaro, segundo ele. "Na verdade, eu nunca vi um começo de governo tão caótico quanto este. Não é só na articulação política com o Congresso. Basta pensar no Ministério da Educação, por exemplo (o ministro anterior da pasta, Ricardo Vélez Rodríguez, foi demitido com apenas 98 dias no cargo)", diz. Segundo o cientista político, talvez o desempenho "formal" de Bolsonaro no plenário da Câmara no início de seu governo se deva a um consenso anterior dos partidos em relação aos projetos que estavam em pauta - e nem tanto aos méritos da própria articulação bolsonarista. 
+
+
+Direito de imagem
+Cepespe / FGV - divulgação
+
+
+Image caption
+
+                    Couto: taxa de sucesso de Bolsonaro pode ser explicada por consenso anterior entre partidos
+                
+
+Couto vê uma força parecida agindo em relação à Reforma da Previdência. "Quando a gente vê o grau de confusão que impera na relação com o Congresso, parece que não há nenhuma chance de passar. Só que tem um outro aspecto importante. Produziu-se um relativo consenso (na classe política) sobre a necessidade de uma reforma. Sabe-se que, sem isso, vamos viver uma situação muito difícil. Então, pode ser que seja aprovada mais a despeito do governo do que por causa dele", diz o professor.Construir relação com o Congresso leva tempo, diz líder do governoO líder do governo na Câmara é o deputado de primeiro mandato Major Vitor Hugo (PSL-GO), escolhido pelo próprio Bolsonaro. À BBC News Brasil, ele não negou que existam dificuldades de articulação no Congresso, mas disse que os percalços são temporários: a relação entre Executivo e Legislativo vive um momento de acomodação. "O meu pedido, quando você for fazer essa avaliação, é que considere como a eleição se deu. Foram dois partidos (o PSL e o PRTB, do vice Hamilton Mourão), que elegeram o presidente. Ele (Bolsonaro) não loteou ministérios. Não houve coalizão de partidos", disse ele.
+
+
+Direito de imagem
+Presidência da República
+
+
+Image caption
+
+                    Bolsonaro não formou uma base antes de assumir, ao contrário dos antecessores, argumenta Vitor Hugo (esq.)
+                
+
+"O presidente, na verdade, disputou contra a coalizão que apoiou o (Geraldo) Alckmin (PSDB), dos partidos do Centrão. Então não houve pré-formatação da base (de apoio do governo). A ideia do presidente sempre foi fazer com que a relação política se desse de forma diferente. E ele está imprimindo isso. É natural que tenha um tempo de acomodação, e estamos vivendo esse tempo", afirmou o deputado à BBC News Brasil. Nos últimos dias, Bolsonaro passou a se empenhar para melhorar sua relação com o Congresso. No começo de abril, recebeu presidentes de vários partidos para conversas no Palácio do Planalto. Mais recentemente, interlocutores do governo voltaram a acenar com a distribuição de cargos do governo federal nos Estados, que poderiam ser preenchidos com indicações de congressistas.Vitor Hugo diz não estar sabendo negociações recentes. "Fiquei sabendo pela Folha (de S. Paulo), não passa por mim. Mas eu sinto no presidente a disposição total (de melhorar a interlocução com o Congresso). Ele é um eterno parlamentar, ficou na Câmara por 28 anos". Sobre a PEC do orçamento impositivo, Vitor Hugo diz que não se trata de uma derrota para o governo - nem a votação no plenário, no fim de março, e nem o fato da proposta ter "passado na frente" da reforma da Previdência na Comissão de Constituição e Justiça (CCJ), na semana passada. "O governo acredita na autonomia do Poder Legislativo. Se esta proposta (do orçamento impositivo) se tornou prioridade, tudo bem". 
+
+
+Direito de imagem
+Agência Câmara
+
+
+Image caption
+
+                    Rodrigo Maia costuma criticar a falta de articulação política de Bolsonaro
+                
+
+O posto de líder do governo é um dos mais importantes da Casa, geralmente ocupado por cardeais da política. Cabe ao líder representar as opiniões do chefe do Executivo diante dos colegas. Vitor Hugo é alvo de críticas de colegas, inclusive do PSL, que o julgam imaturo para a função. Já houve inclusive tentativas de retirá-lo do cargo. "A liderança do governo é do presidente. É uma prerrogativa dele. A minha preocupação é me manter alinhado com ele e buscar os interesses do país, traduzidos nas teses do governo. Das críticas que recebo, eu analiso para saber se é uma crítica no nível político, de alguém que quer ser líder no meu lugar, ou se é realmente algo que eu possa melhorar", diz Vitor Hugo. Três meses de atritosOs atritos do governo Bolsonaro com deputados e senadores começaram no primeiro dia de funcionamento do Congresso, durante a eleição dos presidentes das duas Casas. Na Câmara, o ministro da Casa Civil, Onyx Lorenzoni trabalhou quase até o último momento para derrotar Rodrigo Maia (DEM-RJ), que acabou eleito; no Senado, Davi Alcolumbre (DEM-AP) foi escolhido numa sessão bastante conturbada. No fim de março, Jair Bolsonaro e seu filho Carlos, vereador pelo PSL no Rio de Janeiro, trocaram chumbo com Rodrigo Maia. Num programa de TV, o presidente disse que Maia estava "um pouco abalado com questões pessoais que vêm acontecendo na vida dele". A frase foi entendida como uma referência à prisão do ex-ministro de Temer, Moreira Franco, que é sogro do deputado - a mesma provocação foi feita pouco antes por Carlos, no Twitter. 
+
+
+Direito de imagem
+Presidência da República
+
+
+Image caption
+
+                    Onyx Lorenzoni (Casa Civil) trabalhou para derrotar Rodrigo Maia, em fevereiro
+                
+
+"Abalados estão os brasileiros, que estão esperando desde 1º de janeiro que o governo comece a funcionar. São 12 milhões de desempregados, 15 milhões de brasileiros vivendo abaixo da linha de pobreza", devolveu Maia. A rusga culminou com a maior alta do dólar em quase seis meses.  De lá para cá, o governo assistiu à aprovação a jato da PEC do impositivo; viu o ministro Paulo Guedes ser hostilizado na Comissão de Constituição e Justiça, a CCJ; assistiu ao ministro Marcelo Álvaro Antônio (Turismo) ser acusado por uma deputada do PSL de ameaçá-la de morte; e amargou atrasos na tramitação da reforma da Previdência. Outra medida importante para o governo, a medida provisória que reorganizou a estrutura da Esplanada dos Ministérios, está com a tramitação atrasada. 
+
+
+
+Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
+
+
+Pule YouTube post  de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post  de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+Pule YouTube post 2 de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post 2 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+Pule YouTube post 3 de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post 3 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+

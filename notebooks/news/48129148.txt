@@ -1,0 +1,138 @@
+
+
+
+
+Direito de imagem
+Tânia Rego/Agência Brasil
+
+
+Image caption
+
+                    Clínica de saúde da família na Baixada Fluminense, no RJ; pesquisa avaliou impacto da austeridade sobre programas de atenção primária
+                
+
+ Um estudo internacional  estimou pela primeira vez qual pode ser o impacto, em vidas humanas, de algumas das principais medidas relacionadas ao orçamento e à cobertura da saúde no Brasil nos anos recentes. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+Segundo o artigo, publicado no periódico BMC Medicine, prevê que os possíveis cortes de gastos federais para o programa Estratégia da Saúde da Família decorrentes da emenda constitucional 95/2016 (conhecida como "teto dos gastos", que limita o crescimento das despesas públicas) podem levar a 27,6 mil mortes evitáveis até 2030, um aumento de 5,8 % na mortalidade em comparação com o cenário atual. A emenda foi proposta pelo governo de Michel Temer e aprovada no Congresso em 2016 (leia mais abaixo). Os pesquisadores simularam ainda outro cenário hipotético, somando à redução no tamanho da população coberta pelo Estratégia da Saúde da Família a hipótese do eventual fim do programa Mais Médicos. Segundo essa projeção, a redução do Estratégia da Saúde da Família e um possível fim do Mais Médicos levariam a um aumento de 8,6% na mortalidade, o que representa cerca de 48,5 mil óbitos evitáveis entre 2017 e 2030. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+
+As doenças negligenciadas pela indústria farmacêutica que afetam milhões de pessoas no mundo e no Brasil
+'Turismo médico': milhões que moram em potências mundiais viajam a países mais pobres para fazer cirurgias
+A Estratégia da Saúde da Família e o Mais Médicos são dois importantes representantes no Brasil de políticas públicas de saúde da chamada "atenção primária", que valoriza um contato próximo e preventivo de profissionais da saúde com a população. Isto ocorre, por exemplo, com visitas rotineiras de médicos às casas dos pacientes. No caso do Estratégia da Saúde da Família, cada território com cerca de 4 mil pessoas recebe um conjunto com número mínimo de profissionais - médicos, enfermeiros, técnicos de enfermagem e especialistas e saúde bucal - e de equipamentos e ações educativas. Por meio de modelos matemáticos complexos, os autores do artigo estimaram a mortalidade anterior aos 70 anos de idade e decorrente de causas consideradas sensíveis à atenção primária.É o caso de doenças infecciosas, tais como febre amarela e sarampo, e deficiências nutricionais, como anemia e desnutrição. Segundo o artigo, estes tipos de doenças e deficiências seriam os mais impulsionados com os cortes e afetariam as populações mais vulneráveis como, conforme apontam os autores, negros e aqueles que vivem em municípios mais pobres. "A redução da cobertura da atenção básica nesses lugares tem efeitos maiores porque eles têm causas de mortalidade mais ligadas à pobreza", explica por telefone à BBC News Brasil Davide Rasella, pesquisador italiano que liderou o estudo. "São doenças e deficiências básicas que o sistema de atenção primária é mais capaz de resolver forma efetiva." "O Brasil é um dos países mais desiguais do mundo, não só economicamente, mas também em termos de saúde", acrescenta.
+
+
+Direito de imagem
+Tânia Rêgo/Agência Brasil
+
+
+Image caption
+
+                    Pesquisadores fizeram simulações considerando o impacto de medidas de austeridade na saúde
+                
+
+Rasella é pesquisador associado à Universidade Federal da Bahia (UFBA), à Fundação Oswaldo Cruz (Fiocruz) e à London School of Hygiene and Tropical Medicine, na Inglaterra. Ele é especialista em avaliações de impacto de políticas públicas e ganhou destaque em 2013 ao publicar um artigo no periódico The Lancet sobre o papel do programa Bolsa Família na redução da mortalidade infantil.No artigo publicado agora na BMC Medicine, Rasella contou com a colaboração de pesquisadores da UFBA, da Universidade de Stanford (nos EUA) e do Imperial College de Londres (Reino Unido). Ainda segundo os estudiosos, as projeções publicadas ainda são conservadoras, pois fazem um recorte etário e consideram apenas a mortalidade por causas consideradas como sensíveis à atenção primária. Esta tipificação acompanhou classificações internacionais e do Ministério da Saúde. Os autores devem publicar, nos próximos meses, uma projeção da mortalidade especificamente em menores de cinco anos nesses cenários de austeridade. Relembre o que é o 'teto dos gastos'Para projetar o impacto da emenda constitucional 95 na população alcançada pela Estratégia da Saúde da Família e, então, na mortalidade, os pesquisadores usaram dados de notas técnicas do Instituto de Pesquisa Econômica Aplicada (Ipea) de 2016. Estes documentos estimaram os impactos do teto dos gastos - na época em que foram escritos, o projeto ainda tramitava no Congresso - na despesa per capita em saúde até 2036. A emenda limitou o crescimento das despesas primárias federais ao reajuste da inflação por 20 anos. Este teto é global - ou seja, não limita gastos para áreas específicas. A saúde é mencionada nominalmente, na verdade, para limitar o piso mínimo - e não o teto - de aplicação na área. Mas especialistas apontam que, se o bolo todo tem que parar de crescer, isso possivelmente afetará áreas essenciais como educação e saúde - ainda mais com a perspectiva de aumento e envelhecimento da população nos próximos anos e, portanto, de incremento nas demandas do setor. Considerando o crescimento previsto da população brasileira de 10% até 2036, pesquisadores do Ipea estimaram que, com a emenda, o gasto federal per capita na saúde pode cair de estimados R$ 446 em 2017 para R$ 411 em 2036 (em valores de 2016). No entanto, esta projeção considerou um piso mínimo de aplicação na saúde de 13,2% da receita corrente líquida, quando, após a tramitação, o valor ficou um pouco maior, em 15%. No Twitter, Pedro Fernando Nery, doutor em economia e autor do livro Reforma da Previdência - Por que o Brasil não pode esperar?, criticou o estudo publicado no BMC Medicine. Procurado pela BBC News Brasil, ele argumenta que a pesquisa pode ter considerado questões técnicas relacionadas à saúde, mas não conseguiu contemplar uma "checagem de fatos quanto à política fiscal no Brasil". Nery critica o pressuposto da pesquisa de que a metodologia do teto de gastos não possa ser revisada e que o gasto em saúde não possa ter crescimento real mesmo sob as regras da emenda constitucional 95: "Pode aumentar qualquer rubrica, se outra se reduzir na mesma proporção".
+
+
+Direito de imagem
+Fabio Rodrigues Pozzebom/Agência Brasil
+
+
+Image caption
+
+                    Milhares de médicos cubanos deixaram o Brasil depois que convênio entre os dois países foi rompido
+                
+
+O economista também aponta para a implicação do cenário "contrafactual" - ou seja, se o teto de gastos não existisse. "Eles (os pesquisadores) consideram que lá o gasto cresceria livremente, sem restrição. Falta sofisticação. Diante de uma crise fiscal violenta, este gasto poderia inclusive ser severamente reduzido", escreveu, por mensagem. "Ninguém discorda que cortes na saúde devem gerar mortes. Mas nem o cenário com teto de gastos gera corte na saúde, e nem o cenário sem teto garante a ausência de cortes". Rasella destaca, porém, que o artigo não tem a pretensão de "prever o futuro", mas sim de "traçar cenários mais ou menos prováveis". "Os números sempre têm grande variabilidade, mas interessa a magnitude dos óbitos evitáveis", diz.E o Mais Médicos?Os autores do artigo na BMC Medicine também estudaram um cenário hipotético de extinção do programa Mais Médicos - que continua em voga mas, segundo Rasella, tem a existência ameaçada desde seu início pelo que vê como "hostilidade" ao programa. O Mais Médicos foi criado em 2013 no governo Dilma Rousseff com a proposta de levar médicos a regiões com escassez ou ausência desses profissionais, em geral áreas rurais, remotas ou violentas. Isto foi feito em boa parte por meio de um convênio com Cuba, responsável por 8,4 mil dos cerca de 18,2 mil profissionais do programa em 2018. Em novembro do ano passado, porém, o país caribenho decidiu convocar de volta seus médicos após declarações do presidente então recém-eleito Jair Bolsonaro exigindo que os profissionais passassem por testes de capacidade e criticando pontos do convênio firmado com Cuba, que fica com grande parte da bolsa paga pelo governo brasileiro. De acordo com Rasella, porém, a pesquisa publicada começou a ser planejada há dois anos - portanto, a inclusão do cenário hipotético sobre o Mais Médicos nela foi anterior à saída de Cuba do programa e à eleição de Bolsonaro. O desenho da pesquisaNo artigo, dados da cobertura atual da Estratégia da Saúde da Família e do Mais Médicos de 5.507 municípios brasileiros foram combinados com as projeções do Ipea e dados sociodemográficos (retrospectivos e tendências, a partir de dados do IBGE e Banco Mundial, por exemplo). A principal unidade estudada foi, justamente, a municipal - e não a população brasileira de uma só vez, por exemplo. Isto permite obter projeções e observar comportamentos de forma mais precisa.  "Recorremos a técnicas de microssimulação: escrevemos modelos matemáticos que simularam a trajetória e as consequências do que acontecia em cada um dos 5 mil municípios", explica Rasella.O cientista lembra que outros estudos já mostraram os efeitos positivos da saúde da família na redução de hospitalizações e da mortalidade infantil, além de uma educação da população que pode desestimular, por exemplo, hábitos de risco para saúde. Clique para assinar o canal da BBC News Brasil no YouTube
+
+
+
+Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal! 
+
+
+Pule YouTube post  de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post  de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+Pule YouTube post 2 de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post 2 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+Pule YouTube post 3 de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post 3 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
