@@ -1,0 +1,176 @@
+
+
+
+
+Direito de imagem
+Getty Images
+
+Pelo menos duas de suas obras estão entre as pinturas mais conhecidas da humanidade: a 'Mona Lisa', atração do museu do Louvre, em Paris, e 'A Última Ceia', afresco que estampa parede de uma igreja de Milão. Mas o talento artístico é apenas um dos predicados que faz de Leonardo di Ser Piero da Vinci ser considerado por muitos o maior gênio da história da humanidade. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+Polímata inveterado, Da Vinci foi anatomista, pintor, escultor, arquiteto, botânico, poeta, músico, cientista, matemático, engenheiro, inventor... Encarnou como poucos o ideal do homem renascentista. A crítica de arte Helen Gardner (1908-1986), que foi professora na Universidade de Oxford, classificou-o como um homem de profundidade e talentos diversos sem precedentes. "Sua mente e personalidade nos parecem sobre-humanos."7 emoções humanas do passado que já não sentimos maisA BBC News Brasil elencou algumas descobertas e estudos de Da Vinci, morto aos 67 anos em 2 de maio de 1519, que acabaram influenciando a humanidade desde então.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+
+
+
+Direito de imagem
+Reuters
+
+
+Image caption
+
+                    'Mona Lisa' é uma das obras mais famosas, reproduzidas e misteriosas do mundo, mas está longe de ser o único legado de Da Vinci
+                
+
+1. Funcionamento do cérebroLeonardo da Vinci foi o primeiro a compreender o funcionamento do nervo olfativo, identificando-o como um nervo craniano. Em artigo publicado em abril no periódico The Lancet, o psicólogo, farmacologista e cientista molecular Jonathan Pevsner, pesquisador do Instituto Kennedy Krieger, ressaltou a importância dos estudos anatômicos realizados pelo gênio renascentista, dissecador curioso e autor de requintados desenhos. Da Vinci determinou forma e tamanhos gerais dos ventrículos cerebrais, por exemplo. "O trabalho de Leonardo da Vinci reflete o surgimento da era científica moderna e constitui uma parte fundamental de sua abordagem integrada à arte e à ciência", avalia o cientista. "Ele fez perguntas sobre como o cérebro funciona, tanto na saúde quanto na doença. E procurou compreender as mudanças do cérebro em quadros como o de epilepsia, ou como o estado mental de uma mãe grávida pode afetar diretamente o bem-estar físico do bebê.""Até hoje, muitos de nós lutamos para responder às mesmas perguntas", reconhece. "Enquanto a ciência e a tecnologia avançam a um ritmo alucinante, ainda precisamos das qualidades de Da Vinci: paixão, curiosidade, capacidade de visualizar conhecimento e pensamento claro."2. Economia de água
+
+
+Direito de imagem
+The Royal Collection Trust
+
+
+Image caption
+
+                    Da Vinci foi o primeiro a notar importante fenômeno de mecânica dos fluidos
+                
+
+Em seus estudos de mecânica dos fluidos, Leonardo da Vinci foi o primeiro a notar um fenômeno chamado de salto hidráulico. Trata-se do fato de a água se espalhar - pela pia, por exemplo - antes de tomar a direção do ralo. Esse comportamento intrigou cientistas e só foi desvendado em 2018, quando pesquisadores da Universidade de Cambridge demonstraram que isso ocorre por conta da tensão superficial e da viscosidade da água.A compreensão desse fenômeno, conforme afirmam os cientistas de Cambridge, pode vir a ter uma aplicabilidade prática: o melhor aproveitamento da água em serviços de limpeza, representando portanto uma economia do líquido."Saber como manipular o limite de um salto hidráulico é muito importante. Agora podemos facilmente estender ou reduzir o limite do fenômeno", afirma o engenheiro químico Rajesh Bhagat, um dos autores da pesquisa. "Entender esse processo tem grandes implicações e pode reduzir drasticamente o uso industrial da água."3. Máquinas voadoras 
+
+
+
+
+Image caption
+
+                    Da Vinci esboçou equipamentos voadores, um paraquedas e dois tipos diferentes de planadores, como este
+                
+
+Cientistas contemporâneos são unânimes em cravar: se construída, a engenhoca de Da Vinci jamais voaria. Mas o helicóptero desenhado pelo italiano é de uma criatividade impressionante para a época e inspirou a tecnologia contemporânea que permitiu que o homem voasse. Muito antes de Santos Dumont (1873-1932) e dos irmãos Wilbur (1867-1912) e Orville Wright (1871-1948), Da Vinci ainda esboçou outros equipamentos voadores, um paraquedas e dois tipos diferentes de planadores.Em 2002, o britânico Robbie Whittall, ex-campeão mundial de paragliding, decidiu testar o modelo que parecia mais propenso a funcionar. Não deu muito certo: foram dezenas de tombos e a conclusão de que faltava estabilidade.4. Coração
+
+
+Direito de imagem
+The Royal Collection Trust
+
+
+Image caption
+
+                    Desenhos anatômicos de Da Vinci eram de grande precisão
+                
+
+Professor de cirurgia cardiotorácica da Universidade de Cambridge, o médico cardiologista Francis C. Wells reconhece os desenhos anatômicos de Leonardo da Vinci como pioneiros a demonstrarem com grande precisão a estrutura e o funcionamento do coração humano. Em 2013, ele publicou o livro 'The Heart Of Leonardo' em que comparou os desenhos de Da Vinci com imagens de dissecações contemporâneas.Wells avalia que o uso de diagramas e representações detalhados do renascentista, com descrições verbais cheias de conceitos fisiológicos, simboliza o auge dos estudos anatômicos realizados por ele. Para o professor, algumas das conclusões de Da Vinci foram tão avançadas que, só hoje em dia, com o advento da tecnologia de diagnósticos, é que é possível interpretá-las. E, na maior parte das vezes, a análise de Leonardo da Vinci continua a fazer sentido de acordo com o entendimento moderno de fisiologia e função cardíaca.5. Energia solarDa Vinci foi também um precursor da ideia de utilizar a energia solar para o aquecimento. Ele projetou um mecanismo em que a luz do sol seria concentrada por meio de espelhos côncavos de modo a aquecer diretamente um reservatório de água.Em seus escritos, manifestou preocupação ambiental. Acreditava que seu invento, se concretizado, iria diminuir a necessidade de corte de árvores - em um tempo em que o aquecimento era baseado na lenha. Da Vinci acreditava que seu sistema poderia ser usado em grande escala. A ideia de Leonardo da Vinci é uma das que aparecem no livro 'Let It Shine - The 6,000-year Story of Solar Energy', escrito pelo pesquisador John Perlin, professor da Universidade da Califórnia.  6. Leis do atritoDois séculos antes do cientista francês Guillaume Amontons (1663-1705), Leonardo da Vinci esboçou as leis do atrito. A partir de análises de anotações feitas pelo renascentista, classificadas anteriormente como "irrelevantes", o engenheiro Ian Hutchings, professor da Universidade de Cambridge, concluiu que o italiano estudou o fenômeno físico por pelo menos duas décadas. E compreendeu seu funcionamento.De acordo com Hutchings, em 1493 Da Vinci já havia traçado as linhas gerais do atrito. Em estudo publicado em 2017, o cientista Prasenjit Das, pesquisador da Universidade Jawaharlal Nehru, descobriu mais: Da Vinci estava certo sobre os estudos da dinâmica de matéria seca granular, quando sistematizou como forças de atrito sólido afetam materiais como areia e grãos de trigo em repouso.  
+
+
+
+
+Image caption
+
+                    Engrenagem em espiral desenhada por da Vinci
+                
+
+7. A reinvenção da rodaAcredita-se que a roda tenha sido inventada pelo homem há cerca de 3.500 anos. Mas Leonardo da Vinci a reinventou, de modo que ela tenha a ampla utilidade contemporânea. Na verdade, ele foi o primeiro a conceber os rolamentos, a partir da descoberta de que o atrito seria reduzido se as rodas não se tocassem em uma estrutura. Ele então projetou separadores que garantiam que pequenas esferas se movessem de forma isolada. Da Vinci não viu sua ideia sair do papel. Mas após a Revolução Industrial, os rolamentos foram incorporados ao dia a dia da humanidade. 8. RobôsLeonardo da Vinci concebeu engenhocas movidas a corda que são consideradas precursoras dos robôs. Uma das mais inventivas era um leão mecânico que dava vários passos e abria automaticamente o peito, exibindo flores. Os movimentos eram garantidos por engrenagens e a sequência era dada mediante uma programação analógica. 
+
+
+Direito de imagem
+M. C. Misiti/Instituto Central de Restauração
+
+
+Image caption
+
+                    Autorretrato de Leonardo da Vinci comprado durante pesquisa do Instituto Central de Restauração da Herança de Arquivo e Bibliotecária, em Roma
+                
+
+9. Regras da naturezaO renascentista italiano fez cálculos e estimativas vislumbrando determinadas proporções da natureza. Com isso, chegou a "regras" ou padrões de repetição. Em 2013, cientistas da Universidade do Arizona concluíram que ele tinha razão, após analisarem cinco espécies diferentes de árvores. "Se você imaginar o colapso de todos os galhos mais externos de uma árvore em um cilindro, tal cilindro seria do tamanho do tronco. De acordo com a regra formulada por Leonardo da Vinci, a área total de ramos é conservada à medida que você vai do tronco até os galhos do topo", afirma a pesquisadora Lisa Bentley, principal autora do estudo.10. Tecnologia de guerra
+
+
+Direito de imagem
+Galeria Nacional de Turin
+
+
+Image caption
+
+                    Veículo bélico desenhado por da Vinci
+                
+
+Da Vinci era um pacifista e costumava lamentar, em seus escritos, os horrores da guerra. Mesmo assim ele projetou artefatos e equipamentos que poderiam ser utilizados para ataque e defesa: de pontes móveis, armamentos sofisticados até um veículo com uma carapaça gigante, precursor dos tanques de guerra.Blindada de madeira e folhas de metal, a geringonça contaria com torre de observação e poderia ser equipada com 20 canhões. Sua mobilidade seria garantida por oito tripulantes, incumbido de girar um conjunto de manivelas.11. ÁguasAlgumas engenhocas projetadas por Da Vinci serviriam para o ser humano vencer o mar. Uma delas foi o escafandro: o renascentista desenhou vestes de couro para mergulhadores, com capacete e canos flexíveis que, boiando graças a cortiças, garantiriam o ar para a respiração. A roupa de mergulho proposta contava até com uma bolsa para armazenar a urina, em caso de vontade de ir ao banheiro.O italiano também chegou a projetar artefatos especiais que, vestidos nos pés, serviriam para o ser humano caminhar sobre as águas.  
+
+
+
+Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+

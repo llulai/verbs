@@ -1,0 +1,154 @@
+
+
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Tecnologia VoIP, 'autodialers' e sofwares fazem parte da engrenagem das 'robochamadas'
+                
+
+O celular toca, a tela mostra um número estranho e a voz do outro lado reproduz uma mensagem automática, é assumida por algum atendente de telemarketing ou simplesmente dá lugar a um toque de que a ligação caiu. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+É bem possível que você faça parte das milhões de pessoas que em todo o mundo que já receberam - ou, na pior das hipóteses, ainda recebe cotidianamente - ligações do tipo, que em outras línguas já até ganharam um vocábulo próprio. Em inglês, por exemplo, são as "robocalls" e em espanhol, "robollamadas" - em português, seria algo como "robochamadas". A definição das robochamadas varia, mas em geral estas incluem a incorporação de tecnologias da telecomunicação impulsionadas em anos recentes - como "autodialers", ferramentas físicas ou softwares que disparam ligações para múltiplas linhas simultaneamente; a tecnologia VoIP (abreviação para "Voz sobre IP"), que permite telefonar através da internet; os chamados "spoofers", que alteram ou escondem os números telefônicos que aparecem no identificador de chamadas; e ainda mensagens pré-gravadas. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+Não há dados oficiais e mundiais consolidados sobre este fenômeno recente. Mas quem trabalha com o tema - de órgãos de defesa do consumidor a empresas de tecnologia - garante: o Brasil, ao lado de países como Índia e Estados Unidos, é um dos lugares no planeta que mais abriga ligações do tipo.  País assume a liderança em ranking de aplicativoO Truecaller é um aplicativo de celular que identifica e registra ligações - e, com estes recursos, faz relatórios mundias sobre chamadas classificadas como "spam" por usuários e automaticamente pelo app. Estas chamadas incluem ligações indesejadas de telemarketing, trotes e golpes.  No levantamento mundial mais recente, relativo ao ano de 2018 (período de janeiro a outubro), o Brasil apareceu em primeiro lugar no número de chamadas spam recebidas por usuário - 37,5 por mês, um aumento de 81% em relação ao mesmo período de 2017. Assim, o Brasil tirou a liderança do ano anterior da Índia - quando Brasil e EUA ficaram empatados no segundo lugar.Segundo a empresa, o Truecaller tem 300 milhões de usuários no mundo - 3,3 milhões no Brasil. 
+
+
+
+De acordo com um comunicado do aplicativo, o Brasil representou uma guinada da tendência em sua região: "As ligações spam e de golpes estão aumentando globalmente, e a América Latina, graças à rápida incorporação da tecnologia móvel, é um exemplo desse fenômeno". "Notamos também que as chamadas de spam no Brasil têm uma característica muito particular: uma das ofertas mais frequentes é de operadoras de telefonia", acrescenta a empresa.
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Em 2018, Brasil assumiu o ranking mundial de usuários de aplicativo que mais recebem ligações 'spam'
+                
+
+No ano passado, o aplicativo registrou que 32% das chamadas spam no Brasil vieram de empresas de telecomunicação; 36% de outras empresas ou campanhas políticas através do telemarketing; 20% foram tentativas de golpes e fraudes; 10% classificadas como "incômodos" (incluindo, por exemplo, trotes e assédio); e 2% provenientes de serviços financeiros.  É um quadro diferente, por exemplo, do Reino Unido, onde a prevalência é de chamadas referentes a seguros e "incômodos"; dos EUA, em que as categorias mais prevalentes são as dos seguros e motivadas por cobranças de dívidas; ou ainda o Canadá, que teve quase 70% das chamadas classificadas como golpes. Por outro lado, têm predominância de chamadas de operadoras de telecomunicação e telemarketing, como o Brasil, países como Índia, Espanha e Itália. "Empresas de telemarketing, obviamente, têm uma estratégia clara para gerar receita ao buscar novos clientes em escala", escreveu por e-mail à BBC News Brasil Nick Larsson, diretor na Truecaller. A BBC News Brasil pediu uma entrevista com representantes das quatro operadoras de telefonia móvel do país - Claro, Oi, Tim e Vivo - sobre o tema, mas nenhuma atendeu à solicitação. Todas preferiram se pronunciar atráves do Sinditelebrasil (Sindicato Nacional das Empresas de Telefonia e de Serviços Móvel Celular e Pessoal), entidade patronal, segundo a qual "as operadoras se utilizam de canais digitais, incluindo telemensagens em ações pontuais".No final de março, após reunião com a Anatel (Agência Nacional de Telecomunicações), o órgão anunciou que empresas do setor apresentarão, em seis meses, um código de conduta para o uso do telemarketing, inibindo "possível prática abusiva e invasiva" e refinando "modelos de abordagem aos consumidores, ajustando horários, frequência de ligações e outros itens necessários". 
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Expansão da telefonia móvel na América Latina expôs a região às robochamadas e ligações spam
+                
+
+Segundo a representação das empresas de telefonia, menos de um terço das chamadas e mensagens comerciais no telemarketing são oriundas das prestadoras, mas o sindicato indica a intenção de atingir a "satisfação dos consumidores" e alinhar-se a outros países em uma autorregulação do setor. Representando a Anatel, Elisa Leonel, superintendente de relações com os consumidores, reconheceu que a reação das empresas chega após muitos transtornos aos consumidores - mas diz que "antes tarde do que nunca"."Esse é um movimento de amadurecimento do mercado, que tem cobrado muito da Anatel desregular. A nossa resposta é que a gente só desregula aquilo que está resolvido. Então, é uma iniciativa delas (das empresas pela autorregulação) em relação a uma provocação que a Anatel tem feito", afirmou à BBC News Brasil,Qualidade de vida do consumidor é impactada, aponta organizaçãoDiogo Moyses, do Instituto Brasileiro de Defesa do Consumidor (Idec), vê como "positiva" a iniciativa das telefônicas, mas avalia que ela é insuficiente para "dar conta da robustez do problema" - que classifica como um "martírio para os consumidores". "As empresas deram um prazo de seis meses para apresentar um código de conduta, mas a qualidade de vida do consumidor está sendo afetada hoje", diz Moyses, líder do programa de Telecomunicações e Direitos Digitais do Idec. "A vulnerabilidade do consumidor fica exposta desde a questão da privacidade, pois a obtenção de dados muitas vezes vem do comércio criminoso de informações, ao usuário não saber quem está ligando, não conseguir nem obter o número (de origem da ligação)". Para o representante do Idec, as soluções devem vir não apenas daqueles que participam da autorregulação, mas envolver outros atores - como as agências reguladoras e a sociedade civil - e inclusive empresas de outros setores, que também recorrem a chamadas robotizadas e spam. Mas, com as regras vigentes hoje, dá pra considerar a prática ilegal?O que diz a leiNão há, no país, leis ou normas nacionais diretamente voltadas para ligações robotizadas ou para o dito telemarketing abusivo. Mas, a depender da interpretação jurídica, pode-se considerar violações de alguns princípios mais gerais presentes no Código de Defesa do Consumidor ou em normas da Anatel. Elisa Leonel diz, porém, que ao menos oito Estados já aprovaram leis para a criação de cadastros de "não perturbe" para todos os setores do mercado, que em geral são geridos pelos Procons (órgãos de proteção e defesa do consumidor). Estas listas incluem número de telefones e celulares de pessoas que não querem receber ligações de telemarketing - mesmo de chamadas vindas de outros Estados.Isto está disponível, por exemplo, para moradores do Estado de São Paulo. Segundo o Procon-SP, desde 2009, mais de 1,9 milhão de telefones já foram cadastrados no Estado.Empresas que recorrem ao telemarketing devem respeitar o cadastro - caso não o façam, podem ser acionadas administrativamente pelo Procon-SP e eventualmente multadas. EUA: chamadas no topo de insatisfação dos consumidores e prioridade de agênciaUm cadastro do tipo, só que nacional, é uma das soluções mais antigas usadas nos Estados Unidos para lidar com o telemarketing abusivo.O país conta com um registro federal chamado de Do Not Call ("Não ligue"), em que a população pode se cadastrar para não receber mais ligações relacionadas a vendas. Empresas que violarem o cadastro estão sujeitas a ações judiciais. Reino Unido, Canadá e Austrália têm sistemas parecidos.Os EUA também têm leis federais que limitam as permissões de chamadas automatizadas com áudios pré-gravados e criaram normas para que as próprias empresas de telefonia disponibilizem a seus clientes ferramentas de bloqueio de certos números.Lá, ligações indesejadas lideraram nos últimos anos o tipo de reclamação de consumidores recebidas pela Comissão Federal de Comunicações (FCC, na sigla em inglês; análoga à Anatel no Brasil). Segundo o órgão, o volume anual de reclamações sobre estas chamadas está na casa de 200 mil, cerca de 60% de todas que chegam à comissão. 
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    'Notamos que as chamadas de spam no Brasil têm uma característica muito particular: uma das ofertas mais frequentes é de operadoras de telefonia', diz o relatório do Truecaller
+                
+
+Por isso, a FCC afirma explicitamente que o combate a ligações robotizadas e irregulares é sua prioridade número um - pois estas são "na melhor das hipóteses, uma perda de tempo, e na pior, um golpe", segundo o presidente do órgão, Ajit Pai. Mas o órgão faz questão de frisar também que muitas vezes as robochamadas são regulares e legítimas, quando usadas por exemplo pela rede de ensino no contato com os responsáveis pelas crianças.A Índia, outra "potência" das robocalls e do telemarketing - cujo desenvolvimento tecnológico e operacional, inclusive, deve muito ao país -, também viu sua agência reguladora publicar, em 2018, um novo conjunto de regras para conter o telemarketing e as robochamadas abusivas. Por exemplo, a Autoridade Regulatória das Telecomunicações da Índia (TRAI, na sigla em inglês) criou um sistema em que, através de diferentes códigos, os indianos podem bloquear comunicações indesejadas via teclado ou SMS. Por exemplo, se querem denunciar e impedir ligações com áudios pré-gravados, podem enviar ao órgão uma SMS com a mensagem "BLOCK 13"; ou, para ligações automatizadas, com atendimento de um funcionário de telemarketing, podem escrever "BLOCK 14". "À frente, esperamos ver como a regulação de 2018 será aplicada. Outro passo importante para garantir que os dados pessoais não vazem ou sejam vendidos e, em último caso, usados para enviar spam, será a promulgação de uma abrangente legislação sobre privacidade", explicou por e-mail à BBC News Brasil Elonnai Hickok, que comanda pesquisas sobre privacidade na ONG Centro para Internet e Sociedade da Índia (CIS, na sigla em inglês). Muralhas e inteligência artificial Mas autoridades em todo o mundo reconhecem que é desproporcional a velocidade com que as tecnologias se desenvolvem e como o poder público responde. "Qualquer um pode enviar milhões de robochamadas e desmantelar a aplicação da lei somente com um computador, softwares baratos e uma conexão com a internet", escreveram procuradores dos Estados Unidos em uma carta sobre o assunto enviada em outubro passado à FCC. Segundo Alex Quilici, presidente do YouMail (outro aplicativo que oferece o bloqueio de chamadas indesejadas), o fato de os softwares usados nas robochamadas serem fáceis e baratos fizeram com que este tipo de ligação explodisse nos últimos três anos. "É simples: você pode apenas encontrar um site, colocar números de telefone, incluir uma gravação de áudio e apertar o botão", explicou Quilici à BBC News Brasil por e-mail. "Quanto mais chamadas entram (para os usuários), menos pessoas atendem a ligações de números desconhecidos - e, com isso, sistemas robotizados fazem ainda mais chamadas".Para complicar, muitas chamadas automatizadas são escondidas por firewalls (espécie de "muralhas" nas redes de computadores para proteger a transmissão de alguns dados) e têm origem em lugares distantes - outros Estados e até outros países.
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Empresas do setor de telecomunicação no Brasil afirmaram que vão propor código para conter telemarketing abusivo em seis meses
+                
+
+Esses circuitos transnacionais podem ocorrer, na maneira mais analógica, com ligações vindas de centros de telemarketing em outros países. Mas, explica Guilherme Marcondes, vice-diretor do Inatel (Instituto Nacional de Telecomunicações), a tecnologia VoIP faz com que ligações iniciadas na internet busquem espécies de âncoras no lugar do mundo mais conveniente para prosseguir com a chamada e conectar-se à rede telefônica tradicional. "No passado, cada linha telefônica estava associada a um hardware (equipamento físico) conectado à central telefônica. Era algo bem rastreável", diz Marcondes, que é coordenador dos cursos de engenharia de computação e de software no Inatel. "Hoje, posso contratar uma chamada originada na internet que em algum ponto vai ter que se conectar à central telefônica. E essa conexão pode acontecer em muitos lugares diferentes".Para o futuro, a inteligência artificial e a inovação em técnicas de manipulação e gravação de vozes devem trazer robochamadas em novas roupagens. Mas o desenvolvimento tecnológico ocorre também no lado da "defesa" contra chamadas indesejadas. Nos EUA, por exemplo, um consórcio de telefônicas está estudando sistemas de autenticação de chamadas. Em outubro de 2018, o Google mostrou que também entrou na arena e apresentou, no lançamento do smartphone Pixel 3, um sistema de bloqueio de números e de envio de mensagens automáticas a emissores identificados pelo usuário como spam.Se o dono do celular decidir marcar a chamada como spam, o emissor da ligação recebe uma mensagem automática dizendo: "Por favor, retire este número de sua lista de contatos e envio de mensagens. Obrigado e adeus". Clique para assinar o canal da BBC News Brasil no YouTube
+
+
+
+Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal! 
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+

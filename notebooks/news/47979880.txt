@@ -1,0 +1,114 @@
+
+
+
+
+Direito de imagem
+iStock
+
+Principal causa de perda irreversível da visão, o glaucoma afetará 80 milhões de pessoas em 2020 e 111,5 milhões em 2040, segundo projeções da Organização Mundial da Saúde (OMS). No Brasil, há escassez de informações confiáveis e atualizadas sobre a prevalência da doença, que neste ano é o tema central da campanha Abril Marrom, cujo objetivo é prevenir e combater os diversos tipos de cegueira.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+"O que sabemos é que nos últimos anos tem havido mais casos por causa do envelhecimento da população e por se fazer mais diagnóstico hoje do que no passado", diz Nara Gravina Ogata, especialista em glaucoma infantil e adulto pelo Hospital das Clínicas da Universidade de São Paulo (USP) e membro do Conselho Brasileiro de Oftalmologia (CBO).
+Infecção em usuários de lente de contato pode causar cegueira e até perda do globo ocular
+'Como um drinque me deixou cega'
+O estranho caso da mulher que só enxerga quando muda de personalidade
+O que é o glaucoma?É uma enfermidade crônica e degenerativa do nervo óptico (estrutura que envia as imagens do olho para o cérebro), normalmente associada ao aumento da pressão intraocular - essa medida indica a tensão no interior do olho e tem valor médio de 16 mmHg, mas até 21 mmHg ainda é considerada dentro do limite da normalidade.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+Ele provoca um estreitamento do campo visual, fazendo com que a pessoa perca progressivamente a visão periférica. Nara explica que, na maioria dos casos, é assintomático. "É uma doença bem silenciosa. Se instala e vai progredindo lentamente, durante meses ou anos, sem a pessoa perceber. O problema é que, quando recebe o diagnóstico, o nervo óptico costuma estar bem danificado e a visão periférica já muito comprometida", afirma.Quem é acometido pela doença?A patologia tem origens variadas, sendo a genética uma das mais relevantes. Para se ter uma ideia, filhos de portadores de glaucoma têm de 6 a 10 vezes mais chance de desenvolvê-lo.Idade avançada também eleva os riscos. No geral, a incidência aumenta a partir dos 40 anos, chegando a 7,5% aos 80, assim como o uso de colírios com corticóide de forma indiscriminada e sem acompanhamento médico, já que eles podem causar aumento da pressão intraocular.A atenção ainda deve ser redobrada em diabéticos, cardiopatas, vítimas de trauma ou lesão (por exemplo, uma bolada ou cotovelada no olho) e pessoas de etnia africana ou asiática.De acordo com o Ministério da Saúde, a prevalência da doença é três vezes maior e a chance de cegueira seis vezes maior em latinos e afrodescendentes em relação aos caucasianos.Quais os tipos de glaucoma?São vários os tipos de glaucoma. O mais comum é o primário de ângulo aberto, que representa cerca de 80% dos diagnósticos. Ele é assintomático e atinge pessoas a partir de 40 anos.Neste caso, a pressão intraocular sobe lentamente devido ao mau funcionando do ângulo de drenagem do olho, responsável pela saída do líquido ocular (humor aquoso). Via de regra, a perda de visão começa nos extremos do campo visual e, se não for tratada corretamente, acaba por comprometer toda a visão. 
+
+
+Direito de imagem
+Thinkstock
+
+O primário de ângulo fechado, com maior incidência em asiáticos e portadores de hipermetropia, ocorre quando o ângulo de saída do humor aquoso é bloqueado, geralmente pela íris, e o fluído não consegue ser drenado. No geral, provoca aumento súbito da pressão intraocular, e o paciente pode ter dor forte nos olhos e na cabeça e ficar com a visão turva. O glaucoma congênito se dá quando a criança nasce com uma má formação no sistema de drenagem do fluído do olho. Seus sintomas incluem olhos sem brilho e de coloração azulada, lacrimejamento, fotofobia e aumento do tamanho do globo ocular. Pode se manifestar logo após o nascimento ou na infância."Este é um tipo pouco frequente, mas é fundamental o diagnóstico precoce para tratamento imediato", pontua Wilma Lelis Barboza, oftalmologista membro do Conselho Brasileiro de Oftalmologia e presidente da Sociedade Brasileira de Glaucoma (SBG).E ela acrescenta: "O teste do olhinho (reflexo vermelho), obrigatório em algumas cidades, é a oportunidade perfeita para o pediatra avaliar possíveis doenças oculares em recém-nascidos".Outro tipo de glaucoma é o de pressão normal. Diferentemente dos demais, neste ocorre dano ao nervo óptico mesmo sem a elevação da pressão intraocular. Suas causas são desconhecidas, mas sabe-se que tem uma associação com problemas vasculares.Há ainda o secundário, desencadeado por fatores externos, como inflamação, trauma e uso de colírios de corticóide por tempo prolongado sem indicação e acompanhamento médico; o pigmentar, causado pela oclusão do ângulo de drenagem do olho por pigmento que se solta da íris, e o pseudoesfoliativo, provocado pela obstrução do sistema de drenagem do humor aquoso por depósitos fibrilares anormais.Como é feito o diagnóstico?Como a maioria dos casos é do tipo assintomático, o diagnóstico da doença se dá na consulta oftalmológica de rotina. Nesta ocasião, informa a médica Nara Gravina Ogata, é imprescindível que seja feita a medição da pressão intraocular e o exame de fundo de olho, para analisar o estado e o funcionamento do nervo óptico."Dependendo do caso, também podem ser necessários mais alguns testes, como campimetria computadorizada (avalia os defeitos do campo visual), paquimetria ultrassônica (mede a espessura da córnea), tomografia de coerência óptica (verifica as estruturas da retina e do nervo óptico) e retinografia (checa possíveis alterações no fundo do olho)", complementa.Vale salientar que pessoas a partir de 40 anos e quem tem histórico familiar de glaucoma precisa procurar o oftalmologista com mais frequência. Na avaliação, serão ponderados os fatores de risco e determinada a periodicidade das visitas.Quais as opções de tratamento?Uma vez diagnosticado o glaucoma, o tratamento se dá com base no seu tipo e estágio. Wilma Lelis Barboza, da SBG, enfatiza que ele não tem cura, mas, sim, controle."É uma doença crônica e progressiva, e o objetivo do tratamento, qualquer que seja ele, é estabilizá-la, mas ele não fará com que o paciente recupere a visão perdida. De toda forma, mesmo os casos avançados, quando há perda importante da visão, precisam ser tratados de forma regular, a fim de evitar a cegueira", assegura.As terapias são feitas com procedimentos clínicos, cirúrgicos ou a combinação dos dois. No início da doença, normalmente recomenda-se a aplicação diária de colírios específicos. 
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Uso de colírio sem acompanhamento médico pode ampliar chance de glaucoma
+                
+
+Entre os mais usuais estão: análogos da prostaglandina (travoprosta, bimatoprosta e latanoprosta), beta bloqueadores (maleato de timolol), inibidores da anidrase carbônica (cloridrato de dorzolamida) e agonistas de receptores adrenérgicos (tartarato de brimonidina). Eles podem ser usados separadamente ou combinados.Em algumas situações também se faz necessário o uso de laser. As primeiras etapas do glaucoma de ângulo fechado, por exemplo, são realizadas dessa forma. A cirurgia, por sua vez, é indicada em cerca de 10% dos casos e no glaucoma congênito.Segundo a presidente da SBG, a adesão ao tratamento, que é contínuo e sem duração pré-determinada, é importantíssima para o seu sucesso. "Por não perceberem a evolução da doença, muitos pacientes tendem a negligenciar a administração dos remédios", completa.Estudos recentes sobre glaucomaRecentemente, especialistas do Conselho Brasileiro de Oftalmologia promoveram dois estudos sobre os impactos do glaucoma na condução de veículos, a fim de verificar se o comprometimento visual provocado pela enfermidade aumenta o risco de acidentes. No primeiro, foi avaliado o impacto do crowding (aglomeração) - fenômeno no qual os objetos se misturam quando apresentados muito próximos, dificultando a visualização - nos glaucomatosos. "O crowding estabelece um limite fundamental para as capacidades da visão periférica e é essencial para explicar o desempenho em uma ampla gama de tarefas diárias", explica Nara, uma das autoras do trabalho."E, devido aos efeitos do glaucoma justamente na visão periférica, hipotetizamos que a perda neural na doença levaria a implicações mais fortes do apinhamento visual, o que foi confirmado", acrescenta.Ao final da experiência, publicada na edição de fevereiro do jornal Investigative Ophthalmology & Visual Science (IOVS), da The Association for Research in Vision and Ophthalmology (Arvo), constatou-se que os que têm a enfermidade, mesmo em estágios iniciais, apresentam dificuldade maior em discriminar os itens. O outro estudo do Conselho Brasileiro de Oftalmologia avaliou a habilidade de dividir a atenção ao dirigir e falar ao celular, cena muito comum no dia a dia, apesar de proibida pelo Código de Trânsito Brasileiro (CTB). O intuito foi verificar a performance de portadores de glaucoma nesta situação.A conclusão foi de que o tempo de reação a estímulos visuais periféricos é significativamente pior entre os pacientes com glaucoma. Durante o uso do celular, foi de 1,86 segundos, contra 1,14 segundos dos motoristas com olhos saudáveis. De acordo com Nara, quem tem a doença não está proibido de guiar um automóvel, porém, precisa ser alertado de que os riscos de acidentes são maiores e, junto com o médico, decidir se é melhorar parar ou continuar com essa atividade.Este trabalho do Conselho Brasileiro de Oftalmologia foi apresentado no último congresso da Sociedade Americana de Glaucoma, em Nova York, nos Estados Unidos, e publicado este mês na revista científica Jama, da American Medical Association (AMA).Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+

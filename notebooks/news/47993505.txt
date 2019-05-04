@@ -3,15 +3,15 @@
 
 
 Direito de imagem
-PresidÍncia da Rep˙blica
+Presid√™ncia da Rep√∫blica
 
 
 Image caption
 
-                    Em mÈdia, orientaÁ„o do governo foi seguida por 62% dos deputados federais
+                    Em m√©dia, orienta√ß√£o do governo foi seguida por 62% dos deputados federais
                 
 
- O governo de Jair Bolsonaro (PSL) poderia ter tido o pior desempenho na C‚mara dos Deputados desde 2003, na comparaÁ„o com o inÌcio da gest„o de seus antecessores Michel Temer (MDB) e os petistas Dilma Rousseff e Luiz In·cio Lula da Silva, na an·lise das votaÁıes feitas na Casa. 
+ O governo de Jair Bolsonaro (PSL) poderia ter tido o pior desempenho na C√¢mara dos Deputados desde 2003, na compara√ß√£o com o in√≠cio da gest√£o de seus antecessores Michel Temer (MDB) e os petistas Dilma Rousseff e Luiz In√°cio Lula da Silva, na an√°lise das vota√ß√µes feitas na Casa. 
 
 
             /**/
@@ -23,7 +23,7 @@ Image caption
             /**/
         
 
-Poderia: ao orientar o voto a favor da PEC (proposta de emenda ‡ ConstituiÁ„o) do OrÁamento Impositivo para evitar uma derrota no plen·rio da C‚mara, no fim de marÁo, o governo acabou "inflando" os n˙meros da ades„o dos deputados ao seu governo. Com isso, o capit„o reformado do ExÈrcito passou pelo teste dos primeiros 100 dias com um desempenho pouco melhor que o da petista Dilma Rousseff (2011) e do emedebista Michel Temer (2016), embora mais modesto que o do tambÈm petista Lula (2003). Formalmente, Bolsonaro teve os votos de 62% dos deputados. Se considerarmos que o governo teve uma derrota na votaÁ„o da PEC do OrÁamento Impositivo, porÈm, esse desempenho cai para apenas 46,8% - o pior pelo menos desde 2003.
+Poderia: ao orientar o voto a favor da PEC (proposta de emenda √† Constitui√ß√£o) do Or√ßamento Impositivo para evitar uma derrota no plen√°rio da C√¢mara, no fim de mar√ßo, o governo acabou "inflando" os n√∫meros da ades√£o dos deputados ao seu governo. Com isso, o capit√£o reformado do Ex√©rcito passou pelo teste dos primeiros 100 dias com um desempenho pouco melhor que o da petista Dilma Rousseff (2011) e do emedebista Michel Temer (2016), embora mais modesto que o do tamb√©m petista Lula (2003). Formalmente, Bolsonaro teve os votos de 62% dos deputados. Se considerarmos que o governo teve uma derrota na vota√ß√£o da PEC do Or√ßamento Impositivo, por√©m, esse desempenho cai para apenas 46,8% - o pior pelo menos desde 2003.
 
 
             /**/
@@ -36,34 +36,34 @@ Poderia: ao orientar o voto a favor da PEC (proposta de emenda ‡ ConstituiÁ„o) d
         
 
 
-Em 4 temas importantes, as profundas diferenÁas no pensamento de olavistas e militares
-N„o È sÛ a PrevidÍncia: outros 4 grandes desafios do governo Bolsonaro na economia
+Em 4 temas importantes, as profundas diferen√ßas no pensamento de olavistas e militares
+N√£o √© s√≥ a Previd√™ncia: outros 4 grandes desafios do governo Bolsonaro na economia
 O que os primeiros 100 dias de Bolsonaro indicam sobre os desafios de seu governo
-A conta È feita considerando quantos, dos 513 deputados, votaram da forma como o governo gostaria (expressa pela orientaÁ„o no painel eletrÙnico). Imagine que o governo peÁa o voto "sim" para um determinado projeto e que 256 dos 512 deputados votem "sim" (o presidente da sess„o n„o vota). Nesse caso, a chamada "taxa de governismo" È de 50%. A PEC do OrÁamento Impositivo foi votada em dois turnos numa sess„o rel‚mpago, em 26 de marÁo. Na Època, Bolsonaro e um de seus filhos, o vereador Carlos Bolsonaro (PSL-RJ), estavam batendo boca com o presidente da C‚mara dos Deputados, Rodrigo Maia (DEM-RJ), nas redes sociais e na imprensa. A PEC obriga o Executivo a pagar as emendas coletivas apresentadas por deputados e senadores - ou seja, tira poder do governo sobre mais uma parte do OrÁamento da Uni„o. Mesmo com a orientaÁ„o a favor, a PEC foi criticada pela lÌder do governo no Congresso, Joice Hasselmann (PSL-SP,) e tambÈm pelo ministro da Economia, Paulo Guedes, entre outros. Tanto Guedes quanto o ministro da Casa Civil, Onyx Lorenzoni, defendem a adoÁ„o do chamado "orÁamento base zero", sem verbas carimbadas para qualquer ·rea - exatamente o contr·rio da PEC do OrÁamento Impositivo. O desempenho do governo Bolsonaro na C‚mara tambÈm piora um pouco quando s„o consideradas as situaÁıes nas quais o governo deixou de orientar os deputados de sua base de apoio - nesse caso, ele obteve 60% dos votos. O governo Bolsonaro foi o que mais se omitiu nas votaÁıes, pelo menos na comparaÁ„o com os ˙ltimos presidentes desde Lula. Sob o polÌtico do PSL, o governo deixou de orientar os deputados em mais de um terÁo (36,6%) das votaÁıes, ante 3% sob Temer, 27% sob Dilma e 20% na Època de Lula. Nas ˙ltimas semanas, Bolsonaro e seu entorno tÍm tomado medidas para tentar melhorar a relaÁ„o do governo com o Congresso: o presidente reuniu-se com presidentes de partidos e abriu uma parte de sua agenda para receber deputados e senadores. Segundo reportagens do site especializado Poder360 e do jornal Folha de S. Paulo, o governo tambÈm teria oferecido R$ 40 milhıes extras em emendas para deputados e senadores que votassem a favor da reforma da PrevidÍncia. 
+A conta √© feita considerando quantos, dos 513 deputados, votaram da forma como o governo gostaria (expressa pela orienta√ß√£o no painel eletr√¥nico). Imagine que o governo pe√ßa o voto "sim" para um determinado projeto e que 256 dos 512 deputados votem "sim" (o presidente da sess√£o n√£o vota). Nesse caso, a chamada "taxa de governismo" √© de 50%. A PEC do Or√ßamento Impositivo foi votada em dois turnos numa sess√£o rel√¢mpago, em 26 de mar√ßo. Na √©poca, Bolsonaro e um de seus filhos, o vereador Carlos Bolsonaro (PSL-RJ), estavam batendo boca com o presidente da C√¢mara dos Deputados, Rodrigo Maia (DEM-RJ), nas redes sociais e na imprensa. A PEC obriga o Executivo a pagar as emendas coletivas apresentadas por deputados e senadores - ou seja, tira poder do governo sobre mais uma parte do Or√ßamento da Uni√£o. Mesmo com a orienta√ß√£o a favor, a PEC foi criticada pela l√≠der do governo no Congresso, Joice Hasselmann (PSL-SP,) e tamb√©m pelo ministro da Economia, Paulo Guedes, entre outros. Tanto Guedes quanto o ministro da Casa Civil, Onyx Lorenzoni, defendem a ado√ß√£o do chamado "or√ßamento base zero", sem verbas carimbadas para qualquer √°rea - exatamente o contr√°rio da PEC do Or√ßamento Impositivo. O desempenho do governo Bolsonaro na C√¢mara tamb√©m piora um pouco quando s√£o consideradas as situa√ß√µes nas quais o governo deixou de orientar os deputados de sua base de apoio - nesse caso, ele obteve 60% dos votos. O governo Bolsonaro foi o que mais se omitiu nas vota√ß√µes, pelo menos na compara√ß√£o com os √∫ltimos presidentes desde Lula. Sob o pol√≠tico do PSL, o governo deixou de orientar os deputados em mais de um ter√ßo (36,6%) das vota√ß√µes, ante 3% sob Temer, 27% sob Dilma e 20% na √©poca de Lula. Nas √∫ltimas semanas, Bolsonaro e seu entorno t√™m tomado medidas para tentar melhorar a rela√ß√£o do governo com o Congresso: o presidente reuniu-se com presidentes de partidos e abriu uma parte de sua agenda para receber deputados e senadores. Segundo reportagens do site especializado Poder360 e do jornal Folha de S. Paulo, o governo tamb√©m teria oferecido R$ 40 milh√µes extras em emendas para deputados e senadores que votassem a favor da reforma da Previd√™ncia. 
 
 
 
-Nos 100 primeiros dias de Bolsonaro, a C‚mara teve 44 votaÁıes nominais. A maioria foi de requerimentos, como os usados pela oposiÁ„o para atrasar a an·lise de projetos. VotaÁ„o nominal È aquela em que o voto de cada deputado È registrado, ao contr·rio das votaÁıes simbÛlicas. AlÈm da PEC do orÁamento impositivo, a maioria das votaÁıes nos 100 primeiros dias de Bolsonaro faz parte do processo de aprovaÁ„o de dois outros projetos: o que torna o "cadastro positivo" de crÈdito obrigatÛrio para os consumidores; e o que permite o controle de empresas aÈreas pelo capital estrangeiro. Ambos foram aprovados pela C‚mara, e iniciaram sua tramitaÁ„o em governos anteriores. Nenhum projeto do governo atual chegou ao plen·rio da C‚mara.Com seus 62%, de votos favor·veis apÛs a "manobra", Bolsonaro n„o se saiu mal quando comparado aos seus antecessores no cargo - pelo menos formalmente. Em meados de 2016, Temer teve os votos de 56,4% dos deputados, apÛs assumir temporariamente depois do afastamento de Dilma Rousseff (PT). A mÈdia do emedebista nesse perÌodo inicial foi puxada para baixo pelas votaÁıes de vetos presidenciais - muitos deputados simplesmente n„o estavam presentes no plen·rio, e, portanto, n„o poderiam votar segundo a orientaÁ„o do governo. ExcluÌdos os vetos, o desempenho de Temer no comeÁo da gest„o sobe para 59,3%. 
+Nos 100 primeiros dias de Bolsonaro, a C√¢mara teve 44 vota√ß√µes nominais. A maioria foi de requerimentos, como os usados pela oposi√ß√£o para atrasar a an√°lise de projetos. Vota√ß√£o nominal √© aquela em que o voto de cada deputado √© registrado, ao contr√°rio das vota√ß√µes simb√≥licas. Al√©m da PEC do or√ßamento impositivo, a maioria das vota√ß√µes nos 100 primeiros dias de Bolsonaro faz parte do processo de aprova√ß√£o de dois outros projetos: o que torna o "cadastro positivo" de cr√©dito obrigat√≥rio para os consumidores; e o que permite o controle de empresas a√©reas pelo capital estrangeiro. Ambos foram aprovados pela C√¢mara, e iniciaram sua tramita√ß√£o em governos anteriores. Nenhum projeto do governo atual chegou ao plen√°rio da C√¢mara.Com seus 62%, de votos favor√°veis ap√≥s a "manobra", Bolsonaro n√£o se saiu mal quando comparado aos seus antecessores no cargo - pelo menos formalmente. Em meados de 2016, Temer teve os votos de 56,4% dos deputados, ap√≥s assumir temporariamente depois do afastamento de Dilma Rousseff (PT). A m√©dia do emedebista nesse per√≠odo inicial foi puxada para baixo pelas vota√ß√µes de vetos presidenciais - muitos deputados simplesmente n√£o estavam presentes no plen√°rio, e, portanto, n√£o poderiam votar segundo a orienta√ß√£o do governo. Exclu√≠dos os vetos, o desempenho de Temer no come√ßo da gest√£o sobe para 59,3%. 
 
 
 
-Nos 100 primeiros dias de seu 1∫ mandato, em 2011, Dilma Rousseff conquistou os votos de 60,35% dos deputados federais - ela assumiu o governo num perÌodo de crescimento econÙmico e estribada na popularidade de seu antecessor e padrinho polÌtico, Lula (PT). Os primeiros dias de Dilma foram tambÈm um perÌodo de pouca atividade na C‚mara, com apenas 18 votaÁıes nominais registradas.O antecessor dela, Lula (PT) tambÈm teve um comeÁo de gest„o "tranquilo" com os deputados - em seus primeiros 100 dias, a C‚mara teve apenas 10 votaÁıes nominais, e a orientaÁ„o do governo foi seguida por 66,6% dos deputados. Ao longo do primeiro mandato de Lula, o n˙mero de partidos que apoiavam formalmente o governo aumentou. No fim de 2003, eram 11 legendas, e somavam 376 deputados. A situaÁ„o do petista sÛ se agravou em maio de 2015, quando estourou o esc‚ndalo do mensal„o. Este consistia, segundo a acusaÁ„o, na compra de apoio parlamentar com propina.O site da c‚mara mantÈm registros sistematizados atÈ o ano de 1991, mas n„o È possÌvel estender a an·lise ao comeÁo dos governos de Fernando Henrique Cardoso (1995-2002). Isto porque os registros do primeiro ano de governo do tucano j· n„o incluem a orientaÁ„o do governo. No comeÁo dos governos de Itamar Franco (1992), Fernando Collor de Mello (1990) e JosÈ Sarney (1985), n„o h· registros sistematizados. 
+Nos 100 primeiros dias de seu 1¬∫ mandato, em 2011, Dilma Rousseff conquistou os votos de 60,35% dos deputados federais - ela assumiu o governo num per√≠odo de crescimento econ√¥mico e estribada na popularidade de seu antecessor e padrinho pol√≠tico, Lula (PT). Os primeiros dias de Dilma foram tamb√©m um per√≠odo de pouca atividade na C√¢mara, com apenas 18 vota√ß√µes nominais registradas.O antecessor dela, Lula (PT) tamb√©m teve um come√ßo de gest√£o "tranquilo" com os deputados - em seus primeiros 100 dias, a C√¢mara teve apenas 10 vota√ß√µes nominais, e a orienta√ß√£o do governo foi seguida por 66,6% dos deputados. Ao longo do primeiro mandato de Lula, o n√∫mero de partidos que apoiavam formalmente o governo aumentou. No fim de 2003, eram 11 legendas, e somavam 376 deputados. A situa√ß√£o do petista s√≥ se agravou em maio de 2015, quando estourou o esc√¢ndalo do mensal√£o. Este consistia, segundo a acusa√ß√£o, na compra de apoio parlamentar com propina.O site da c√¢mara mant√©m registros sistematizados at√© o ano de 1991, mas n√£o √© poss√≠vel estender a an√°lise ao come√ßo dos governos de Fernando Henrique Cardoso (1995-2002). Isto porque os registros do primeiro ano de governo do tucano j√° n√£o incluem a orienta√ß√£o do governo. No come√ßo dos governos de Itamar Franco (1992), Fernando Collor de Mello (1990) e Jos√© Sarney (1985), n√£o h√° registros sistematizados. 
 
 
 Direito de imagem
-AgÍncia C‚mara
+Ag√™ncia C√¢mara
 
 
 Image caption
 
-                    Em 1995, o registro das sessıes n„o traz a orientaÁ„o do governo, o que impede comparaÁıes diretas
+                    Em 1995, o registro das sess√µes n√£o traz a orienta√ß√£o do governo, o que impede compara√ß√µes diretas
                 
 
-AntÙnio Augusto de Queiroz È analista polÌtico e diretor do Departamento Intersindical de An·lise Parlamentar (DIAP). Segundo ele, o governo Bolsonaro È o primeiro desde a redemocratizaÁ„o do paÌs (1985) a atingir a marca dos 100 dias de gest„o sem uma base parlamentar consolidada. "Por outro lado, a capacidade de articulaÁ„o deste governo no Congresso n„o foi testada ainda, porque os projetos que foram votados atÈ agora ou s„o do governo Temer (capital estrangeiro em empresas aÈreas, cadastro positivo) ou s„o de iniciativa do prÛprio Parlamento (PEC do OrÁamento Impositivo). Nenhum projeto do prÛprio Bolsonaro chegou atÈ o plen·rio", diz ele. "O grande teste ser· mesmo com a votaÁ„o da reforma da PrevidÍncia", diz o analista."Na verdade, o governo se encontra em um impasse na relaÁ„o com o Congresso. Ao mesmo tempo em que contenta o eleitorado com o discurso sobre 'nova polÌtica', agride a maioria dos congressistas", diz AntÙnio. "Para consolidar esta base no Congresso, precisar· mudar o discurso", diz.Clique aqui para conhecer os dados que embasam esta reportagem.'Bolsonaro n„o teve lua de mel com o Congresso'Depois de ver os n˙meros levantados pela reportagem da BBC News Brasil, o cientista polÌtico Cl·udio Couto, da FundaÁ„o Get˙lio Vargas, pontuou que o desempenho de Bolsonaro no plen·rio da C‚mara n„o est· ligado ‡ chamada "lua de mel" que os governantes costumam experimentar no comeÁo de seus mandatos. Tal "lua de mel" foi algo que n„o existiu no caso de Bolsonaro, segundo ele. "Na verdade, eu nunca vi um comeÁo de governo t„o caÛtico quanto este. N„o È sÛ na articulaÁ„o polÌtica com o Congresso. Basta pensar no MinistÈrio da EducaÁ„o, por exemplo (o ministro anterior da pasta, Ricardo VÈlez RodrÌguez, foi demitido com apenas 98 dias no cargo)", diz. Segundo o cientista polÌtico, talvez o desempenho "formal" de Bolsonaro no plen·rio da C‚mara no inÌcio de seu governo se deva a um consenso anterior dos partidos em relaÁ„o aos projetos que estavam em pauta - e nem tanto aos mÈritos da prÛpria articulaÁ„o bolsonarista. 
+Ant√¥nio Augusto de Queiroz √© analista pol√≠tico e diretor do Departamento Intersindical de An√°lise Parlamentar (DIAP). Segundo ele, o governo Bolsonaro √© o primeiro desde a redemocratiza√ß√£o do pa√≠s (1985) a atingir a marca dos 100 dias de gest√£o sem uma base parlamentar consolidada. "Por outro lado, a capacidade de articula√ß√£o deste governo no Congresso n√£o foi testada ainda, porque os projetos que foram votados at√© agora ou s√£o do governo Temer (capital estrangeiro em empresas a√©reas, cadastro positivo) ou s√£o de iniciativa do pr√≥prio Parlamento (PEC do Or√ßamento Impositivo). Nenhum projeto do pr√≥prio Bolsonaro chegou at√© o plen√°rio", diz ele. "O grande teste ser√° mesmo com a vota√ß√£o da reforma da Previd√™ncia", diz o analista."Na verdade, o governo se encontra em um impasse na rela√ß√£o com o Congresso. Ao mesmo tempo em que contenta o eleitorado com o discurso sobre 'nova pol√≠tica', agride a maioria dos congressistas", diz Ant√¥nio. "Para consolidar esta base no Congresso, precisar√° mudar o discurso", diz.Clique aqui para conhecer os dados que embasam esta reportagem.'Bolsonaro n√£o teve lua de mel com o Congresso'Depois de ver os n√∫meros levantados pela reportagem da BBC News Brasil, o cientista pol√≠tico Cl√°udio Couto, da Funda√ß√£o Get√∫lio Vargas, pontuou que o desempenho de Bolsonaro no plen√°rio da C√¢mara n√£o est√° ligado √† chamada "lua de mel" que os governantes costumam experimentar no come√ßo de seus mandatos. Tal "lua de mel" foi algo que n√£o existiu no caso de Bolsonaro, segundo ele. "Na verdade, eu nunca vi um come√ßo de governo t√£o ca√≥tico quanto este. N√£o √© s√≥ na articula√ß√£o pol√≠tica com o Congresso. Basta pensar no Minist√©rio da Educa√ß√£o, por exemplo (o ministro anterior da pasta, Ricardo V√©lez Rodr√≠guez, foi demitido com apenas 98 dias no cargo)", diz. Segundo o cientista pol√≠tico, talvez o desempenho "formal" de Bolsonaro no plen√°rio da C√¢mara no in√≠cio de seu governo se deva a um consenso anterior dos partidos em rela√ß√£o aos projetos que estavam em pauta - e nem tanto aos m√©ritos da pr√≥pria articula√ß√£o bolsonarista. 
 
 
 Direito de imagem
-Cepespe / FGV - divulgaÁ„o
+Cepespe / FGV - divulga√ß√£o
 
 
 Image caption
@@ -71,35 +71,35 @@ Image caption
                     Couto: taxa de sucesso de Bolsonaro pode ser explicada por consenso anterior entre partidos
                 
 
-Couto vÍ uma forÁa parecida agindo em relaÁ„o ‡ Reforma da PrevidÍncia. "Quando a gente vÍ o grau de confus„o que impera na relaÁ„o com o Congresso, parece que n„o h· nenhuma chance de passar. SÛ que tem um outro aspecto importante. Produziu-se um relativo consenso (na classe polÌtica) sobre a necessidade de uma reforma. Sabe-se que, sem isso, vamos viver uma situaÁ„o muito difÌcil. Ent„o, pode ser que seja aprovada mais a despeito do governo do que por causa dele", diz o professor.Construir relaÁ„o com o Congresso leva tempo, diz lÌder do governoO lÌder do governo na C‚mara È o deputado de primeiro mandato Major Vitor Hugo (PSL-GO), escolhido pelo prÛprio Bolsonaro. ¿ BBC News Brasil, ele n„o negou que existam dificuldades de articulaÁ„o no Congresso, mas disse que os percalÁos s„o tempor·rios: a relaÁ„o entre Executivo e Legislativo vive um momento de acomodaÁ„o. "O meu pedido, quando vocÍ for fazer essa avaliaÁ„o, È que considere como a eleiÁ„o se deu. Foram dois partidos (o PSL e o PRTB, do vice Hamilton Mour„o), que elegeram o presidente. Ele (Bolsonaro) n„o loteou ministÈrios. N„o houve coaliz„o de partidos", disse ele.
+Couto v√™ uma for√ßa parecida agindo em rela√ß√£o √† Reforma da Previd√™ncia. "Quando a gente v√™ o grau de confus√£o que impera na rela√ß√£o com o Congresso, parece que n√£o h√° nenhuma chance de passar. S√≥ que tem um outro aspecto importante. Produziu-se um relativo consenso (na classe pol√≠tica) sobre a necessidade de uma reforma. Sabe-se que, sem isso, vamos viver uma situa√ß√£o muito dif√≠cil. Ent√£o, pode ser que seja aprovada mais a despeito do governo do que por causa dele", diz o professor.Construir rela√ß√£o com o Congresso leva tempo, diz l√≠der do governoO l√≠der do governo na C√¢mara √© o deputado de primeiro mandato Major Vitor Hugo (PSL-GO), escolhido pelo pr√≥prio Bolsonaro. √Ä BBC News Brasil, ele n√£o negou que existam dificuldades de articula√ß√£o no Congresso, mas disse que os percal√ßos s√£o tempor√°rios: a rela√ß√£o entre Executivo e Legislativo vive um momento de acomoda√ß√£o. "O meu pedido, quando voc√™ for fazer essa avalia√ß√£o, √© que considere como a elei√ß√£o se deu. Foram dois partidos (o PSL e o PRTB, do vice Hamilton Mour√£o), que elegeram o presidente. Ele (Bolsonaro) n√£o loteou minist√©rios. N√£o houve coaliz√£o de partidos", disse ele.
 
 
 Direito de imagem
-PresidÍncia da Rep˙blica
+Presid√™ncia da Rep√∫blica
 
 
 Image caption
 
-                    Bolsonaro n„o formou uma base antes de assumir, ao contr·rio dos antecessores, argumenta Vitor Hugo (esq.)
+                    Bolsonaro n√£o formou uma base antes de assumir, ao contr√°rio dos antecessores, argumenta Vitor Hugo (esq.)
                 
 
-"O presidente, na verdade, disputou contra a coaliz„o que apoiou o (Geraldo) Alckmin (PSDB), dos partidos do Centr„o. Ent„o n„o houve prÈ-formataÁ„o da base (de apoio do governo). A ideia do presidente sempre foi fazer com que a relaÁ„o polÌtica se desse de forma diferente. E ele est· imprimindo isso. … natural que tenha um tempo de acomodaÁ„o, e estamos vivendo esse tempo", afirmou o deputado ‡ BBC News Brasil. Nos ˙ltimos dias, Bolsonaro passou a se empenhar para melhorar sua relaÁ„o com o Congresso. No comeÁo de abril, recebeu presidentes de v·rios partidos para conversas no Pal·cio do Planalto. Mais recentemente, interlocutores do governo voltaram a acenar com a distribuiÁ„o de cargos do governo federal nos Estados, que poderiam ser preenchidos com indicaÁıes de congressistas.Vitor Hugo diz n„o estar sabendo negociaÁıes recentes. "Fiquei sabendo pela Folha (de S. Paulo), n„o passa por mim. Mas eu sinto no presidente a disposiÁ„o total (de melhorar a interlocuÁ„o com o Congresso). Ele È um eterno parlamentar, ficou na C‚mara por 28 anos". Sobre a PEC do orÁamento impositivo, Vitor Hugo diz que n„o se trata de uma derrota para o governo - nem a votaÁ„o no plen·rio, no fim de marÁo, e nem o fato da proposta ter "passado na frente" da reforma da PrevidÍncia na Comiss„o de ConstituiÁ„o e JustiÁa (CCJ), na semana passada. "O governo acredita na autonomia do Poder Legislativo. Se esta proposta (do orÁamento impositivo) se tornou prioridade, tudo bem". 
+"O presidente, na verdade, disputou contra a coaliz√£o que apoiou o (Geraldo) Alckmin (PSDB), dos partidos do Centr√£o. Ent√£o n√£o houve pr√©-formata√ß√£o da base (de apoio do governo). A ideia do presidente sempre foi fazer com que a rela√ß√£o pol√≠tica se desse de forma diferente. E ele est√° imprimindo isso. √â natural que tenha um tempo de acomoda√ß√£o, e estamos vivendo esse tempo", afirmou o deputado √† BBC News Brasil. Nos √∫ltimos dias, Bolsonaro passou a se empenhar para melhorar sua rela√ß√£o com o Congresso. No come√ßo de abril, recebeu presidentes de v√°rios partidos para conversas no Pal√°cio do Planalto. Mais recentemente, interlocutores do governo voltaram a acenar com a distribui√ß√£o de cargos do governo federal nos Estados, que poderiam ser preenchidos com indica√ß√µes de congressistas.Vitor Hugo diz n√£o estar sabendo negocia√ß√µes recentes. "Fiquei sabendo pela Folha (de S. Paulo), n√£o passa por mim. Mas eu sinto no presidente a disposi√ß√£o total (de melhorar a interlocu√ß√£o com o Congresso). Ele √© um eterno parlamentar, ficou na C√¢mara por 28 anos". Sobre a PEC do or√ßamento impositivo, Vitor Hugo diz que n√£o se trata de uma derrota para o governo - nem a vota√ß√£o no plen√°rio, no fim de mar√ßo, e nem o fato da proposta ter "passado na frente" da reforma da Previd√™ncia na Comiss√£o de Constitui√ß√£o e Justi√ßa (CCJ), na semana passada. "O governo acredita na autonomia do Poder Legislativo. Se esta proposta (do or√ßamento impositivo) se tornou prioridade, tudo bem". 
 
 
 Direito de imagem
-AgÍncia C‚mara
+Ag√™ncia C√¢mara
 
 
 Image caption
 
-                    Rodrigo Maia costuma criticar a falta de articulaÁ„o polÌtica de Bolsonaro
+                    Rodrigo Maia costuma criticar a falta de articula√ß√£o pol√≠tica de Bolsonaro
                 
 
-O posto de lÌder do governo È um dos mais importantes da Casa, geralmente ocupado por cardeais da polÌtica. Cabe ao lÌder representar as opiniıes do chefe do Executivo diante dos colegas. Vitor Hugo È alvo de crÌticas de colegas, inclusive do PSL, que o julgam imaturo para a funÁ„o. J· houve inclusive tentativas de retir·-lo do cargo. "A lideranÁa do governo È do presidente. … uma prerrogativa dele. A minha preocupaÁ„o È me manter alinhado com ele e buscar os interesses do paÌs, traduzidos nas teses do governo. Das crÌticas que recebo, eu analiso para saber se È uma crÌtica no nÌvel polÌtico, de alguÈm que quer ser lÌder no meu lugar, ou se È realmente algo que eu possa melhorar", diz Vitor Hugo. TrÍs meses de atritosOs atritos do governo Bolsonaro com deputados e senadores comeÁaram no primeiro dia de funcionamento do Congresso, durante a eleiÁ„o dos presidentes das duas Casas. Na C‚mara, o ministro da Casa Civil, Onyx Lorenzoni trabalhou quase atÈ o ˙ltimo momento para derrotar Rodrigo Maia (DEM-RJ), que acabou eleito; no Senado, Davi Alcolumbre (DEM-AP) foi escolhido numa sess„o bastante conturbada. No fim de marÁo, Jair Bolsonaro e seu filho Carlos, vereador pelo PSL no Rio de Janeiro, trocaram chumbo com Rodrigo Maia. Num programa de TV, o presidente disse que Maia estava "um pouco abalado com questıes pessoais que vÍm acontecendo na vida dele". A frase foi entendida como uma referÍncia ‡ pris„o do ex-ministro de Temer, Moreira Franco, que È sogro do deputado - a mesma provocaÁ„o foi feita pouco antes por Carlos, no Twitter. 
+O posto de l√≠der do governo √© um dos mais importantes da Casa, geralmente ocupado por cardeais da pol√≠tica. Cabe ao l√≠der representar as opini√µes do chefe do Executivo diante dos colegas. Vitor Hugo √© alvo de cr√≠ticas de colegas, inclusive do PSL, que o julgam imaturo para a fun√ß√£o. J√° houve inclusive tentativas de retir√°-lo do cargo. "A lideran√ßa do governo √© do presidente. √â uma prerrogativa dele. A minha preocupa√ß√£o √© me manter alinhado com ele e buscar os interesses do pa√≠s, traduzidos nas teses do governo. Das cr√≠ticas que recebo, eu analiso para saber se √© uma cr√≠tica no n√≠vel pol√≠tico, de algu√©m que quer ser l√≠der no meu lugar, ou se √© realmente algo que eu possa melhorar", diz Vitor Hugo. Tr√™s meses de atritosOs atritos do governo Bolsonaro com deputados e senadores come√ßaram no primeiro dia de funcionamento do Congresso, durante a elei√ß√£o dos presidentes das duas Casas. Na C√¢mara, o ministro da Casa Civil, Onyx Lorenzoni trabalhou quase at√© o √∫ltimo momento para derrotar Rodrigo Maia (DEM-RJ), que acabou eleito; no Senado, Davi Alcolumbre (DEM-AP) foi escolhido numa sess√£o bastante conturbada. No fim de mar√ßo, Jair Bolsonaro e seu filho Carlos, vereador pelo PSL no Rio de Janeiro, trocaram chumbo com Rodrigo Maia. Num programa de TV, o presidente disse que Maia estava "um pouco abalado com quest√µes pessoais que v√™m acontecendo na vida dele". A frase foi entendida como uma refer√™ncia √† pris√£o do ex-ministro de Temer, Moreira Franco, que √© sogro do deputado - a mesma provoca√ß√£o foi feita pouco antes por Carlos, no Twitter. 
 
 
 Direito de imagem
-PresidÍncia da Rep˙blica
+Presid√™ncia da Rep√∫blica
 
 
 Image caption
@@ -107,19 +107,17 @@ Image caption
                     Onyx Lorenzoni (Casa Civil) trabalhou para derrotar Rodrigo Maia, em fevereiro
                 
 
-"Abalados est„o os brasileiros, que est„o esperando desde 1∫ de janeiro que o governo comece a funcionar. S„o 12 milhıes de desempregados, 15 milhıes de brasileiros vivendo abaixo da linha de pobreza", devolveu Maia. A rusga culminou com a maior alta do dÛlar em quase seis meses.  De l· para c·, o governo assistiu ‡ aprovaÁ„o a jato da PEC do impositivo; viu o ministro Paulo Guedes ser hostilizado na Comiss„o de ConstituiÁ„o e JustiÁa, a CCJ; assistiu ao ministro Marcelo ¡lvaro AntÙnio (Turismo) ser acusado por uma deputada do PSL de ameaÁ·-la de morte; e amargou atrasos na tramitaÁ„o da reforma da PrevidÍncia. Outra medida importante para o governo, a medida provisÛria que reorganizou a estrutura da Esplanada dos MinistÈrios, est· com a tramitaÁ„o atrasada. 
+"Abalados est√£o os brasileiros, que est√£o esperando desde 1¬∫ de janeiro que o governo comece a funcionar. S√£o 12 milh√µes de desempregados, 15 milh√µes de brasileiros vivendo abaixo da linha de pobreza", devolveu Maia. A rusga culminou com a maior alta do d√≥lar em quase seis meses.  De l√° para c√°, o governo assistiu √† aprova√ß√£o a jato da PEC do impositivo; viu o ministro Paulo Guedes ser hostilizado na Comiss√£o de Constitui√ß√£o e Justi√ßa, a CCJ; assistiu ao ministro Marcelo √Ålvaro Ant√¥nio (Turismo) ser acusado por uma deputada do PSL de amea√ß√°-la de morte; e amargou atrasos na tramita√ß√£o da reforma da Previd√™ncia. Outra medida importante para o governo, a medida provis√≥ria que reorganizou a estrutura da Esplanada dos Minist√©rios, est√° com a tramita√ß√£o atrasada. 
 
 
 
-J· assistiu aos nossos novos vÌdeos no YouTube? Inscreva-se no nosso canal!
+J√° assistiu aos nossos novos v√≠deos no YouTube? Inscreva-se no nosso canal!
 
 
-Pule YouTube post  de BBC News Brasil
-
-Alerta: Conte˙do de terceiros pode conter publicidade
-Final de YouTube post  de BBC News Brasil
 
 
+Direitos da imagem BBC News Brasil
+BBC News Brasil
 
 
 
@@ -137,12 +135,9 @@ BBC News Brasil
 
 
 
-Pule YouTube post 2 de BBC News Brasil
 
-Alerta: Conte˙do de terceiros pode conter publicidade
-Final de YouTube post 2 de BBC News Brasil
-
-
+Direitos da imagem BBC News Brasil
+BBC News Brasil
 
 
 
@@ -160,12 +155,9 @@ BBC News Brasil
 
 
 
-Pule YouTube post 3 de BBC News Brasil
 
-Alerta: Conte˙do de terceiros pode conter publicidade
-Final de YouTube post 3 de BBC News Brasil
-
-
+Direitos da imagem BBC News Brasil
+BBC News Brasil
 
 
 
@@ -174,7 +166,6 @@ Final de YouTube post 3 de BBC News Brasil
 
 Direitos da imagem BBC News Brasil
 BBC News Brasil
-
 
 
 

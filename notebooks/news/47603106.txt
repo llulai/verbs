@@ -1,0 +1,127 @@
+
+
+
+
+Direito de imagem
+Alamy
+
+
+Image caption
+
+                    Substituir as fotos de perfil do LinkedIn por imagens de cachorro pode tornar os processos seletivos mais justos?
+                
+
+Contratar bons profissionais não é fácil - e isso não é novidade. Por experiência própria, posso atestar a dificuldade que é preencher vagas com candidatos que acredito serem qualificados ou que se encaixem na cultura da empresa.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+Sabemos que é mais difícil ainda, no entanto, deixar de lado nossos próprios preconceitos na hora de contratar - sejam eles conscientes ou inconscientes. Do ponto de vista do candidato, ninguém gosta de imaginar que pode ser eliminado de um processo seletivo porque o gestor ou recrutador associou seu nome ao de alguém por quem não tem simpatia, a uma universidade na qual não foi aceito ou, pior, porque simplesmente não gostou da sua foto de perfil em uma rede social.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+
+'Não entrevisto negros': a vítima por trás da denúncia viral que expôs preconceito em busca de emprego
+A pergunta que foi proibida em entrevistas de emprego nos EUA
+Aaron Weyenberg, diretor de pesquisa e desenvolvimento da organização sem fins lucrativos TED, em Nova York, precisava encontrar uma maneira de avaliar os candidatos sem ser influenciado pelo seu preconceito inconsciente.Ele resolveu transformar todos em cachorros.Weyenberg criou o "Profile of Dogs", uma extensão do navegador Google Chrome que transforma automaticamente as fotos de perfil dos usuários de LinkedIn na imagem aleatória de um cachorro. O nome da extensão foi inspirado no filme Ilha dos Cachorros (Isle of Dogs, em inglês), de Wes Anderson.O LinkedIn é uma ferramenta importante nos processos de recrutamento em muitos países e, embora muitas empresas ainda solicitem currículo e carta de apresentação, os candidatos geralmente são pré-selecionados no LinkedIn."Todos os tipos de informações que não têm nada a ver com a qualificação da pessoa podem aparecer involuntariamente no nosso campo de visão", diz Weyenberg. "A ascensão do LinkedIn certamente não fez nada para diminuir isso. Eles não oferecem nenhum tipo de modo de navegação que suprima informações irrelevantes e forneça dados mais substanciais".Alguém, afirma Weyenberg, tinha de fazer isso por eles.Preocupado com o preconceito inconsciente que ele e os membros de sua equipe podem ter, Weyenberg criou uma política de contratação que prevê a realização de uma primeira rodada de entrevistas com os candidatos por telefone - sem vídeo. Ainda assim, diz ele, o LinkedIn "frequentemente entra no processo antes disso. E acaba revelando informações que eu realmente não queria e que não me ajudam - como a aparência dos candidatos (e, portanto, a idade aproximada), nome, etc."Weyenberg classifica o "Profile of Dogs" como "uma espécie de cavalo de Troia" - algo divertido que ao mesmo tempo aborda um problema real.Poodles x pit bullsO problema é que as pessoas fazem associações com todo tipo de coisa, explica Alexander Todorov, vice-presidente de psicologia da Universidade de Princeton, nos EUA. Até mesmo com cachorros."Os dobermans têm um tipo de reputação que é diferente de um golden retriever", diz ele. 
+
+
+Direito de imagem
+Reprodução / BBC
+
+
+Image caption
+
+                    Extensão de navegador transforma fotos de usuários do LinkedIn em imagens aleatórias de cachorros
+                
+
+"Se eu vejo alguém com uma foto de, digamos, um pit bull, há inferências específicas que me vêm à cabeça em relação a essa pessoa - mesmo que possam ser completamente falsas."Além disso, nossas reações aos rostos são diferentes em comparação com outros sinais de identificação. Temos muito menos consciência das suposições que podemos fazer com base na aparência de alguém. Questão mais profundaAs pessoas em geral sabem quando nutrem certos estereótipos em relação a questões que são debatidas, como raça e orientação sexual. E, muitas vezes, se esforçam para corrigir esse viés, diz Todorov. Mas no caso dos rostos, "não há uma tendência a ser corrigida, e a maioria desses preconceitos passa despercebida".E isso pode acontecer mesmo sabendo que uma foto de perfil é gerada aleatoriamente. A casualidade pode ajudar a reduzir o preconceito, explica Todorov, mas você não pode evitar os sinais que são interpretados inconscientemente. "Certamente temos vários estereótipos sobre [diferentes raças de] cães", acrescenta.Ou seja, é provável que você também possa fazer um julgamento precipitado sobre a credibilidade de alguém a partir da imagem de um cachorro gerada ao acaso. "Isso vai se sobrepor no julgamento, mesmo que você tenha outras informações úteis na tela", diz ele. "A mente é uma grande máquina de associações."É claro que Weyenberg não é a única pessoa tentando eliminar o preconceito inconsciente. Muitos recrutadores e até mesmo empresas de software estão experimentando remover informações de identificação - incluindo nome e ano de graduação - de aplicativos para garantir mais igualdade nos processos seletivos. Ainda assim, quase tudo pode desencadear algum viés."Ofuscar os rostos é apenas o primeiro passo. Muitos currículos contêm outros elementos que permitem que o preconceito influencie a decisão de contratação. Por exemplo, certas escolas estão associadas a um nível socioeconômico mais alto e isso pode desencadear um viés baseado no status socio-econômico", explica Sharon E. Jones, CEO da consultoria global de inclusão Jones Diversity. E, mesmo que seja possível eliminar o viés da etapa inicial do processo seletivo, há poucas maneiras de evitar que ele permeie as fases seguintes."A maioria das pessoas acredita que é justa e que apoia a meritocracia na contratação e no ambiente de trabalho", diz Jones. "O que as pessoas não entendem é que querer ser justo não faz com que você seja justo", completa.Ainda assim, a extensão para o navegador é divertida - e sem dúvida desempenha pelo menos parte da função a que se destina. Segundo Weyenberg, na próxima versão será possível substituir os nomes dos usuários - outra grande fonte de associação e preconceito - por nomes comuns de cachorros. Mas e se você tiver sido mordido por um cachorro chamado Totó ou Pingo na infância? Os candidatos agradecem se você não tiver guardado rancor dele. 
+
+
+
+Como o viés pode afetar a contrataçãoO preconceito "inconsciente" (ou "implícito") dos recrutadores pode influenciar quem é selecionado para entrevistas e vagas de emprego de diversas maneiras:Raça - Pesquisadores indicam que candidatos brancos receberam em média 36% mais retornos do que candidatos negros e 24% a mais do que latinos desde 1990;Peso - Um estudo mostrou que candidatos obesos eram percebidos como menos capazes do que candidatos que não estavam acima do peso;Idade - Uma experiência de campo revelou que um candidato mais jovem recebe de três a quatro vezes mais retornos do que um com mais idade;Gênero - Um site de anúncios de emprego no Reino Unido descobriu que a linguagem usada para cargos de nível sênior era completamente enviesada para atrair homens.
+
+
+
+
+Leia a versão original desta reportagem (em inglês) no site BBC Capital.
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+

@@ -1,0 +1,186 @@
+
+
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    A maioria dos usuários não sabe que há aplicativos que coletam e armazenam seus dados
+                
+
+ Você já teve a sensação alguma vez de que o seu smartphone ou tablet grava as suas conversas? Já recebeu algum anúncio, digamos, de passagens aéreas para o Rio de Janeiro logo depois de falar com um amigo que estava pensando em passar férias lá?
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+Lenda urbana ou realidade? Meu telefone pode realmente estar "gravando" minhas conversas ao vivo?
+Sob risco de extinção, espécie de papagaio mais gorda do mundo tem recorde na reprodução e anima biólogos
+Funcionário do Facebook alertou sobre Cambridge Analytica meses antes de escândalo
+A proliferação de microfones nos nossos celulares e de autofalantes inteligentes - como o sistema Siri da Apple e a Alexa da Amazon - pode nos levar a pensar que qualquer um pode escutar nossas conversas e que nossa privacidade está ameaçada.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+Zoe Kleinman, correspondente de tecnologia da BBC, relatou no programa Bussines Daily a experiência que teve com seu celular - e que a levou a desconfiar que terceiros acessaram o microfone do aparelho para espioná-la."Há alguns anos, eu estava conversando com minha mãe na cozinha da casa dela, e ela me contou que um amigo da família tinha morrido em um acidente de trânsito fora do país. Lembro que o telefone estava do meu lado". 
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    A jornalista Zoe Kleinman começou a investigar se é possível que estejamos sendo gravados
+                
+
+"Foi um acidente dramático, e então procurei saber se algum veículo de comunicação tinha noticiado (o acidente). Digitei o sobrenome dele no mecanismo de busca, e o corretor me sugeriu corretamente o resto do nome", diz. "Como era possível o buscador me oferecer essa possibilidade quando, na verdade, nenhum meio de comunicação tinha escrito nada sobre o acidente?", pergunta ela. Coincidência?Pode ser. Pode ser também que outras pessoas já tivessem buscado aquele nome antes no mecanismo, o que o levaria a "deduzir" o restante.De qualquer forma, Kleinman começou a investigar se realmente era possível que nossos dispositivos estivessem acessando nossas conversas.Para isto, chamou um especialista no tema e o desafiou a criar um programa que fosse capaz de "capturar" as conversas pelo microfone de seu celular, a partir de um laptop. "O que me pareceu mais desesperador é que ele conseguiu desenvolver esse aplicativo em dois dias." 
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Existem programas muito acessíveis que permitem converter qualquer áudio do seu telefone em texto
+                
+
+Testado, o sistema se mostrou capaz de converter em texto as conversas captadas pelo microfone do celular. Se até Kleinman e seu especialista conseguiram, o que poderiam fazer empresas gigantes de tecnologia?"Na verdade é um risco grande para elas. Espionar é ilegal. Não se pode colher dados de pessoas sem antes receber permissão explícita para tal", diz. Kleinman fez questão de ressaltar, porém, que o que ela e o especialista demonstraram é que a espionagem era tecnicamente possível. E não que estivesse necessariamente acontecendo. "A conclusão a que chegamos é que, se é possível, é provável que haja pessoas tentando ativar o controle de voz. Nos rodeamos com esses dispositivos e eles estão nos ouvindo, à espera de palavras de controle para ativá-los", diz Kleinman. "Todas as empresas absolutamente negam que usem os dados coletados por voz e neguem que compartilhem esses dados com terceiros", diz a jornalista da BBC.Software por cinco dólaresOutra pessoa que demonstrou como é fácil hackear o microfone de alguém foi o cineasta holandês Anthony van der Meer. Ele deixou seu telefone ser roubado de propósito, a fim de secretamente usá-lo para registrar o ladrão.Ele instalou um aplicativo muito simples no aparelho que lhe permitia fazer tudo o que faz com seu telefone normalmente, mas à distância.
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Aplicativos para acesso remoto ao celular são bastante baratos - e legais
+                
+
+Esse aplicativo sempre funcionaria, mesmo que o ladrão reiniciasse o smartphone."Eu podia ver contatos, mensagens, gravar áudio, vídeo, tirar fotos", diz ele. Em suma, van der Meer tinha acesso a tudo. "Me dei conta do quanto compartilhamos com nosso celular e de que esse é o dispositivo perfeito para espionagem, porque as pessoas o levam com eles o tempo todo." Celulares costumam ter um microfone, câmera e até sistema GPS, que permite que você saiba onde as pessoas estão. Não nos damos conta do dano que ele pode fazer", diz van der Meer.Por exemplo: o cineasta ficou sabendo que o ladrão frequentava abrigos para pessoas sem teto, depois de olhar os registros de GPS.Ele também gravou 30 segundos de conversa duas vezes por dia. Se parecesse interessante, ele gravaria mais tempo.O aplicativo que ele tinha instalado no telefone roubado permitiu que ele visse quando o celular estava on-line. Também enviava um texto de conversas gravadas para o e-mail de van der Meer. 
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Se as empresas monitoram nossos passos na rede, o que podemos fazer sobre isso?
+                
+
+"É um aplicativo muito útil e fácil de usar", diz ele.É também um software legal e não muito caro. "Eu acho que paguei cerca de US$ 5 para me inscrever e usá-lo para a vida toda".Outra coisa que Anthony Van der Meer destaca é o poder do microfone."Mesmo que esteja no bolso, as conversas foram bastante claras e nítidas". Los hoteles donde grabaron con cámaras ocultas a cientos de huéspedes y transmitieron en vivo las imágenes por internet"Na verdade, é muito assustador saber que, mesmo para uma pessoa como eu, com habilidades tecnológicas limitadas, é muito fácil."E quando é tão fácil obter seus dados, extorsão ou chantagem passam a ser um risco real. "O aplicativo pode fazer streaming, ou seja, gravar ao vivo o que a pessoa está fazendo naquele momento, seja em vídeo ou áudio", afirma o cineasta.Termos de usoA especialista em segurança, Lisa Forte, diz estar certa de que nosso celulares permitem que sejamos espionados, e chama a atenção para os termos de uso, as mensagens que aparecem no celular quando baixamos novos aplicativos, muitas vezes pedindo autorização para acessar os microfones, localização e câmeras. 
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Ao usar lojas on-line como a Amazon, você fornece um registro de hábitos de compra
+                
+
+Ela lembra, sem citar o nome, de um aplicativo que dizia, em seus termos de uso, que não ia "armazenar nenhum áudio em nossos servidores"."Para mim, é uma coisa muito estranha de se dizer, porque se eles não acumulassem nenhum dos dados que coletam sobre nós, eles diriam simplesmente que 'nenhum dado será coletado'." "Eu acho que eles poderiam estar transcrevendo o áudio e é isso que eles armazenam: um texto sobre nosso áudio", explica Forte.
+
+
+Direito de imagem
+Thinkstock
+
+
+Image caption
+
+                    Há coisas que podem ser feitas para manter o anonimato - como apagar o seu histórico de navegação
+                
+
+Toda essa coleta de dados é usada, no caso descrito por Forte, com um propósito comercial. Mas uma vez que as empresas armazenam nossos dados, nada impede que hackers os roubem e os usem contra nós. Como se protegerEntão, o que as pessoas podem fazer para se proteger?"Eu nunca tenho uma conversa importante perto do meu telefone, mas o que é importante com os smartphones é ter o sistema operacional atualizado. Toda vez que uma atualização for lançada, atualize imediatamente", recomenda Lisa Forte.Se houver alguma suspeita ou falha no sistema operacional do telefone, a atualização resolveria isso.Finalmente, devemos ter muito cuidado com os aplicativos que baixamos e com as permissões que concedemos a eles.É realmente necessário que este jogo de que gostamos tenha acesso à nossa câmera? Para quê?"Outra coisa a ter em mente é que existem aplicativos que ativam o microfone e isso nos consome dados e bateria", lembra Kleinman.
+
+
+
+Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
+
+
+Pule YouTube post  de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post  de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+Pule YouTube post 2 de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post 2 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+Pule YouTube post 3 de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post 3 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+

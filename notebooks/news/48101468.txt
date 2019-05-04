@@ -8,10 +8,10 @@ Pedro Oliveira / ALEP
 
 Image caption
 
-                    Sérgio Moro usou o Twitter para defender que o Coaf continue sob seu comando
+                    SÃ©rgio Moro usou o Twitter para defender que o Coaf continue sob seu comando
                 
 
- O presidente do Conselho de Controle de Atividades Financeiras (Coaf), Roberto Leonel de Oliveira Lima, disse à BBC News Brasil preferir que o órgão comandado por ele continue na estrutura do Ministério da Justiça, em vez de passar ao controle do Ministério da Economia. 
+ O presidente do Conselho de Controle de Atividades Financeiras (Coaf), Roberto Leonel de Oliveira Lima, disse Ã  BBC News Brasil preferir que o Ã³rgÃ£o comandado por ele continue na estrutura do MinistÃ©rio da JustiÃ§a, em vez de passar ao controle do MinistÃ©rio da Economia. 
 
 
             /**/
@@ -23,11 +23,11 @@ Image caption
             /**/
         
 
-A mudança é cogitada por deputados e senadores, para os quais o titular da Justiça, o ex-juiz Sérgio Moro, teria ganhado poder excessivo com as mudanças na Esplanada dos Ministérios feitas pelo presidente Jair Bolsonaro no começo do ano. 
-As consequências inesperadas nos EUA do ‘plea bargain’, parte do pacote anticrime de Moro
-O que é o 'pacote anticrime' de Sérgio Moro e por que alguns advogados e juristas o questionam
-Caso Coaf: O que disseram Bolsonaro, Onyx e Moro sobre depósitos suspeitos de ex-motorista
-Nos últimos anos, relatórios do Coaf foram fundamentais para várias investigações contra a corrupção - embora o órgão raramente apareça em destaque no noticiário. 
+A mudanÃ§a Ã© cogitada por deputados e senadores, para os quais o titular da JustiÃ§a, o ex-juiz SÃ©rgio Moro, teria ganhado poder excessivo com as mudanÃ§as na Esplanada dos MinistÃ©rios feitas pelo presidente Jair Bolsonaro no comeÃ§o do ano. 
+As consequÃªncias inesperadas nos EUA do â€˜plea bargainâ€™, parte do pacote anticrime de Moro
+O que Ã© o 'pacote anticrime' de SÃ©rgio Moro e por que alguns advogados e juristas o questionam
+Caso Coaf: O que disseram Bolsonaro, Onyx e Moro sobre depÃ³sitos suspeitos de ex-motorista
+Nos Ãºltimos anos, relatÃ³rios do Coaf foram fundamentais para vÃ¡rias investigaÃ§Ãµes contra a corrupÃ§Ã£o - embora o Ã³rgÃ£o raramente apareÃ§a em destaque no noticiÃ¡rio. 
 
 
             /**/
@@ -39,7 +39,7 @@ Nos últimos anos, relatórios do Coaf foram fundamentais para várias investigaçõe
             /**/
         
 
-Uma exceção se deu no começo de 2019, quando veio a público um Relatório de Inteligência Financeira (RIF) do Coaf sobre a gestão do gabinete do então deputado estadual Flávio Bolsonaro (PSL). O documento mostrou que um ex-assessor de Flávio, Fabrício Queiroz, fez 48 depósitos de R$ 2 mil para o político, hoje senador pelo PSL do Rio.  O Coaf surgiu em 1998 e fez parte do antigo Ministério da Fazenda até o começo deste ano. Estabelecimentos que movimentam valores altos - como bancos, corretoras, joalherias, concessionárias de automóveis e até empresas que agenciam atletas - são obrigadas por lei a enviar informações ao Coaf sempre que detectarem transações altas em dinheiro vivo ou com indícios de irregularidades. O repasse de informações deve ser automático em alguns casos, como operações em dinheiro acima de R$ 50 mil, ou quando houver movimentação atípica - um valor que fuja do padrão de transações do cliente ou seja incompatível com seus rendimentos. E são muitos os casos assim: hoje, passam de 14 mil por dia, segundo Leonel. É no meio deste "mar" de notificações que os técnicos buscam os dados que farão a diferença para as investigações criminais.
+Uma exceÃ§Ã£o se deu no comeÃ§o de 2019, quando veio a pÃºblico um RelatÃ³rio de InteligÃªncia Financeira (RIF) do Coaf sobre a gestÃ£o do gabinete do entÃ£o deputado estadual FlÃ¡vio Bolsonaro (PSL). O documento mostrou que um ex-assessor de FlÃ¡vio, FabrÃ­cio Queiroz, fez 48 depÃ³sitos de R$ 2 mil para o polÃ­tico, hoje senador pelo PSL do Rio.  O Coaf surgiu em 1998 e fez parte do antigo MinistÃ©rio da Fazenda atÃ© o comeÃ§o deste ano. Estabelecimentos que movimentam valores altos - como bancos, corretoras, joalherias, concessionÃ¡rias de automÃ³veis e atÃ© empresas que agenciam atletas - sÃ£o obrigadas por lei a enviar informaÃ§Ãµes ao Coaf sempre que detectarem transaÃ§Ãµes altas em dinheiro vivo ou com indÃ­cios de irregularidades. O repasse de informaÃ§Ãµes deve ser automÃ¡tico em alguns casos, como operaÃ§Ãµes em dinheiro acima de R$ 50 mil, ou quando houver movimentaÃ§Ã£o atÃ­pica - um valor que fuja do padrÃ£o de transaÃ§Ãµes do cliente ou seja incompatÃ­vel com seus rendimentos. E sÃ£o muitos os casos assim: hoje, passam de 14 mil por dia, segundo Leonel. Ã‰ no meio deste "mar" de notificaÃ§Ãµes que os tÃ©cnicos buscam os dados que farÃ£o a diferenÃ§a para as investigaÃ§Ãµes criminais.
 
 
 Direito de imagem
@@ -48,66 +48,56 @@ IsaacAmorim/AG.MJ
 
 Image caption
 
-                    Roberto Leonel: trabalho do Coaf é essencialmente técnico e não persegue quem quer que seja
+                    Roberto Leonel: trabalho do Coaf Ã© essencialmente tÃ©cnico e nÃ£o persegue quem quer que seja
                 
 
-A possível volta do Coaf para o Ministério da Economia está sendo discutida pelos congressistas na tramitação da Medida Provisória (MP) 870, que reorganizou o governo e reduziu o número de ministérios de 29 para 22. Até agora, a MP já recebeu 541 sugestões de mudanças dos congressistas. A volta do Coaf para o Ministério da Economia seria uma demonstração de força do Congresso e um recado para Moro. A MP precisa ser aprovada até o começo de junho, ou perderá a validade. Auditor fiscal da Receita há mais de 30 anos, Roberto Leonel já trabalhou com Moro antes: chefiava a área de investigação da Receita em Curitiba (PR), quando Moro comandava a Lava Jato na capital paranaense. No Paraná, era o responsável pelos levantamentos contábeis necessários à investigação. Desde que chegou a Brasília, Roberto Leonel trabalhou para aumentar a estrutura do Coaf - que, segundo ele, funcionou com número insuficiente de servidores nos últimos anos. No início de 2019, eram apenas 37 pessoas trabalhando no órgão. Hoje são 45, e o plano é chegar a 70 no meio do ano, diz Leonel. Segundo ele, a vinda dos novos servidores só ocorreu porque o Coaf foi um dos poucos órgãos no MJ aumentar o número de gratificações disponíveis para trazer servidores de outras partes da Esplanada - a chamada "função gratificada". Além disso, a Medida Provisória de Bolsonaro estendeu ao Coaf uma prerrogativa que antes era apenas da Presidência da República: as requisições de servidores não podem ser recusadas pelos seus órgãos de origem. São "irrecusáveis". Apesar de já ter dito que prefere que o Coaf continue sob o Ministério da Justiça, Bolsonaro admitiu que pode negociar com o Congresso a volta do órgão para a Economia. Já Sérgio Moro usou o Twitter para defender a manutenção do Coaf onde está hoje. A ampliação do Coaf corre risco se ele for parar sob as asas de Paulo Guedes no Ministério da Economia? "Sim", diz Leonel. "Aliás, mantendo a estrutura, e o poder de requisição, em tese, o nosso trabalho continuaria sendo o mesmo. O Coaf sempre atuou de maneira técnica, e vai continuar atuando. Dentro de qualquer ministério que esteja", pondera ele. 
+A possÃ­vel volta do Coaf para o MinistÃ©rio da Economia estÃ¡ sendo discutida pelos congressistas na tramitaÃ§Ã£o da Medida ProvisÃ³ria (MP) 870, que reorganizou o governo e reduziu o nÃºmero de ministÃ©rios de 29 para 22. AtÃ© agora, a MP jÃ¡ recebeu 541 sugestÃµes de mudanÃ§as dos congressistas. A volta do Coaf para o MinistÃ©rio da Economia seria uma demonstraÃ§Ã£o de forÃ§a do Congresso e um recado para Moro. A MP precisa ser aprovada atÃ© o comeÃ§o de junho, ou perderÃ¡ a validade. Auditor fiscal da Receita hÃ¡ mais de 30 anos, Roberto Leonel jÃ¡ trabalhou com Moro antes: chefiava a Ã¡rea de investigaÃ§Ã£o da Receita em Curitiba (PR), quando Moro comandava a Lava Jato na capital paranaense. No ParanÃ¡, era o responsÃ¡vel pelos levantamentos contÃ¡beis necessÃ¡rios Ã  investigaÃ§Ã£o. Desde que chegou a BrasÃ­lia, Roberto Leonel trabalhou para aumentar a estrutura do Coaf - que, segundo ele, funcionou com nÃºmero insuficiente de servidores nos Ãºltimos anos. No inÃ­cio de 2019, eram apenas 37 pessoas trabalhando no Ã³rgÃ£o. Hoje sÃ£o 45, e o plano Ã© chegar a 70 no meio do ano, diz Leonel. Segundo ele, a vinda dos novos servidores sÃ³ ocorreu porque o Coaf foi um dos poucos Ã³rgÃ£os no MJ aumentar o nÃºmero de gratificaÃ§Ãµes disponÃ­veis para trazer servidores de outras partes da Esplanada - a chamada "funÃ§Ã£o gratificada". AlÃ©m disso, a Medida ProvisÃ³ria de Bolsonaro estendeu ao Coaf uma prerrogativa que antes era apenas da PresidÃªncia da RepÃºblica: as requisiÃ§Ãµes de servidores nÃ£o podem ser recusadas pelos seus Ã³rgÃ£os de origem. SÃ£o "irrecusÃ¡veis". Apesar de jÃ¡ ter dito que prefere que o Coaf continue sob o MinistÃ©rio da JustiÃ§a, Bolsonaro admitiu que pode negociar com o Congresso a volta do Ã³rgÃ£o para a Economia. JÃ¡ SÃ©rgio Moro usou o Twitter para defender a manutenÃ§Ã£o do Coaf onde estÃ¡ hoje. A ampliaÃ§Ã£o do Coaf corre risco se ele for parar sob as asas de Paulo Guedes no MinistÃ©rio da Economia? "Sim", diz Leonel. "AliÃ¡s, mantendo a estrutura, e o poder de requisiÃ§Ã£o, em tese, o nosso trabalho continuaria sendo o mesmo. O Coaf sempre atuou de maneira tÃ©cnica, e vai continuar atuando. Dentro de qualquer ministÃ©rio que esteja", pondera ele. 
 
 
 Direito de imagem
-Agência Brasil 
+AgÃªncia Brasil 
 
 
 Image caption
 
-                    Flávio Bolsonaro foi alvo da operação Furna da Onça junto com vários outros deputados estaduais do Rio
+                    FlÃ¡vio Bolsonaro foi alvo da operaÃ§Ã£o Furna da OnÃ§a junto com vÃ¡rios outros deputados estaduais do Rio
                 
 
-Das 541 sugestões dos congressistas, uma ataca diretamente o plano de Leonel: a de número 21, do deputado Hildo Rocha (MDB-MA), acaba com as requisições "irrecusáveis" do Coaf. "É compreensível que as requisições para a Presidência da República sejam irrecusáveis. Trata-se, contudo, de regra excepcional, que não deve ser estendida indiscriminadamente", escreve Rocha ao justificar a emenda. "O que mudou (com a ida para o Ministério da Justiça) foi o apoio enorme que tivemos. Desenvolvemos relacionamentos estratégicos com outras áreas do Ministério e tivemos a integração das bases de dados de vários outros órgãos, que nos deu um acesso (às informações) muito mais rápido e seguro", diz Leonel. Moro também apoia o Coaf nas suas demandas, diz o presidente do órgão. Leonel cita o empenho do ex-juiz em favor de uma lei que acelera o bloqueio de bens de pessoas ligadas a organizações terroristas. A lei foi aprovada em fevereiro pelo Congresso, depois de anos parada. "Com o empenho pessoal do ministro, conseguimos em dois meses a aprovação. Já estamos trabalhando agora no decreto que a regulamenta", diz. A norma é uma recomendação do Grupo de Ação Financeira Internacional (GAFI), uma organização internacional contra crimes financeiros. 
+Das 541 sugestÃµes dos congressistas, uma ataca diretamente o plano de Leonel: a de nÃºmero 21, do deputado Hildo Rocha (MDB-MA), acaba com as requisiÃ§Ãµes "irrecusÃ¡veis" do Coaf. "Ã‰ compreensÃ­vel que as requisiÃ§Ãµes para a PresidÃªncia da RepÃºblica sejam irrecusÃ¡veis. Trata-se, contudo, de regra excepcional, que nÃ£o deve ser estendida indiscriminadamente", escreve Rocha ao justificar a emenda. "O que mudou (com a ida para o MinistÃ©rio da JustiÃ§a) foi o apoio enorme que tivemos. Desenvolvemos relacionamentos estratÃ©gicos com outras Ã¡reas do MinistÃ©rio e tivemos a integraÃ§Ã£o das bases de dados de vÃ¡rios outros Ã³rgÃ£os, que nos deu um acesso (Ã s informaÃ§Ãµes) muito mais rÃ¡pido e seguro", diz Leonel. Moro tambÃ©m apoia o Coaf nas suas demandas, diz o presidente do Ã³rgÃ£o. Leonel cita o empenho do ex-juiz em favor de uma lei que acelera o bloqueio de bens de pessoas ligadas a organizaÃ§Ãµes terroristas. A lei foi aprovada em fevereiro pelo Congresso, depois de anos parada. "Com o empenho pessoal do ministro, conseguimos em dois meses a aprovaÃ§Ã£o. JÃ¡ estamos trabalhando agora no decreto que a regulamenta", diz. A norma Ã© uma recomendaÃ§Ã£o do Grupo de AÃ§Ã£o Financeira Internacional (GAFI), uma organizaÃ§Ã£o internacional contra crimes financeiros. 
 
 
 Direito de imagem
-Marcelo Camargo/Agência Brasil
+Marcelo Camargo/AgÃªncia Brasil
 
 
 Image caption
 
-                    A MP que altera a estrutura do governo já recebeu 541 emendas de deputados e senadores. Na foto, o plenário da Câmara
+                    A MP que altera a estrutura do governo jÃ¡ recebeu 541 emendas de deputados e senadores. Na foto, o plenÃ¡rio da CÃ¢mara
                 
 
-Com os novos funcionários, Roberto Leonel está ampliando duas áreas dentro do Coaf. Uma delas atua na cooperação com o Ministério Público e as polícias. A outra visa melhorar a qualidade da ciência de dados usada pelo órgão para achar os casos importantes em meio as 14 mil notificações diárias. Esta última já existia, diz Leonel, mas tinha apenas um servidor efetivo. O plano é que tenha pelo menos sete até o fim do semestre. Leonel vê a melhora da qualidade desses mecanismos de busca como objetivo da maior importância. Segundo ele, o órgão armazena hoje os dados de 17 milhões de transações financeiras - um palheiro no qual é muitas vezes difícil achar as "agulhas" que faltam para a polícia ou o Ministério Público."De repente nós temos uma comunicação importante, que tem um dado importante para uma investigação criminal. Ela está guardada lá no nosso banco de dados e não deu tempo de ser trabalhada. Ou o nosso sistema de gerenciamento de risco não viu aquilo. Então nós temos que melhorar os parâmetros de gerenciamento de risco, de mineração de dados", diz ele. Coaf nunca perseguiu políticos, diz presidente À BBC News Brasil, Roberto Leonel disse ainda que o Coaf nunca "perseguiu" quem quer que seja - entre outras coisas, porque grande parte do trabalho é feita de forma automática. "Como unidade de inteligência, o Coaf sempre trabalhou com análise financeira de forma de uma maneira absolutamente técnica. Independente do alvo ser um político, do alvo ser um traficante, um sequestrador", disse. "Essas análises são feitas, na maior parte dos casos, de uma maneira eletrônica. Em função do número de comunicações, em função de vários parâmetros que nós temos no nosso sistema de gerenciamento de risco". "Independente de qual ministério estejamos vinculados, este é o trabalho do Coaf. É um trabalho técnico, que continuará a ser feito (da mesma forma), desde 1998", disse ele. 
+Com os novos funcionÃ¡rios, Roberto Leonel estÃ¡ ampliando duas Ã¡reas dentro do Coaf. Uma delas atua na cooperaÃ§Ã£o com o MinistÃ©rio PÃºblico e as polÃ­cias. A outra visa melhorar a qualidade da ciÃªncia de dados usada pelo Ã³rgÃ£o para achar os casos importantes em meio as 14 mil notificaÃ§Ãµes diÃ¡rias. Esta Ãºltima jÃ¡ existia, diz Leonel, mas tinha apenas um servidor efetivo. O plano Ã© que tenha pelo menos sete atÃ© o fim do semestre. Leonel vÃª a melhora da qualidade desses mecanismos de busca como objetivo da maior importÃ¢ncia. Segundo ele, o Ã³rgÃ£o armazena hoje os dados de 17 milhÃµes de transaÃ§Ãµes financeiras - um palheiro no qual Ã© muitas vezes difÃ­cil achar as "agulhas" que faltam para a polÃ­cia ou o MinistÃ©rio PÃºblico."De repente nÃ³s temos uma comunicaÃ§Ã£o importante, que tem um dado importante para uma investigaÃ§Ã£o criminal. Ela estÃ¡ guardada lÃ¡ no nosso banco de dados e nÃ£o deu tempo de ser trabalhada. Ou o nosso sistema de gerenciamento de risco nÃ£o viu aquilo. EntÃ£o nÃ³s temos que melhorar os parÃ¢metros de gerenciamento de risco, de mineraÃ§Ã£o de dados", diz ele. Coaf nunca perseguiu polÃ­ticos, diz presidente Ã€ BBC News Brasil, Roberto Leonel disse ainda que o Coaf nunca "perseguiu" quem quer que seja - entre outras coisas, porque grande parte do trabalho Ã© feita de forma automÃ¡tica. "Como unidade de inteligÃªncia, o Coaf sempre trabalhou com anÃ¡lise financeira de forma de uma maneira absolutamente tÃ©cnica. Independente do alvo ser um polÃ­tico, do alvo ser um traficante, um sequestrador", disse. "Essas anÃ¡lises sÃ£o feitas, na maior parte dos casos, de uma maneira eletrÃ´nica. Em funÃ§Ã£o do nÃºmero de comunicaÃ§Ãµes, em funÃ§Ã£o de vÃ¡rios parÃ¢metros que nÃ³s temos no nosso sistema de gerenciamento de risco". "Independente de qual ministÃ©rio estejamos vinculados, este Ã© o trabalho do Coaf. Ã‰ um trabalho tÃ©cnico, que continuarÃ¡ a ser feito (da mesma forma), desde 1998", disse ele. 
 
 
 Direito de imagem
-MJ / Divulgação
+MJ / DivulgaÃ§Ã£o
 
 
 Image caption
 
-                    Bolsonaro (esq.) admite negociar mudanças no Coaf com o Congresso
+                    Bolsonaro (esq.) admite negociar mudanÃ§as no Coaf com o Congresso
                 
 
-Roberto Leonel também é enfático ao dizer que o Coaf "nunca" vazou informações sobre suas investigações. Segundo ele, o que acontece é que alguns dos Relatórios de Inteligência Financeira (RIFs) são juntados aos processos - e podem, eventualmente, vir a  público. Ele diz ainda que o órgão não sofreu qualquer ingerência em seu trabalho no caso de Fabrício Queiroz - mesmo que um dos envolvidos seja filho do presidente da República. Em alguns casos - como os de pessoas que já foram investigadas - os relatórios são produzidos de forma automática pelo sistema, e enviados diretamente para os investigadores.  "O próprio sistema, em casos de figuras PEPs (sigla em inglês para Pessoa Politicamente Exposta), já emite os RIFs de maneira automática. Quando entra uma comunicação de uma determinada pessoa, que já sofreu uma análise financeira do Coaf, e está sob investigação (...), automaticamente é gerado um novo Relatório de Inteligência Financeira", diz ele. 
+Roberto Leonel tambÃ©m Ã© enfÃ¡tico ao dizer que o Coaf "nunca" vazou informaÃ§Ãµes sobre suas investigaÃ§Ãµes. Segundo ele, o que acontece Ã© que alguns dos RelatÃ³rios de InteligÃªncia Financeira (RIFs) sÃ£o juntados aos processos - e podem, eventualmente, vir a  pÃºblico. Ele diz ainda que o Ã³rgÃ£o nÃ£o sofreu qualquer ingerÃªncia em seu trabalho no caso de FabrÃ­cio Queiroz - mesmo que um dos envolvidos seja filho do presidente da RepÃºblica. Em alguns casos - como os de pessoas que jÃ¡ foram investigadas - os relatÃ³rios sÃ£o produzidos de forma automÃ¡tica pelo sistema, e enviados diretamente para os investigadores.  "O prÃ³prio sistema, em casos de figuras PEPs (sigla em inglÃªs para Pessoa Politicamente Exposta), jÃ¡ emite os RIFs de maneira automÃ¡tica. Quando entra uma comunicaÃ§Ã£o de uma determinada pessoa, que jÃ¡ sofreu uma anÃ¡lise financeira do Coaf, e estÃ¡ sob investigaÃ§Ã£o (...), automaticamente Ã© gerado um novo RelatÃ³rio de InteligÃªncia Financeira", diz ele. 
 
 
 
-Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
+JÃ¡ assistiu aos nossos novos vÃ­deos no YouTube? Inscreva-se no nosso canal!
 
 
+Pule YouTube post  de BBC News Brasil
 
-
-Direitos da imagem BBC News Brasil
-BBC News Brasil
-
-
-
-
-
-
-Direitos da imagem BBC News Brasil
-BBC News Brasil
-
-
+Alerta: ConteÃºdo de terceiros pode conter publicidade
+Final de YouTube post  de BBC News Brasil
 
 
 
@@ -124,6 +114,21 @@ BBC News Brasil
 
 
 
+
+
+
+Pule YouTube post 2 de BBC News Brasil
+
+Alerta: ConteÃºdo de terceiros pode conter publicidade
+Final de YouTube post 2 de BBC News Brasil
+
+
+
+
+
+
+
+
 Direitos da imagem BBC News Brasil
 BBC News Brasil
 
@@ -135,17 +140,21 @@ BBC News Brasil
 
 
 
+Pule YouTube post 3 de BBC News Brasil
+
+Alerta: ConteÃºdo de terceiros pode conter publicidade
+Final de YouTube post 3 de BBC News Brasil
+
+
+
+
+
+
+
 
 Direitos da imagem BBC News Brasil
 BBC News Brasil
 
-
-
-
-
-
-Direitos da imagem BBC News Brasil
-BBC News Brasil
 
 
 

@@ -8,10 +8,10 @@ Reuters
 
 Image caption
 
-                    Deputados discutem durante sess„o na CCJ; prÛximo passo agora È comiss„o especial
+                    Deputados discutem durante sess√£o na CCJ; pr√≥ximo passo agora √© comiss√£o especial
                 
 
-ApÛs cerca de nove horas de sess„o, tentativas da oposiÁ„o de obstruir o projeto e um painel de votaÁ„o queimado, a Comiss„o de ConstituiÁ„o e JustiÁa (CCJ) da C‚mara dos Deputados aprovou no final da noite desta terÁa-feira parecer favor·vel ‡ reforma da PrevidÍncia. O placar foi de 48 votos a 18 e foi confirmado pouco antes da meia-noite. 
+Ap√≥s cerca de nove horas de sess√£o, tentativas da oposi√ß√£o de obstruir o projeto e um painel de vota√ß√£o queimado, a Comiss√£o de Constitui√ß√£o e Justi√ßa (CCJ) da C√¢mara dos Deputados aprovou no final da noite desta ter√ßa-feira parecer favor√°vel √† reforma da Previd√™ncia. O placar foi de 48 votos a 18 e foi confirmado pouco antes da meia-noite. 
 
 
             /**/
@@ -23,7 +23,7 @@ ApÛs cerca de nove horas de sess„o, tentativas da oposiÁ„o de obstruir o projeto
             /**/
         
 
-A aprovaÁ„o foi o primeiro passo concreto do projeto do governo do presidente Jair Bolsonaro no Congresso - mas h· ainda muitas etapas pela frente, passando por outras comissıes e plen·rios da C‚mara e do Senado. A vitÛria do Planalto na CCJ veio atravÈs da aprovaÁ„o do relatÛrio do delegado Marcelo Freitas (PSL-MG), que desde o inÌcio foi favor·vel ao projeto do governo, mas precisou passar por alguns ajustes para contemplar demandas de deputados (leia mais abaixo). Freitas È o relator da proposta na CCJ.   
+A aprova√ß√£o foi o primeiro passo concreto do projeto do governo do presidente Jair Bolsonaro no Congresso - mas h√° ainda muitas etapas pela frente, passando por outras comiss√µes e plen√°rios da C√¢mara e do Senado. A vit√≥ria do Planalto na CCJ veio atrav√©s da aprova√ß√£o do relat√≥rio do delegado Marcelo Freitas (PSL-MG), que desde o in√≠cio foi favor√°vel ao projeto do governo, mas precisou passar por alguns ajustes para contemplar demandas de deputados (leia mais abaixo). Freitas √© o relator da proposta na CCJ.   
 
 
             /**/
@@ -35,7 +35,7 @@ A aprovaÁ„o foi o primeiro passo concreto do projeto do governo do presidente Ja
             /**/
         
 
-Em tese, a CCJ deve analisar apenas a conformidade do projeto com as leis e a ConstituiÁ„o do paÌs - sem discutir, portanto, o conte˙do da matÈria. Propostas de Emenda ‡ ConstituiÁ„o (PECs) como a atual, referente ‡ PrevidÍncia, devem passar primeiro pela CCJ - a mais importante da Casa - e conquistar uma maioria simples na votaÁ„o. Como foi a votaÁ„o da reforma da PrevidÍncia na CCJ Deputados de oposiÁ„o tentaram, atravÈs de diversos requerimentos, adiar a votaÁ„o da PEC. Foram derrotados, mas prolongaram o debate. Eles se valeram do chamado "kit obstruÁ„o", conjunto de ferramentas embasadas no regimento da Casa que pode alongar ou postergar votaÁıes. Boa parte dos argumentos apresentados para isso girou em torno do sigilo, decretado pelo governo, de estudos que fomentam o projeto de reforma da PrevidÍncia atual - impedindo, assim, que cidad„os e jornalistas acessem estes documentos. Mas antes das longas horas desta terÁa-feira, j· houve outras pedras no caminho do governo no Congresso.Inicialmente, por exemplo, o presidente da C‚mara, Rodrigo Maia (DEM-RJ), havia dito, em marÁo, que a proposta seria votada atÈ o dia 28 daquele mÍs. Portanto, h· quase um mÍs. No meio do caminho, atrapalhou a conturbada relaÁ„o do governo com o Congresso - o que se refletiu diretamente na escolha do relator da reforma e na invers„o da pauta de votaÁıes, com deputados de oposiÁ„o e do chamado "centr„o" (grupo de partidos com numerosos parlamentares e que n„o se comporta diretamente como situaÁ„o nem oposiÁ„o) privilegiando a an·lise da PEC do "orÁamento impositivo" em detrimento da reforma da PrevidÍncia. 
+Em tese, a CCJ deve analisar apenas a conformidade do projeto com as leis e a Constitui√ß√£o do pa√≠s - sem discutir, portanto, o conte√∫do da mat√©ria. Propostas de Emenda √† Constitui√ß√£o (PECs) como a atual, referente √† Previd√™ncia, devem passar primeiro pela CCJ - a mais importante da Casa - e conquistar uma maioria simples na vota√ß√£o. Como foi a vota√ß√£o da reforma da Previd√™ncia na CCJ Deputados de oposi√ß√£o tentaram, atrav√©s de diversos requerimentos, adiar a vota√ß√£o da PEC. Foram derrotados, mas prolongaram o debate. Eles se valeram do chamado "kit obstru√ß√£o", conjunto de ferramentas embasadas no regimento da Casa que pode alongar ou postergar vota√ß√µes. Boa parte dos argumentos apresentados para isso girou em torno do sigilo, decretado pelo governo, de estudos que fomentam o projeto de reforma da Previd√™ncia atual - impedindo, assim, que cidad√£os e jornalistas acessem estes documentos. Mas antes das longas horas desta ter√ßa-feira, j√° houve outras pedras no caminho do governo no Congresso.Inicialmente, por exemplo, o presidente da C√¢mara, Rodrigo Maia (DEM-RJ), havia dito, em mar√ßo, que a proposta seria votada at√© o dia 28 daquele m√™s. Portanto, h√° quase um m√™s. No meio do caminho, atrapalhou a conturbada rela√ß√£o do governo com o Congresso - o que se refletiu diretamente na escolha do relator da reforma e na invers√£o da pauta de vota√ß√µes, com deputados de oposi√ß√£o e do chamado "centr√£o" (grupo de partidos com numerosos parlamentares e que n√£o se comporta diretamente como situa√ß√£o nem oposi√ß√£o) privilegiando a an√°lise da PEC do "or√ßamento impositivo" em detrimento da reforma da Previd√™ncia. 
 
 
 Direito de imagem
@@ -44,42 +44,32 @@ EVARISTO SA/AFP
 
 Image caption
 
-                    Jair Bolsonaro e seu ministro da Economia, Paulo Guedes; governo teve dificuldades na negociaÁ„o com parlamentares
+                    Jair Bolsonaro e seu ministro da Economia, Paulo Guedes; governo teve dificuldades na negocia√ß√£o com parlamentares
                 
 
-Foi preciso tambÈm que o secret·rio especial de PrevidÍncia e Trabalho do MinistÈrio da Economia, RogÈrio Marinho, fosse ao Congresso discutir com representantes de alguns destes partidos - como PP, PR, PSD e Solidariedade - algumas demandas por mudanÁas destes, que acabaram sendo incorporadas no relatÛrio de Freitas, aprovado nesta terÁa-feira. Estas mudanÁas giram em torno das condiÁıes para acessar o abono salarial; o pagamento de multa do FGTS para aposentados; o foro jurÌdico para questionamento da reforma; e a chamada deconstitucionalizaÁ„o (segundo proposta original do governo, futuras mudanÁas no sistema de aposentadorias poderiam ser feitas por lei complementar, sem a necessidade de novas emendas constitucionais).Os prÛximos passosA prÛxima etapa do projeto È agora a "comiss„o especial" na C‚mara, que se dedicar· a analisar o mÈrito da proposta e apresentar emendas (modificaÁıes) no texto. Esta comiss„o deve aprovar um relatÛrio sobre a proposta no prazo de 40 sessıes do Plen·rio da C‚mara. Nesta etapa, podem ser retiradas da proposta elementos que constam na PEC original.ApÛs um intervalo mÌnimo de duas sessıes, este relatÛrio da Comiss„o Especial È votado duas vezes no Plen·rio. Se aprovado em dois turnos, o texto segue para o Senado. L·, o rito È semelhante com o da C‚mara, com exceÁ„o da Comiss„o Especial - h· tambÈm an·lise da CCJ do Senado e no Plen·rio em dois turnos. Se houver mudanÁas durante a tramitaÁ„o no Senado, porÈm, os trechos modificados ter„o de ser votados novamente pelos deputados. Clique para assinar o canal da BBC News Brasil no YouTube
+Foi preciso tamb√©m que o secret√°rio especial de Previd√™ncia e Trabalho do Minist√©rio da Economia, Rog√©rio Marinho, fosse ao Congresso discutir com representantes de alguns destes partidos - como PP, PR, PSD e Solidariedade - algumas demandas por mudan√ßas destes, que acabaram sendo incorporadas no relat√≥rio de Freitas, aprovado nesta ter√ßa-feira. Estas mudan√ßas giram em torno das condi√ß√µes para acessar o abono salarial; o pagamento de multa do FGTS para aposentados; o foro jur√≠dico para questionamento da reforma; e a chamada deconstitucionaliza√ß√£o (segundo proposta original do governo, futuras mudan√ßas no sistema de aposentadorias poderiam ser feitas por lei complementar, sem a necessidade de novas emendas constitucionais).Os pr√≥ximos passosA pr√≥xima etapa do projeto √© agora a "comiss√£o especial" na C√¢mara, que se dedicar√° a analisar o m√©rito da proposta e apresentar emendas (modifica√ß√µes) no texto. Esta comiss√£o deve aprovar um relat√≥rio sobre a proposta no prazo de 40 sess√µes do Plen√°rio da C√¢mara. Nesta etapa, podem ser retiradas da proposta elementos que constam na PEC original.Ap√≥s um intervalo m√≠nimo de duas sess√µes, este relat√≥rio da Comiss√£o Especial √© votado duas vezes no Plen√°rio. Se aprovado em dois turnos, o texto segue para o Senado. L√°, o rito √© semelhante com o da C√¢mara, com exce√ß√£o da Comiss√£o Especial - h√° tamb√©m an√°lise da CCJ do Senado e no Plen√°rio em dois turnos. Se houver mudan√ßas durante a tramita√ß√£o no Senado, por√©m, os trechos modificados ter√£o de ser votados novamente pelos deputados. Clique para assinar o canal da BBC News Brasil no YouTube
 
 
 
-J· assistiu aos nossos novos vÌdeos no YouTube? Inscreva-se no nosso canal! 
-Conte˙do n„o disponÌvel
+J√° assistiu aos nossos novos v√≠deos no YouTube? Inscreva-se no nosso canal! 
 
 
+Pule YouTube post  de BBC News Brasil
 
-
-
-Direitos da imagem BBC News Brasil
-BBC News Brasil
-
-
-
-
-
-
-Direitos da imagem BBC News Brasil
-BBC News Brasil
+Alerta: Conte√∫do de terceiros pode conter publicidade
+Final de YouTube post  de BBC News Brasil
 
 
 
 
 
 
+Pule YouTube post 2 de BBC News Brasil
+
+Alerta: Conte√∫do de terceiros pode conter publicidade
+Final de YouTube post 2 de BBC News Brasil
 
 
-
-
-Direitos da imagem BBC News Brasil
-BBC News Brasil
 
 
 
@@ -88,6 +78,30 @@ BBC News Brasil
 
 Direitos da imagem BBC News Brasil
 BBC News Brasil
+
+
+
+
+
+
+
+
+
+Pule YouTube post 3 de BBC News Brasil
+
+Alerta: Conte√∫do de terceiros pode conter publicidade
+Final de YouTube post 3 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
 
 
 

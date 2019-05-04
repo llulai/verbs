@@ -1,0 +1,105 @@
+
+
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Análise levou em conta as 100 mil senhas mais comuns que foram acessadas por terceiros em ataques cibernéticos globais
+                
+
+Milhares de pessoas em todo o mundo estão usando senhas muito fáceis de adivinhar. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+É o que indica um estudo feito pelo Centro Nacional de Segurança Cibernética do Reino Unido (NCSC, na sigla em inglês), que identificou a sequência 123456 como a senha mais comum de contas violadas. A análise levou em conta as 100 mil senhas mais comuns que foram acessadas por terceiros em ataques globais.O estudo ajudou a descobrir as lacunas no conhecimento cibernético que podem deixar usuários em risco. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+
+Como escrever em negrito, itálico ou riscar palavras no Whatsapp
+Huawei: a história e as polêmicas da gigante chinesa de tecnologia
+Clique para assinar o canal da BBC News Brasil no YouTube
+O NCSC recomenda que as pessoas escrevam três palavras aleatórias, mas que sejam fáceis de memorizar, para usá-las juntas como uma senha única e forte.Dados sensíveisO NCSC analisou bancos de dados públicos de contas violadas para ver quais palavras, frases e cadeias de caracteres os usuários dessas contas usavam. No topo da lista estava o 123456, aparecendo em mais de 23 milhões de senhas. Na sequência, os analistas encontraram "qwerty", "password" e 1111111 como as senhas das contas mais hackeadas. "qwerty" é a sequência de letras da parte superior dos teclados em inglês e "password" significa "senha".
+
+
+Direito de imagem
+AFP
+
+
+Image caption
+
+                    Liverpool, time do campeonato inglês e nome da cidade dos Beatles, apareceu como uma das palavras mais usadas como senha de contas que foram violadas
+                
+
+Na base de dados usada pelo estudo, havia ainda nomes em inglês usados como senha consideradas pelos britânicos como fáceis de adivinhar. Entre eles Ashley, Michael, Daniel, Jessica e Charlie.Times de futebol que disputam a Premier League também apareceram na lista, com Liverpool em primeiro e Chelsea em segundo. E a banda americana de rock Blink-182 ficou em primeiro na lista de músicos usados como senha. As pessoas que usam sequência de números, palavras ou nomes muito conhecidos como senha se colocam sob o risco de serem hackeadas, explica Ian Levy, director-técnico do NCSC."Ninguém deve proteger dados confidenciais com algo que possa ser adivinhado, como seu primeiro nome, time de futebol local ou banda favorita", disse ele.
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Além de analisar senhas violadas, o Centro Nacional de Segurança Cibernética do Reino Unido pesquisou hábitos de internautas
+                
+
+Além de analisar senhas que foram "quebradas", o estudo do NCSC também questionou britânicos sobre seus hábitos e medos em relação à segurança cibernética.Os pesquisadores descobriram que 42% esperam perder algum dinheiro com fraudes online e apenas 15% disseram que se sentiam seguros de que sabiam o suficiente para se proteger no mundo virtual.Constatou-se ainda que menos da metade dos entrevistados usou uma senha separada e difícil de adivinhar para sua conta de e-mail principal.O especialista em segurança Troy Hunt, que mantém um banco de dados de dados de contas hackeadas, disse que escolher uma boa senha tende a ser o maior tipo de controle individual das pessoas em relação à segurança online.Para ele, fazer com que as pessoas saibam quais senhas foram amplamente hackeadas deve levar os usuários a fazer melhores escolhas.
+
+
+
+Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
+
+
+Pule YouTube post  de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post  de BBC News Brasil
+
+
+
+
+
+
+Pule YouTube post 2 de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post 2 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+Conteúdo não disponível
+

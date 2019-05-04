@@ -1,0 +1,154 @@
+
+
+
+
+Direito de imagem
+Getty Images
+
+Não é fácil digitar "QWERTY" em um teclado convencional - chamado, justamente, de teclado QWERTY. Meu dedo mindinho da mão esquerda pressiona a tecla shift, enquanto os demais dedos esquerdos apertam, desajeitados, tecla por tecla da linha superior: Q-W-E-R-T-Y. 
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+Essa breve digitação oferece um aprendizado: a posição das teclas é importante. Há formas boas e ruins de ordenar as letras.Muitas pessoas acreditam que a ordenação do QWERTY é ruim e que foi deliberadamente projetado para ser lento e desajeitado.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+Seu celular está realmente te espionando?Será que isso pode ser verdade? E por que os economistas, entre todos os tipos de profissionais, são os que mais debatem esse tema?Desacelerar datilógrafosPrimeiro, vamos descobrir por que alguém poderia ter sido perverso a ponto de desacelerar datilógrafos.No começo dos anos 1980, convenci minha mãe a me deixar usar sua máquina de escrever, uma geringonça milagrosa que poderia me ajudar a superar uma caligrafia horrorosa. Quando eu pressionava uma tecla, uma alavanca se erguia por trás do teclado e atingia com força uma fita com tinta, gerando uma marca na folha de papel. No final de cada alavanca havia um par de letras em relevo - invertidas, como em um espelho. Logo eu descobri que, se apertasse diversas teclas ao mesmo tempo, as alavancas iriam se erguer ao mesmo tempo, em direção ao mesmo local. Era algo divertido para um menino de nove anos - mas nada útil para um datilógrafo profissional.
+
+
+Direito de imagem
+Getty Images
+
+Datilografar 60 palavras por minuto - nada de mais para um bom datilógrafo - significa que cinco ou seis letras vão atingir o mesmo ponto por segundo. Em uma velocidade como essa, o datilógrafo pode precisar desacelerar um pouco, pelo bem da máquina de escrever. Era isso que o QWERTY fazia.Porém, se QWERTY realmente foi projetado para ser devagar, por que o par de letras mais popular em inglês, T-H, ficam localizados em uma posição adjacente, ao alcance dos dedos indicadores de cada mão? A trama se complica.O pai do teclado QWERTY foi Christopher Latham Sholes, que trabalhava com impressão em Wisconsin, Estados Unidos, e vendeu sua primeira máquina de escrever em 1868 para uma faculdade de telégrafos de Chicago. Essa é uma parte importante da história.
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    A filha de Christopher Latham Sholes com a máquina de escrever criada por seu pai
+                
+
+O layout QWERTY foi projetado para a conveniência dos operadores de telégrafo que estavam transcrevendo o código Morse. É por isso, por exemplo, que o Z fica do lado do S e do E - já que Z e SE são indistinguíveis no código Morse americano. Assim, ao receber esse código, o aparelho receptor do telégrafo aguardava por um instante, até receber mais informações e esclarecer do que se tratava.Batalha vencidaEntão, o QWERTY não foi projetado para ser devagar. Mas, ao mesmo tempo, não foi projetado para nossa conveniência atual.Assim, por que nós ainda o utilizamos? A resposta simples é que o QWERTY venceu a batalha por ter o domínio desse mercado, nos anos 1880.O design feito por Sholes foi incorporado pelos vendedores de armas E Remington and Sons. Eles finalizaram o layout e colocaram o produto à venda por $125 - em moeda corrente, em torno de $3000, equivalente a muitos meses de salário das secretárias que utilizavam o equipamento.
+
+
+Direito de imagem
+Getty Images
+
+Naquele momento, essa não era a única opção de máquina de escrever à venda. Para se ter uma ideia, Sholes foi descrito como o 52º homem a inventar a máquina de escrever. Mas o QWERTY acabou ganhando popularidade.A empresa Remington logo começou a oferecer cursos de datilografia no padrão QWERTY. Então, em 1893, a empresa se fundiu com quatro de suas rivais e todas aderiram ao QWERTY, que passou a ser chamado de "layout universal".E foi essa curta batalha pelo domínio do mercado americano, na década de 1880, que acabou determinando o padrão de teclado que usamos hoje no computador, no iPad, no telefone.É uma pena, porque hoje existem layouts mais lógicos. Especialmente, o Dvorak, projetado por August Dvorak e patenteado em 1932.
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    O teclado criado por August Dvorak agrupa letras que frequentemente são usadas juntas
+                
+
+O padrão Dvorak dá prioridade para a mão dominante - há layouts para destros e canhotos - e posiciona juntas as letras que são mais usadas. Em 1940, a Marinha americana conduziu um estudo demonstrando que o Dvorak era muito superior. Assim, treinar datilógrafos no método Dvorak valeria muito a pena economicamente. Então, por que todos nós simplesmente não mudamos para o Dvorak? O problema é coordenar uma grande mudança como essa. 
+
+
+Direito de imagem
+Museum of History & Industry, Seattle
+
+
+Image caption
+
+                    Fotografia de August Dvorak ensinando como digitar no seu teclado na Universidade de Washington, Seattle, em 1932
+                
+
+O QWERTY virou o layout universal, muito antes do surgimento do Dvorak. A maioria dos datilógrafos foi treinado nesse formato. Qualquer empregador que fosse investir em uma máquina de escrever - naquele tempo, um instrumento muito caro - iria naturalmente preferir o layout que a maioria dos empregados já sabia usar.Além disso, a economia de larga escala logo fez com que o layout mais usado se tornasse também o modelo mais barato do mercado. Os teclados Dvorak nunca tiveram nenhuma chance contra o QWERTY. Estratégia econômicaA partir de agora, nós vamos começar a entender por que esse assunto é importante. Muitos economistas argumentam que o QWERTY é o exemplo por excelência daquilo que chamam de "lock in" - algo como "trancaço". Não é algo que diz respeito apenas a teclados. Trata, também, do Microsoft Office e do Windows, do controle de Amazon sobre o mercado online e a dominância do Facebook sobre as redes sociais. Se todos os seus amigos usam apps do Facebook, como Instagram e WhatsApp, isso não acaba lhe forçando a utilizar o padrão QWERTY?Enfim, esse assunto importa. O "trancaço" é amigo dos monopólios, inimigo da competição, e pode exigir uma resposta enérgica dos reguladores. Mas, por outro lado, é possível que os padrões se tornem dominantes não por um "trancaço", mas apenas porque as alternativas não são tão atrativas. Considere o famoso estudo da Marinha americana, que demonstrou a superioridade do teclado Dvorak. Dois economistas, Stan Liebowitz e Stephen Margolis, reavaliaram o estudo e concluíram que era falho. E levantaram suspeitas a respeito do homem responsável por supervisioná-lo, um antigo especialista da Marinha, um tenente comandante chamado... August Dvorak. Liebowitz e Margolis não negam que o layout Dvorak pode ser melhor. É utilizado, por exemplo, pelos dois datilógrafos mais rápidos do mundo. Em 2008, Barbara Bradford bateu o recorde ao manter uma velocidade de 150 palavras por minuto ao longo de 50 minutos - e atingiu uma velocidade máxima de 212 palavras por minuto, usando o teclado Dvorak.  Mas os dois economistas não se convenceram de que toda a sociedade estivesse ansiosa por trocar o teclado por um mais eficiente. E, de fato, hoje em dia, a maioria de nós responde a e-mails em celulares e gadgets, que permitem trocar o layout do teclado. Windows, iOS e Android geralmente disponibilizam layouts de Dvorak.
+
+
+
+
+Image caption
+
+                    Como o teclado Dvorak fica no iPhone
+                
+
+Assim, você não precisa mais persuadir seus colegas de trabalho, outros empregadores e escolas a trocarem de teclado com você. Se você quiser, basta utilizar. Ninguém irá sequer notar. Apesar disso, a maioria de nós se mantém no QWERTY. A porta não está mais trancada, mas a gente nem se preocupa em sair.O trancaço parece estar internalizando a posição das empresas mais valiosas e poderosas do mundo - incluindo Apple, Facebook e Microsoft. Talvez, esses cadeados sejam tão inquebráveis como o padrão QWERTY foi um dia.* Tim Harford escreve a coluna "Untercover Economist", do Financial Times. Esse texto faz parte da série "50 Things That Made the Modern Economy", transmitida pela BBC World Service. 
+
+
+
+Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal! 
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+

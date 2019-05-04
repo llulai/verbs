@@ -8,10 +8,10 @@ Reuters
 
 Image caption
 
-                    O ex-presidente est· preso na SuperintendÍncia da PolÌcia Federal em Curitiba (PR) desde abril de 2018
+                    O ex-presidente est√° preso na Superintend√™ncia da Pol√≠cia Federal em Curitiba (PR) desde abril de 2018
                 
 
-Quatro dos cinco ministros da 5™ Turma do Superior Tribunal de JustiÁa (STJ) decidiram na tarde desta terÁa-feira (23) pela reduÁ„o da pena do ex-presidente Luiz In·cio Lula da Silva no caso do trÌplex do Guaruj·. 
+Quatro dos cinco ministros da 5¬™ Turma do Superior Tribunal de Justi√ßa (STJ) decidiram na tarde desta ter√ßa-feira (23) pela redu√ß√£o da pena do ex-presidente Luiz In√°cio Lula da Silva no caso do tr√≠plex do Guaruj√°. 
 
 
             /**/
@@ -23,7 +23,7 @@ Quatro dos cinco ministros da 5™ Turma do Superior Tribunal de JustiÁa (STJ) dec
             /**/
         
 
-Julgando um recurso apresentado pela defesa, ministros rejeitaram a maioria dos pedidos - entre eles, a anulaÁ„o dos julgamentos anteriores - mas concordaram em reduzir a pena de 12 anos e um mÍs de pris„o para 8 anos, 10 meses e 20 dias. Em nota, a defesa do ex-presidente Lula criticou a decis„o dos ministros. Para a defesa do ex-presidente, "o ˙nico desfecho possÌvel È a absolviÁ„o do ex-presidente Lula, porque ele n„o praticou qualquer crime". 
+Julgando um recurso apresentado pela defesa, ministros rejeitaram a maioria dos pedidos - entre eles, a anula√ß√£o dos julgamentos anteriores - mas concordaram em reduzir a pena de 12 anos e um m√™s de pris√£o para 8 anos, 10 meses e 20 dias. Em nota, a defesa do ex-presidente Lula criticou a decis√£o dos ministros. Para a defesa do ex-presidente, "o √∫nico desfecho poss√≠vel √© a absolvi√ß√£o do ex-presidente Lula, porque ele n√£o praticou qualquer crime". 
 
 
             /**/
@@ -35,10 +35,10 @@ Julgando um recurso apresentado pela defesa, ministros rejeitaram a maioria dos 
             /**/
         
 
-"Por outro lado, n„o podemos deixar de registrar que pelo menos um passo foi dado para debelar os abusos praticados contra o ex-presidente Lula pela Lava Jato. Pela primeira vez um Tribunal reconheceu que as penas aplicadas pelo ex-juiz SÈrgio Moro e pelo TRF4 foram abusivas. … pouco. Mas È o inÌcio", diz a nota.
-Liberdade, pris„o domiciliar ou continuar na cadeia: os possÌveis desfechos do novo julgamento de Lula
-Como foram as 9 horas de Lula fora da pris„o para velÛrio do neto
-O efeito pr·tico da reduÁ„o È que Lula poder· pedir a progress„o do regime fechado, no qual se encontra hoje, para o regime semiaberto a partir do dia 23 de setembro deste ano. O c·lculo È de Fernanda de Almeida Carneiro, advogada criminalista e professora da pÛs-graduaÁ„o em direito da Escola de Direito do Brasil (EDB). Segundo o advogado criminalista e professor Fernando Castelo Branco, o processo do TrÌplex pode prosseguir agora com os chamados embargos de declaraÁ„o no prÛprio STJ, ou pode subir para o Supremo Tribunal Federal (STF). Embargos de declaraÁ„o tÍm por objetivo esclarecer eventuais contradiÁıes ou omissıes na decis„o do STJ, sem alterar o resultado do julgamento de hoje. Segundo Castelo Branco, podem ser apresentados tanto pela defesa de Lula quanto pelo MinistÈrio P˙blico Federal (MPF). Em seguida, tanto o MPF quanto a defesa podem contestar a decis„o da 5™ Turma do STJ no Supremo, atravÈs do chamado Recurso Extraordin·rio. "Mas este tipo de recurso n„o discute o mÈrito do processo. Se limita a verificar se houve alguma inconstitucionalidade durante o processo", diz Castelo Branco. A BBC News Brasil responde nesta reportagem a trÍs perguntas sobre o caso. 1. O que exatamente os ministros do STJ decidiram? Participaram do julgamento de hoje os ministros Felix Fischer (relator dos casos da Lava Jato no STJ), Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas. O ministro Joel Paciornik tambÈm integra a turma, mas n„o participou do julgamento de hoje porque seu advogado pessoal, RenÈ Dotti, atuou no processo do trÌplex como assistente de acusaÁ„o da Petrobras. Os quatro ministros que participaram da sess„o concordaram de forma un‚nime com a reduÁ„o de pena. Seguindo o relatÛrio de Felix Fischer, os ministros rejeitaram a maioria das alegaÁıes da defesa de Lula. Esta pretendia, por exemplo, que a condenaÁ„o inicial do ex-juiz federal Sergio Moro fosse considerada ilegal - o juiz usou na sentenÁa argumentos diferentes dos elencados pelo MinistÈrio P˙blico na acusaÁ„o. Enquanto o MPF alegava que Lula teria recebido por meio do trÌplex dinheiro desviado de trÍs contratos da Petrobras com a empreiteira OAS, Moro destacou em sua sentenÁa que o dinheiro saiu de uma "conta de propinas" informal que o PT manteria com a construtora.A defesa tambÈm alegava que Moro n„o tinha competÍncia para julgar o caso - uma vez que a suposta propina n„o teria relaÁ„o direta com a Petrobras, a investigaÁ„o deveria ter tramitado na JustiÁa Federal no Estado de S„o Paulo, onde fica o trÌplex. Alternativamente, a defesa pedia que o caso fosse julgado pela JustiÁa Eleitoral, pedido que tambÈm foi negado pelos ministros. 
+"Por outro lado, n√£o podemos deixar de registrar que pelo menos um passo foi dado para debelar os abusos praticados contra o ex-presidente Lula pela Lava Jato. Pela primeira vez um Tribunal reconheceu que as penas aplicadas pelo ex-juiz S√©rgio Moro e pelo TRF4 foram abusivas. √â pouco. Mas √© o in√≠cio", diz a nota.
+Liberdade, pris√£o domiciliar ou continuar na cadeia: os poss√≠veis desfechos do novo julgamento de Lula
+Como foram as 9 horas de Lula fora da pris√£o para vel√≥rio do neto
+O efeito pr√°tico da redu√ß√£o √© que Lula poder√° pedir a progress√£o do regime fechado, no qual se encontra hoje, para o regime semiaberto a partir do dia 23 de setembro deste ano. O c√°lculo √© de Fernanda de Almeida Carneiro, advogada criminalista e professora da p√≥s-gradua√ß√£o em direito da Escola de Direito do Brasil (EDB). Segundo o advogado criminalista e professor Fernando Castelo Branco, o processo do Tr√≠plex pode prosseguir agora com os chamados embargos de declara√ß√£o no pr√≥prio STJ, ou pode subir para o Supremo Tribunal Federal (STF). Embargos de declara√ß√£o t√™m por objetivo esclarecer eventuais contradi√ß√µes ou omiss√µes na decis√£o do STJ, sem alterar o resultado do julgamento de hoje. Segundo Castelo Branco, podem ser apresentados tanto pela defesa de Lula quanto pelo Minist√©rio P√∫blico Federal (MPF). Em seguida, tanto o MPF quanto a defesa podem contestar a decis√£o da 5¬™ Turma do STJ no Supremo, atrav√©s do chamado Recurso Extraordin√°rio. "Mas este tipo de recurso n√£o discute o m√©rito do processo. Se limita a verificar se houve alguma inconstitucionalidade durante o processo", diz Castelo Branco. A BBC News Brasil responde nesta reportagem a tr√™s perguntas sobre o caso. 1. O que exatamente os ministros do STJ decidiram? Participaram do julgamento de hoje os ministros Felix Fischer (relator dos casos da Lava Jato no STJ), Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas. O ministro Joel Paciornik tamb√©m integra a turma, mas n√£o participou do julgamento de hoje porque seu advogado pessoal, Ren√© Dotti, atuou no processo do tr√≠plex como assistente de acusa√ß√£o da Petrobras. Os quatro ministros que participaram da sess√£o concordaram de forma un√¢nime com a redu√ß√£o de pena. Seguindo o relat√≥rio de Felix Fischer, os ministros rejeitaram a maioria das alega√ß√µes da defesa de Lula. Esta pretendia, por exemplo, que a condena√ß√£o inicial do ex-juiz federal Sergio Moro fosse considerada ilegal - o juiz usou na senten√ßa argumentos diferentes dos elencados pelo Minist√©rio P√∫blico na acusa√ß√£o. Enquanto o MPF alegava que Lula teria recebido por meio do tr√≠plex dinheiro desviado de tr√™s contratos da Petrobras com a empreiteira OAS, Moro destacou em sua senten√ßa que o dinheiro saiu de uma "conta de propinas" informal que o PT manteria com a construtora.A defesa tamb√©m alegava que Moro n√£o tinha compet√™ncia para julgar o caso - uma vez que a suposta propina n√£o teria rela√ß√£o direta com a Petrobras, a investiga√ß√£o deveria ter tramitado na Justi√ßa Federal no Estado de S√£o Paulo, onde fica o tr√≠plex. Alternativamente, a defesa pedia que o caso fosse julgado pela Justi√ßa Eleitoral, pedido que tamb√©m foi negado pelos ministros. 
 
 
 Direito de imagem
@@ -47,10 +47,10 @@ Reuters
 
 Image caption
 
-                    Todos os ministros que participaram da sess„o nesta terÁa-feira concordaram com a reduÁ„o da pena de Lula
+                    Todos os ministros que participaram da sess√£o nesta ter√ßa-feira concordaram com a redu√ß√£o da pena de Lula
                 
 
-Fischer entendeu, apesar disso, que a pena de Lula foi aumentada de forma exagerada pelo Tribunal Regional Federal da 4™ Regi„o, o TRF-4, em janeiro de 2018. Naquela ocasi„o, os desembargadores alteraram a decis„o original de Moro, que tinha condenado Lula a 9 anos e 6 meses de pris„o, em julho de 2017, para 12 anos e um mÍs de pris„o. O entendimento do relator foi seguido pelos outros ministros. Mesmo sem ver "ilegalidade" ou "arbitrariedade" na pena decidida pelo TRF-4, Fischer decidiu rever a chamada "dosimetria", isto È, o c·lculo do tempo de pris„o. Desta forma, a pena pelo crime de corrupÁ„o passiva ficou em cinco anos e seis meses e vinte dias, e a pena pelo crime de lavagem de dinheiro, em trÍs anos e quatro meses. Os ministros tambÈm decidiram reduzir a multa de Lula para R$ 2,4 milhıes. Antes, a multa tinha sido fixada pelos desembargadores do TRF-4 em pouco mais de R$ 31 milhıes.  2. Qual È o impacto da decis„o para Lula? Fernando de Almeida Carneiro È advogada criminalista e professora da pÛs-graduaÁ„o em direito da Escola de Direito do Brasil (EDB). Segundo os c·lculos dela, a reduÁ„o de pena permite que Lula peÁa a progress„o de pena para o regime semiaberto a partir do dia 23 de setembro de 2018. A progress„o, diz a professora, n„o È autom·tica: depende de a defesa de Lula apresentar o pedido ‡ juÌza respons·vel pela execuÁ„o penal do caso, Carolina Lebbos. Depois de ouvir o MinistÈrio P˙blico, ela poderia conceder a progress„o de regime. Como Lula est· preso desde abril de 2018, em setembro ele ter· cumprido o patamar de um sexto da nova pena, necess·rio para a progress„o.  "A progress„o tem um requisito objetivo, que È esta conta matem·tica de um sexto da pena; e um requisito subjetivo, que È o bom comportamento do apenado. Como o Lula n„o teve, atÈ onde se sabe, problemas no perÌodo em que esteve preso, È prov·vel que a progress„o seja concedida", diz ela. O regime semiaberto È aquele no qual o preso pode sair da cadeia durante o dia para trabalhar ou estudar, retornando ao c·rcere durante a noite e aos fins de semana. 
+Fischer entendeu, apesar disso, que a pena de Lula foi aumentada de forma exagerada pelo Tribunal Regional Federal da 4¬™ Regi√£o, o TRF-4, em janeiro de 2018. Naquela ocasi√£o, os desembargadores alteraram a decis√£o original de Moro, que tinha condenado Lula a 9 anos e 6 meses de pris√£o, em julho de 2017, para 12 anos e um m√™s de pris√£o. O entendimento do relator foi seguido pelos outros ministros. Mesmo sem ver "ilegalidade" ou "arbitrariedade" na pena decidida pelo TRF-4, Fischer decidiu rever a chamada "dosimetria", isto √©, o c√°lculo do tempo de pris√£o. Desta forma, a pena pelo crime de corrup√ß√£o passiva ficou em cinco anos e seis meses e vinte dias, e a pena pelo crime de lavagem de dinheiro, em tr√™s anos e quatro meses. Os ministros tamb√©m decidiram reduzir a multa de Lula para R$ 2,4 milh√µes. Antes, a multa tinha sido fixada pelos desembargadores do TRF-4 em pouco mais de R$ 31 milh√µes.  2. Qual √© o impacto da decis√£o para Lula? Fernando de Almeida Carneiro √© advogada criminalista e professora da p√≥s-gradua√ß√£o em direito da Escola de Direito do Brasil (EDB). Segundo os c√°lculos dela, a redu√ß√£o de pena permite que Lula pe√ßa a progress√£o de pena para o regime semiaberto a partir do dia 23 de setembro de 2018. A progress√£o, diz a professora, n√£o √© autom√°tica: depende de a defesa de Lula apresentar o pedido √† ju√≠za respons√°vel pela execu√ß√£o penal do caso, Carolina Lebbos. Depois de ouvir o Minist√©rio P√∫blico, ela poderia conceder a progress√£o de regime. Como Lula est√° preso desde abril de 2018, em setembro ele ter√° cumprido o patamar de um sexto da nova pena, necess√°rio para a progress√£o.  "A progress√£o tem um requisito objetivo, que √© esta conta matem√°tica de um sexto da pena; e um requisito subjetivo, que √© o bom comportamento do apenado. Como o Lula n√£o teve, at√© onde se sabe, problemas no per√≠odo em que esteve preso, √© prov√°vel que a progress√£o seja concedida", diz ela. O regime semiaberto √© aquele no qual o preso pode sair da cadeia durante o dia para trabalhar ou estudar, retornando ao c√°rcere durante a noite e aos fins de semana. 
 
 
 Direito de imagem
@@ -59,24 +59,22 @@ Reuters
 
 Image caption
 
-                    Como n„o h· vagas suficientes em colÙnias penais, a ida para o semiaberto pode ser transformada numa pris„o domiciliar
+                    Como n√£o h√° vagas suficientes em col√¥nias penais, a ida para o semiaberto pode ser transformada numa pris√£o domiciliar
                 
 
-Na pr·tica, a maioria dos Estados brasileiros n„o dispıe de vagas suficientes para o cumprimento do semiaberto, e por isso È frequente que os presos deste regime sejam enviados para a pris„o domiciliar: s„o obrigados a ficar em casa durante a noite, mas podem sair para trabalhar ou estudar durante o dia, diz Fernanda. Ainda segundo ela, a lei brasileira estabelece que o preso cumpra a pena perto da famÌlia, sempre que possÌvel. Por isso, Lula pode pedir para cumprir o regime semiaberto em S„o Paulo ou em S„o Bernardo do Campo (SP), onde residia antes de ser preso. 3. O que pıe em risco a ida de Lula para o semiaberto? Lula pode ver a sua ida para o regime semiaberto impedida - ou revertida - por conta do processo relativo ao sÌtio de Atibaia. Neste caso, o ex-presidente È acusado de ter recebido propina da mesma empreiteira OAS por meio de uma reforma de um sÌtio que seria utilizado por ele e sua famÌlia no interior de S„o Paulo. No comeÁo de fevereiro deste ano, a juÌza federal Gabriela Hardt condenou Lula a 12 anos e 11 meses de pris„o neste caso, na 1™ inst‚ncia - ela estava substituindo Moro, ‡ Època na 13™ Vara Federal de JustiÁa, em Curitiba. Se a condenaÁ„o neste caso for confirmada pelo TRF-4, a nova pena seria somada ‡quela da condenaÁ„o anterior. Isto poderia impedir a progress„o para o semiaberto, caso a condenaÁ„o se dÍ antes da progress„o; ou fazÍ-lo voltar para a cadeia, se ocorrer depois.O TRF-4 informou ‡ reportagem da BBC News Brasil, porÈm, que o processo de Lula n„o foi sequer recebido pelos desembargadores: o caso continua na primeira inst‚ncia, em uma fase chamada de razıes de apelaÁ„o.
+Na pr√°tica, a maioria dos Estados brasileiros n√£o disp√µe de vagas suficientes para o cumprimento do semiaberto, e por isso √© frequente que os presos deste regime sejam enviados para a pris√£o domiciliar: s√£o obrigados a ficar em casa durante a noite, mas podem sair para trabalhar ou estudar durante o dia, diz Fernanda. Ainda segundo ela, a lei brasileira estabelece que o preso cumpra a pena perto da fam√≠lia, sempre que poss√≠vel. Por isso, Lula pode pedir para cumprir o regime semiaberto em S√£o Paulo ou em S√£o Bernardo do Campo (SP), onde residia antes de ser preso. 3. O que p√µe em risco a ida de Lula para o semiaberto? Lula pode ver a sua ida para o regime semiaberto impedida - ou revertida - por conta do processo relativo ao s√≠tio de Atibaia. Neste caso, o ex-presidente √© acusado de ter recebido propina da mesma empreiteira OAS por meio de uma reforma de um s√≠tio que seria utilizado por ele e sua fam√≠lia no interior de S√£o Paulo. No come√ßo de fevereiro deste ano, a ju√≠za federal Gabriela Hardt condenou Lula a 12 anos e 11 meses de pris√£o neste caso, na 1¬™ inst√¢ncia - ela estava substituindo Moro, √† √©poca na 13¬™ Vara Federal de Justi√ßa, em Curitiba. Se a condena√ß√£o neste caso for confirmada pelo TRF-4, a nova pena seria somada √†quela da condena√ß√£o anterior. Isto poderia impedir a progress√£o para o semiaberto, caso a condena√ß√£o se d√™ antes da progress√£o; ou faz√™-lo voltar para a cadeia, se ocorrer depois.O TRF-4 informou √† reportagem da BBC News Brasil, por√©m, que o processo de Lula n√£o foi sequer recebido pelos desembargadores: o caso continua na primeira inst√¢ncia, em uma fase chamada de raz√µes de apela√ß√£o.
 
 
 Direito de imagem
 AFP
 
-J· assistiu aos nossos novos vÌdeos no YouTube? Inscreva-se no nosso canal!
+J√° assistiu aos nossos novos v√≠deos no YouTube? Inscreva-se no nosso canal!
 
 
-Pule YouTube post  de BBC News Brasil
-
-Alerta: Conte˙do de terceiros pode conter publicidade
-Final de YouTube post  de BBC News Brasil
 
 
+Direitos da imagem BBC News Brasil
+BBC News Brasil
 
 
 
@@ -94,12 +92,9 @@ BBC News Brasil
 
 
 
-Pule YouTube post 2 de BBC News Brasil
 
-Alerta: Conte˙do de terceiros pode conter publicidade
-Final de YouTube post 2 de BBC News Brasil
-
-
+Direitos da imagem BBC News Brasil
+BBC News Brasil
 
 
 
@@ -117,12 +112,9 @@ BBC News Brasil
 
 
 
-Pule YouTube post 3 de BBC News Brasil
 
-Alerta: Conte˙do de terceiros pode conter publicidade
-Final de YouTube post 3 de BBC News Brasil
-
-
+Direitos da imagem BBC News Brasil
+BBC News Brasil
 
 
 
@@ -131,7 +123,6 @@ Final de YouTube post 3 de BBC News Brasil
 
 Direitos da imagem BBC News Brasil
 BBC News Brasil
-
 
 
 

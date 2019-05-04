@@ -1,0 +1,171 @@
+
+
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Há maneiras consideradas certas e erradas de realizar a vigilância no local de trabalho
+                
+
+A vigilância no local de trabalho está ligada a uma melhoria da produtividade ou é simplesmente uma forma de controlar a equipe e eliminar os funcionários com desempenho insatisfatório?
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+Courtney Hagen Ford, de 34 anos, deixou seu emprego como caixa de banco ao concluir que o monitoramento ao qual era submetida era "desumanizante".Seu empregador vigiava quais teclas ela digitava e usava um programa de computador para monitorar quantos dos clientes que ela ajudava contraiam empréstimos ou contratavam serviços. "A pressão era implacável", lembra ela. "Era uma situação horrível."
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+
+Os motivos pelos quais sua jornada de trabalho deveria ser mais curta
+A surpreendente lei da Suécia que dá 6 meses de folga do trabalho para empreender
+Clique para assinar o canal da BBC News Brasil no YouTube
+Ela decidiu que seria melhor trabalhar vendendo fast food, mas, ironicamente, deixou o banco para fazer um doutorado em tecnologia de vigilância.Courtney não está sozinha em suas críticas a esse tipo de monitoramento, que está em alta em todo o mundo, à medida que empresas busquem medidas para que seus funcionários sejam mais produtivos e eficientes.
+
+
+Direito de imagem
+Courtney Hagen Ford
+
+
+Image caption
+
+                    Courtney Hagen Ford diz que ter todos os seus movimentos monitorados no trabalho foi 'desumanizante'
+                
+
+Mais da metade das empresas com uma receita anual acima de US$ 750 milhões (R$ 2,92 bilhões) usaram técnicas de monitoramento "não tradicionais" com suas equipes no ano passado, diz Brian Kropp, vice-presidente da empresa de pesquisa Gartner.Isso inclui ferramentas para analisar emails, trocas de mensagens, uso de computadores e a movimentação de funcionários pelo escritório. Algumas empresas também estão monitorando batimentos cardíacos e padrões de sono para ver como isso afeta o desempenho.Em 2015, 30% usaram essas ferramentas. Para 2020, Kropp estima que 80% o façam. E a análise de dados da força de trabalho será um mercado de de US$ 1,87 bilhão (R$ 7,3 bilhões) até 2025, segundo a consultoria americana Grand Review Research.Por que as empresas estão tão interessadas em monitorar funcionários?Ben Waber, presidente da Humanyze, uma empresa americana de análise de ambientes de trabalho, defende que isso dá às empresas a capacidade de avaliar como seus funcionários estão atuando e interagindo, o que pode ser bom não só para o negócio mas também para os próprios funcionários.Sua empresa reúne dados de serviços de email e mensagens instantâneas dos funcionários e usa crachás equipados com aparelhos de identificação por radiofrequência (RFID) e microfones.
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Quanto seu crachá revelará sobre você?
+                
+
+Assim, pode verificar quanto tempo uma pessoa gasta conversando e o volume e tom de sua voz. Embora isso possa parecer invasivo, para não dizer assustador, seus defensores argumentam que também pode proteger funcionários contra o assédio moral e sexual.Parte dessa análise de dados pode produzir resultados inesperados, diz Waber. Por exemplo, um grande cliente da indústria de tecnologia descobriu que os programadores que costumavam almoçar em mesas para 12 pessoas tendiam a superar o desempenho daqueles que se sentavam em mesas para quatro pessoas.Almoçar em grupos maiores levou a uma maior interação com equipes de outras partes da empresa, diz ele, e isso melhorou a troca de ideias e "a uma diferença de mais de 10% de performance", algo que provavelmente teria passado despercebido sem essa análise.Nos últimos anos, um escritório compartilhado chamado Epicenter, na Suécia, foi além e realizou "festas do chip", em que as pessoas podiam ter microchips com RFID do tamanho de um grão de arroz implantados em suas mãos.
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Microchips do tamanho de um grão de arroz podem ser implantados em mãos para capturar todo o tipo de dados
+                
+
+Elas podem usar os implantes para acessar portas controladas eletronicamente, trocar contatos ou monitorar como a velocidade de digitação se correlaciona com a frequência cardíaca, diz Hannes Sjöblad, do Epicenter, que também tem um chip em sua mão.O implante "não transmite nenhum dado a menos que você o coloque a um centímetro de distância de um aparelho de leitura, então, quem tem um pode controlar isso", afirma ele.Chips implantados podem parecer algo extremo, mas é um passo relativamente pequeno em relação ao uso de crachás e biometria, diz Jeffrey Stanton, professor da Universidade de Syracuse, nos Estados Unidos, que pesquisa o estresse relacionado ao trabalho.Qual é a reação dos funcionários?Enquanto essas medidas forem voluntárias, "haverá uma ênfase nos usos voltados para a conveniência, de modo que um número substancial de trabalhadores opte por ter um chip implantado", acredita Stanton.Mas se forem usadas ​​para reduzir o tempo de folga ou intervalos para descanso, "provavelmente entraremos em uma zona ruim", diz. Quanto mais as ferramentas de vigilância são usadas para "tirar autonomia", mais elas se tornam impopulares.Isso depende muito de como tais iniciativas de monitoramento são comunicadas, argumenta Kropp, da Gartner.
+
+
+Direito de imagem
+AFP
+
+
+Image caption
+
+                    O jornal britânico Daily Telegraph provocou uma revolta dos funcionários com medidas de monitoramento em 2016
+                
+
+Em 2016, o jornal britânico Daily Telegraph instalou dispositivos de monitoramento por calor e movimento sob as mesas dos funcionários. A direção disse que era para descobrir quais mesas estavam ocupadas para fins de gerenciamento de energia, mas a equipe achou que estava sendo espionada e se revoltou. Os dispositivos foram removidos após 24 horas.Se os chefes não se comunicam de maneira eficaz, os funcionários pensam o pior, diz Kropp. Mas, se eles são transparentes sobre as informações coletadas - e o que estão fazendo com isso - 46% dos funcionários "geralmente não se incomodam com isso".Embora muitos desses sistemas de monitoramento usem dados anônimos e a participação seja voluntária, muitos funcionários permanecem céticos e temem que isso mine sua liberdade. Nos países menos liberais, os trabalhadores não têm escolha alguma.Mas, para alguns, os benefícios são óbvios. "Tenho narcolepsia", explica Jessica Johnson, de 34 anos, de Canberra, na Austrália. Ela adormece por curtos períodos durante o dia e fica desorientada quando acorda. Isso "afeta minha memória e minha capacidade de me concentrar", diz ela.
+
+
+Direito de imagem
+Getty Images
+
+
+Image caption
+
+                    Algoritmos de seu telefone ou computador podem rastrear sua atividade diária
+                
+
+Ela trabalhou para uma companhia de seguros, na qual os funcionários usavam um programa chamado Timely para registrar as horas de trabalho. Isso a ajudou identificar o que estava fazendo antes de adormecer e a continuar de onde parou."Você o instala no seu telefone e, em seguida, no seu computador, e é assim que você obtém todos os dados", diz Mathias Mikkelsen, presidente da Timely. "Os algoritmos analisam todas as informações e criam gráficos."Você pode saber, por exemplo, quando tempo está desperdiçando em reuniões improdutivas ou respondendo emails. Assim, pode mostrar aos seus chefes que está "perdendo muito tempo com coisas as quais não foi contratada para fazer", diz Mikkelsen.Assim, a vigilância no local de trabalho pode empoderar os funcionários e ser útil para empresas que buscam se tornar mais eficientes e lucrativas. Mas, se implementada da forma errada, pode se tornar uma ferramenta de opressão contraproducente.Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
+
+
+Pule YouTube post  de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post  de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+Pule YouTube post 2 de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post 2 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+Pule YouTube post 3 de BBC News Brasil
+
+Alerta: Conteúdo de terceiros pode conter publicidade
+Final de YouTube post 3 de BBC News Brasil
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
