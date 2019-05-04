@@ -2,17 +2,9 @@
 import os
 import csv
 import json
-import dataclasses
 from dataclasses import dataclass
 from utils import read_json
 from stats import get_lambda, logistic, select
-
-
-class EnhancedJSONEncoder(json.JSONEncoder):
-    def default(self, o):
-        if dataclasses.is_dataclass(o):
-            return dataclasses.asdict(o)
-        return super().default(o)
 
 
 @dataclass
@@ -71,7 +63,9 @@ class State:
         self.total_right += right
         self.total_answers += answers
 
-        multiplier = logistic(accuracy, self.total_accuracy, 10, 2)
+        x0 = min(self.total_accuracy, .925)
+
+        multiplier = logistic(accuracy, x0, 10, 2)
 
         self.min_to_review = max(int(self.min_to_review * multiplier), 3)
 
@@ -109,13 +103,33 @@ class State:
         filename = "users/" + "_".join([name, lang, mode, time])
         json_file = read_json(filename)
 
-        return State(**json_file)
+        conjugations = get_conjugations(lang, mode, time)
+        practicing_verbs = list(json_file['practice_list'].keys())
+        to_learn_list = [verb for verb in get_verb_list(lang) if verb not in practicing_verbs]
+
+        return State(to_learn_list=to_learn_list, conjugations=conjugations, **json_file)
 
     def save(self) -> None:
         """saves the current state to a json file"""
         filename = "users/" + "_".join([self.name, self.lang, self.mode, self.time]) + '.json'
+
+        state = {
+            'name': self.name,
+            'lang': self.lang,
+            'mode': self.mode,
+            'time': self.time,
+            'has_times': self.has_times,
+            'has_persons': self.has_persons,
+            'persons_translation': self.persons_translation,
+            'persons': self.persons,
+            'min_to_review': self.min_to_review,
+            'practice_list': self.practice_list,
+            'total_right': self.total_right,
+            'total_answers': self.total_answers
+        }
+
         with open(filename, 'w') as file:
-            json.dump(self, file, indent=2, cls=EnhancedJSONEncoder)
+            json.dump(state, file, indent=2)
 
 
 def get_has_times(lang: str, mode: str):

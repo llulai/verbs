@@ -95,11 +95,8 @@ def print_summary(state: State) -> None:
     print(colored("=== SUMMARY ===", 'blue'))
     counter = Counter([stats[0] for stats in state.practice_list.values()])
     for i in [1, 2, 3, 5, 8, 13, 21]:
-        print(colored(f"{i}: {counter[i]}"))
-    # update number of words learned
-    # print(colored(f"words in current: {state.decks.current.len}", 'blue'))
-    # print(colored(f"words in progress: {len(state.decks.get_words_in_progress())}", 'blue'))
-    # print(colored(f"words learned: {len(state.decks.retired)}", 'blue'))
+        print(colored(f"{i}: {counter[i]}", 'blue'))
+    print(colored(f"min words: {state.min_to_review}", 'blue'))
 
 
 if __name__ == '__main__':
