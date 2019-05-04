@@ -94,9 +94,10 @@ def print_summary(state: State) -> None:
     print()
     print(colored("=== SUMMARY ===", 'blue'))
     counter = Counter([stats[0] for stats in state.practice_list.values()])
-    for i in [1, 2, 3, 5, 8, 13, 21]:
+    for i in [1, 2, 3, 5, 8, 13, 21, 34]:
         print(colored(f"{i}: {counter[i]}", 'blue'))
     print(colored(f"min words: {state.min_to_review}", 'blue'))
+    print(colored(f"accuracy: {state.total_accuracy}", 'blue'))
 
 
 if __name__ == '__main__':

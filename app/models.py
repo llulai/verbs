@@ -44,11 +44,11 @@ class State:
         """update the stats for the reviewed verbs"""
         for verb, right in reviewed_verbs.items():
             if verb in self.practice_list:
-                lambda_, last_reviewed = self.practice_list[verb]
+                lambda_, _ = self.practice_list[verb]
             else:
-                lambda_, last_reviewed = (1, 0)
+                lambda_, _ = (1, 0)
 
-            self.practice_list[verb] = (get_lambda(lambda_, right), last_reviewed)
+            self.practice_list[verb] = (get_lambda(lambda_, right, self.total_accuracy), 0)
 
         for verb, stats in self.practice_list.items():
             self.practice_list[verb] = (stats[0], stats[1] + 1)
@@ -87,7 +87,7 @@ class State:
                      mode=mode,
                      time=time,
                      has_times=get_has_times(lang, mode),
-                     total_answers=0,
+                     total_answers=1,
                      total_right=0,
                      has_persons=get_has_persons(lang, mode),
                      persons=get_persons(lang, mode),
