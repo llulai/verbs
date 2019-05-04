@@ -2,9 +2,19 @@ import math
 import random
 
 
-def get_lambda(lambda_: int, right: bool) -> int:
-    progression = [1, 2, 3, 5, 8, 13, 21]
-    idx = progression.index(lambda_)
+def get_lambda(lambda_: int, right: bool, accuracy: float) -> int:
+    if accuracy < .75:
+        progression = [1, 2, 3, 5, 8, 13, 21, 34]
+    else:
+        progression = [1, 3, 8, 21, 34]
+
+    idx = 0
+    for i, l in enumerate(progression):
+        if l > lambda_:
+            break
+        idx = i
+
+    # idx = progression.index(lambda_)
 
     if right:
         if idx == len(progression) - 1:
