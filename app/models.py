@@ -2,10 +2,10 @@
 import os
 import csv
 import json
-from stats import *
-from dataclasses import dataclass
 import dataclasses
+from dataclasses import dataclass
 from utils import read_json
+from stats import get_lambda, logistic, select
 
 
 class EnhancedJSONEncoder(json.JSONEncoder):
@@ -35,6 +35,7 @@ class State:
 
     @property
     def total_accuracy(self):
+        """calculate the accuracy"""
         return self. total_right / self.total_answers
 
     def get_to_review(self) -> list:
@@ -55,15 +56,16 @@ class State:
             else:
                 lambda_, last_reviewed = (1, 0)
 
-            self.practice_list[verb] = (get_lambda(lambda_, right), 0)
+            self.practice_list[verb] = (get_lambda(lambda_, right), last_reviewed)
 
-        for k, v in self.practice_list.items():
-            self.practice_list[k] = (v[0], v[1] + 1)
+        for verb, stats in self.practice_list.items():
+            self.practice_list[verb] = (stats[0], stats[1] + 1)
 
-        # TODO: EXTRACT METHOD
+        self._update_min_to_review(reviewed_verbs)
+
+    def _update_min_to_review(self, reviewed_verbs):
         right = sum(reviewed_verbs.values())
         answers = len(reviewed_verbs.values())
-
         accuracy = right / answers
 
         self.total_right += right
@@ -117,18 +119,21 @@ class State:
 
 
 def get_has_times(lang: str, mode: str):
+    """get the times of language"""
     modes_dict = read_json(f'languages/{lang}/modes')
     mode_spec = modes_dict[mode]
     return mode_spec['has_times']
 
 
 def get_has_persons(lang: str, mode: str) -> bool:
+    """get if the persons the language has"""
     modes_dict = read_json(f'languages/{lang}/modes')
     mode_spec = modes_dict[mode]
     return mode_spec['persons'] != []
 
 
 def get_persons(lang: str, mode: str) -> tuple:
+    """get the persons of the language"""
     modes_dict = read_json(f'languages/{lang}/modes')
     mode_spec = modes_dict[mode]
     return tuple(mode_spec['persons'])

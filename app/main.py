@@ -1,6 +1,7 @@
+"""main functions of the program"""
+
 import sys
 from collections import Counter
-
 import colorama
 from termcolor import colored
 from prompt import get_pre_state
@@ -26,12 +27,14 @@ def start(state: State):
 
 
 def main_loop(state: State) -> None:
+    """main loop of the function"""
     state.update_performance(review_verbs(state, state.get_to_review()))
     print_summary(state)
     state.save()
 
 
 def review_verbs(state: State, verbs: list) -> dict:
+    """iterates over the given verbs"""
     return {verb: ask_verb(verb, state) for verb in shuffle_list(verbs)}
 
 

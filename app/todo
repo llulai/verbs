@@ -23,4 +23,4 @@
    if the performance wasn't good enough
 [] take out conjugations from state file
 [] take out verbs to learn from state file
-[] dynamically change the number of new verbs to add
+[X] dynamically change the number of new verbs to add
