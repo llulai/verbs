@@ -1,0 +1,138 @@
+
+
+
+
+Direito de imagem
+Licia Rubinstein/Agência IBGE Notícias
+
+
+Image caption
+
+                    Agente do IBGE em campo; Censo de 2020 pode sofrer cortes orçamentários
+                
+
+ Uma questão estatística e demográfica ganhou contornos político-econômicos: o Censo 2020, a próxima edição do levantamento que desde 1872 mede o tamanho da população e dezenas de outras características dos brasileiros, virou tema de debate relacionado a seus custos, por conta das restrições orçamentárias do país.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        
+
+A expectativa levantada até agora é de que os cortes na medição cheguem a 25%, e uma das possibilidades discutidas é a de reduzir o número de perguntas que os agentes do IBGE (Instituto Brasileiro de Geografia e Estatística) farão a cada brasileiro durante o recenseamento no ano que vem.Em entrevista à GloboNews neste mês, o ministro da Economia, Paulo Guedes, queixou-se dos altos custos do Censo, dizendo que o IBGE pediu R$ 2,7 bilhões para realizá-lo, e também da quantidade de perguntas, alegando que recenseamentos em países desenvolvidos têm número mais reduzido de questões. Na entrevista, porém, Guedes se equivocou: disse que o Censo brasileiro tem 360 perguntas, quando na verdade são cerca de 150 no total.
+
+
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        
+
+Especialistas em demografia e técnicos do IBGE ouvidos pela BBC News Brasil afirmam, no entanto, que reduzir drasticamente o número de perguntas pode não apenas não trazer a economia de dinheiro desejada, como também gerar apagões de dados demográficos importantes em algumas partes do país - justamente as mais vulneráveis e pobres.Consultada pela reportagem, a assessoria de imprensa do IBGE explica que a possibilidade de corte e seu eventual escopo ainda estão sendo debatidos.A seguir, a BBC News Brasil explica o que é o Censo, quais políticas públicas ele ajuda a orientar e qual o debate em torno da redução de custos.Para que serve o Censo?O Censo, explica o próprio IBGE, é a única pesquisa a visitar as casas de todos os brasileiros - são mais de 60 milhões de residências, espalhadas por 5.570 municípios e 8,5 milhões de quilômetros quadrados. "É um trabalho gigantesco, que envolve cerca de 230 mil pessoas, bem diferente da pesquisa amostral, que investiga uma amostra da população e a partir de modelos estatísticos chega à representação do todo", diz o site do instituto.O IBGE diz que houve 11 Censos no Brasil desde 1872, e o mais recente foi em 2010, o que significa, para muitos pesquisadores e formuladores de políticas públicas, que alguns dados brasileiros estão desatualizados.
+
+
+Direito de imagem
+André Nery/MEC
+
+
+Image caption
+
+                    Dados do Censo ajudam a traçar panorama de estudantes de escolas, incluindo taxas de abandono
+                
+
+O Censo traz não apenas o tamanho da população brasileira, mas informações sobre frequência à escola e à universidade (e quais disciplinas estão sendo cursadas), saneamento, sustento da família, raça, mortalidade, tipo de moradia, coleta de lixo e fornecimento de energia elétrica, entre outros dados.Embora outras pesquisas do próprio IBGE consigam obter dados confiáveis a partir de universos menores (as chamadas amostras de população), atualmente é só o Censo que consegue informações minuciosas de todos os municípios brasileiros.Esses dados servem para embasar diversas pesquisas e políticas públicas, segundo especialistas ouvidos pela reportagem e o próprio IBGE."Do ponto de vista econômico, os dados da população ajudam a calcular os gastos (da União) direcionados aos Fundos de Participação do Municípios, dos Estados e da Educação Básica", explica à News Brasil Rogério Jerônimo Barbosa, pesquisador da desigualdade brasileira e doutorando no Centro de Estudos da Metrópole da USP, atualmente como visitante na Universidade de Columbia (EUA).Ou seja, a partir dos dados de onde moram os brasileiros, e das diferenças de renda entre eles, é possível calcular quanto cada cidade e Estado receberá de recursos federais."Mas além de contar a população, o Censo coleta informações necessárias para muitas outras políticas", agrega. Uso do Censo na educação"Com ele eu consigo saber o que está acontecendo nas escolas para além do Censo Escolar (feito pelo MEC). Por exemplo, consigo saber quais crianças não estão matriculadas nas escolas, para calcular as taxas de abandono e para traçar um perfil: por que será que elas estão abandonando a escola? São em sua maioria meninos ou meninas? Qual sua renda e onde moram? Só o Censo demográfico coleta esses dados", prossegue Barbosa.Isso é uma informação crucial para "criarmos políticas em larga escala na educação e para conhecer o país como um todo", afirma Caio Sato, coordenador do núcleo de inteligência da organização Todos Pela Educação. "Também conseguimos saber se a escolaridade dos brasileiros está ou não aumentando."Além disso, o Censo consegue detectar a formação universitária dos brasileiros que cursaram o ensino superior e em que essas pessoas estão empregadas. "Tivemos recentemente uma grande expansão no número de pessoas diplomadas, por conta de uma política de financiamento do ensino superior (por exemplo, via Fies)", afirma Rogério Barbosa. "Será que essas pessoas (diplomadas) estão fazendo o que o diploma as capacitou para fazer? Ou o dinheiro do financiamento está sendo jogado fora? Nosso potencial produtivo está sendo desperdiçado? Esses dados estão ultrapassados desde 2010 (ano do último Censo) e vão nos dizer se um dos maiores investimentos recentes do país (de financiamento da educação superior) deu resultados."
+
+
+Direito de imagem
+Reuters
+
+
+Image caption
+
+                    Ministro da Economia, Paulo Guedes, queixou-se dos custos e da quantidade de perguntas do Censo
+                
+
+Uso do Censo no planejamentoDados sobre a distribuição, renda e demandas reprimidas da população ajudam gestores públicos a identificar, também, áreas que necessitam de transporte público ou a localização adequada para moradias populares ou para a passagem de grandes obras viárias, como o Rodoanel paulista, por exemplo - indicando a quantidade de desapropriações necessária. Até mesmo a distribuição de pontos de ônibus deve ser embasada em quanta gente eles vão atender. Embora muitos outros critérios (desde ambientais até políticos) influenciem essas decisões, quando o aspecto censitário não é levado em conta, geralmente essas obras acabam perdendo em eficiência."A distância entre o trabalho e a residência das pessoas por muito tempo não foi levada em conta" no planejamento urbano brasileiro, o que provocou ao crescimento desordenado das cidades, aponta Barbosa. Ele diz, porém, que hoje as "construções mais recentes do Minha Casa Minha Vida, por exemplo, consideram a distribuição populacional" para definir o local de novas moradias.O IBGE destaca ainda que, com a medição censitária, "o poder público pode identificar áreas de investimento prioritárias em saúde, educação, habitação, saneamento básico, transporte, energia, programas de assistência à infância e à velhice."Pobreza, saúde e atenção a minoriasEspecificamente para a população idosa, saber onde e como moram os mais velhos pode ajudar no planejamento de futuras políticas públicas, à medida que a população brasileira envelhece. Além disso, é pelos dados do Censo que calculamos a expectativa de vida dos brasileiros, a partir da quantidade de pessoas por cada faixa etária e a taxa de mortalidade em cada faixa.Técnicos do IBGE ouvidos pela reportagem explicam, também, que como o Censo é a única pesquisa a ir na casa de todos os brasileiros, acaba sendo a forma mais precisa de sabermos onde estão as pessoas mais pobres e verificar se elas estão tendo acesso a serviços como hospitais, assistência social e até mesmo registro civil - ou seja, se elas têm RG e CPF ou se são "invisíveis" ao Estado brasileiro."Sabemos que há lacunas em registro civil, principalmente na região Norte (em áreas indígenas), e precisamos entender se nossos dados estão defasados", afirmou um técnico, que pediu para não ser identificado. "O risco é não descobrirmos onde estão os buracos."Outros que se tornam mais "visíveis" ao Estado graças ao Censo são os deficientes físicos e intelectuais, diz Caio Sato, do Todos Pela Educação. "Uma pesquisa em menor escala corre o risco de afetar os dados que temos da população com deficiência."
+
+
+Direito de imagem
+Governo do Estado de SP
+
+
+Image caption
+
+                    Políticas de moradia e transporte também levam em conta dados populacionais coletados pelo Censo; acima, conjunto Habitacional no Estado de SP
+                
+
+Na área da saúde, embora os dados do Censo não sejam abundantes, houve especialistas que saíram em defesa da manutenção da pesquisa integralmente."O Censo demográfico 2020 está em risco", afirmou em vídeo postado na internet o médico Drauzio Varella. "Não tem dinheiro nem pessoas suficientes garantidas para sua realização. E o que significa para a saúde do Brasil não realizar ou cortar o Censo? (...) Significa não saber quantas crianças vivem em cada cidade para calcular a quantidade de vacinas necessárias, contra pólio ou sarampo (por exemplo). Significa não saber quantas são as mulheres para planejar a quantidade necessária de equipamentos de mamografia ou outros exames essenciais para a saúde feminina, e não saber quantos idosos vivem em cada cidade para comprar medicamentos para as doenças crônicas."'Façamos o essencial'As discussões em torno dos gastos do Censo vieram à tona em fevereiro, na posse da presidente do IBGE, Suzana Guerra, ocasião em que o ministro Paulo Guedes afirmou que "o Censo é importante (mas) vamos tentar simplificar. (...) Sejamos espartanos e façamos o essencial. Eu disse para a Suzana que todo dia alguém pede (a mim) R$ 2 milhões. Sempre tem causa justa. Mas é dramática a nossa situação (financeira do país)".Ao mesmo tempo, em abril, outra pesquisa do IBGE entrou nos holofotes do governo. Após a Pnad (Pesquisa Nacional por Amostra de Domicílio) Contínua apontar aumento do desemprego, o presidente Jair Bolsonaro criticou a metodologia do cálculo de empregabilidade. O instituto respondeu dizendo que usa critérios internacionais, adotados pela OIT (Organização Internacional do Trabalho).Neste mesmo mês, ocorreu reunião interna do IBGE para discutir cortes orçamentários no Censo, segundo técnicos do órgão confirmaram à reportagem."O corpo técnico apresentou uma proposta com a redução que consideramos o máximo possível em perguntas, mas essa redução foi considerada tímida" pela direção do instituto, diz o técnico, pedindo anonimato."Mas acreditamos que as reduções das perguntas não vão gerar uma grande economia de recursos - estimamos que entre 3% e 5% (do orçamento do Censo), o que não vale a pena em relação à supressão de dados que teremos, sem que haja (pesquisas) alternativas para suprir um apagão de dados. Se for um corte muito drástico, o Censo deixará de ser censitário e passará a ser amostral."Segundo os dois funcionários ouvidos pela reportagem, os principais gastos do Censo não se referem ao tamanho dos questionários: "nosso maior gasto, cerca de 65%, é para se deslocar, fazer abordagem das pessoas e para carregar o sistema (das máquinas onde são anotados os dados). A parte de aplicação dos questionários é pequena. E ninguém responde as 150 perguntas - se você frequenta a escola, por exemplo, vai direto para um conjunto de perguntas e pula outras."Para Rogério Barbosa, o Censo pode e deve ser alterado quando necessário, mas a exclusão de perguntas não é ruim desde que "haja uma forma alternativa de coleta de dados (por outras pesquisas) e desde que haja uma garantia de que isso resultará, de fato, em menos gastos", o que ainda não está claro, uma vez que não há um cálculo oficial e público sobre quanto uma eventual redução de perguntas traria de economia de verbas."O medo é que cortes feitos de formas não avaliadas prejudiquem a contagem", diz. "E o Censo, por ser uma medição (em âmbito) municipal, baseia todas as outras pesquisas do país, inclusive as amostrais e as de opinião.""Racionalizar gastos é sempre importante", agrega Caio Sato. "Mas isso tem de estar ligado a fontes alternativas de coleta de dados. Potencialmente, poderemos ter um vácuo importante nisso."Clique para assinar o canal da BBC News Brasil no YouTube
+
+
+
+Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal! 
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
+Direitos da imagem BBC News Brasil
+BBC News Brasil
+
+
+
+
+
+
