@@ -11,6 +11,7 @@ def get_index(lambda_, progression):
 
 
 def get_lambda(lambda_: int, right: bool, accuracy: float) -> int:
+    # TODO: take out progression to other function
     if accuracy < .75:
         progression = [1, 2, 3, 5, 8, 13, 21, 34]
     else:
@@ -29,6 +30,7 @@ def get_lambda(lambda_: int, right: bool, accuracy: float) -> int:
 
 
 def select(stats: tuple) -> bool:
+    # TODO: rename function
     lambda_, k = stats
 
     return random.random() <= poisson_cdf(lambda_, k)

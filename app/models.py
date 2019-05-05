@@ -155,6 +155,7 @@ def get_persons(lang: str, mode: str) -> tuple:
 
 def get_conjugations(lang: str, mode: str, time: str) -> dict:
     """get the conjugations for the top 100 verbs"""
+    # TODO: move conjugations to smaller functions
     all_conjugations = read_json(f'languages/{lang}/conjugations')
     modes_dict = read_json(f'languages/{lang}/modes')
 
@@ -183,6 +184,7 @@ def get_verb_list(lang: str) -> list:
 
 def get_pers_trans(lang: str) -> dict:
     """returns a dictionary with the translation of the given persons"""
+    # TODO: move to json
     trans = {
         'pt': {
             '1s': 'eu',

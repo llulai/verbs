@@ -1,29 +1,35 @@
+# TOP
+[ ] add types
+[ ] refactor long functions
+[ ] person translation to json
+[ ] keep last 100 performance
+[ ] check pyinquirer back menu
+[ ] take average of min_to_review
+[ ] download 5K verbs https://www.conjugacao.com.br/verbos-populares/50/
+[ ] allow for multiple versions of conjugation
+[ ] prioritize verbs on use
+[ ] save conjugations by mode>time>verb>person
+[ ] add spanish
+[ ] add unittests
+
+
+# FUTURE
 [ ] learn verbs
 [ ] start with regular verbs
 [ ] log results
 
+
+DONE
 [X] pass only relevant conjugations to ask_verb
-
-[ ] retake on same session
-
-[ ] add spanish
+[X] retake on same session
 [X] add brazilian portuguese
 [X] add other modes
-[ ] person translation to json
-[ ] save conjugations by mode>time>verb>person
-[ ] refactor long functions
-[ ] check pyinquirer back menu
 [X] add a backlog of verbs
-[ ] download 5K verbs https://www.conjugacao.com.br/verbos-populares/50/
-[ ] prioritize verbs on use
-[ ] allow for multiple versions of conjugation
 [X] create shorter pipes to repeat already leaned verbs
 [X] once the verb keep right/wrong of every verb as they
     go through process, to reinsert it into the pipe
     if the performance wasn't good enough
-[ ] take out conjugations from state file
-[ ] take out verbs to learn from state file
+[X] take out conjugations from state file
+[X] take out verbs to learn from state file
 [X] dynamically change the number of new verbs to add
-[ ] add different progressions varying on performance
-[ ] keep last 100 performance
-[ ] take average of min_to_review
+[X] add different progressions varying on performance

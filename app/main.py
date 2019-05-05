@@ -14,6 +14,7 @@ colorama.init()
 
 def main():
     """runs the main program"""
+    # TODO: merge functions below
     pre_state = get_pre_state()
     state = State.load(**pre_state) if State.exists(**pre_state) else State.new(**pre_state)
 
