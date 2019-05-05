@@ -5,7 +5,8 @@ import json
 from dataclasses import dataclass
 from utils import read_json
 from stats import update_lambda, logistic, pick
-from datatypes import Name, Lang, Mode, Time, VerbsList, VerbInf, VerbReview, Conjugations, PracticeList, Lambda
+from datatypes import (Name, Lang, Mode, Time, VerbsList, VerbInf,
+                       VerbReview, Conjugations, PracticeList, Lambda)
 
 
 @dataclass
@@ -49,7 +50,10 @@ class State:
 
     def _update_lambdas_of_reviewed_words(self, reviewed_verbs: VerbReview) -> None:
         for verb, right in reviewed_verbs.items():
-            self.practice_list[verb] = (update_lambda(self._get_lambda(verb), right, self.total_accuracy), 0)
+            self.practice_list[verb] = (update_lambda(self._get_lambda(verb),
+                                                      right,
+                                                      self.total_accuracy),
+                                        0)
 
     def _update_last_time_reviewed(self) -> None:
         for verb, stats in self.practice_list.items():
@@ -68,7 +72,7 @@ class State:
     def _get_multiplier(self, accuracy: float):
         return logistic(accuracy, min(self.total_accuracy, .925), 10, 2)
 
-    def _update_total_stats(self, right: int,  answers: int) -> None:
+    def _update_total_stats(self, right: int, answers: int) -> None:
         self.total_right += right
         self.total_answers += answers
 

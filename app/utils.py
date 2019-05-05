@@ -20,6 +20,7 @@ def shuffle_list(list_: list):
 
 
 def get_progression(accuracy: float) -> Progression:
+    """returns the progression given the accuracy"""
     if accuracy < .75:
         return [Lambda(1),
                 Lambda(2),
@@ -29,9 +30,9 @@ def get_progression(accuracy: float) -> Progression:
                 Lambda(13),
                 Lambda(21),
                 Lambda(34)]
-    else:
-        return [Lambda(1),
-                Lambda(3),
-                Lambda(8),
-                Lambda(21),
-                Lambda(34)]
+
+    return [Lambda(1),
+            Lambda(3),
+            Lambda(8),
+            Lambda(21),
+            Lambda(34)]

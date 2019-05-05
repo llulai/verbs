@@ -1,9 +1,12 @@
-from datatypes import Name, Lang, Mode, Time, Options
+"""manages the interaction with the user"""
+
 from PyInquirer import prompt as py_prompt
+from datatypes import Name, Lang, Mode, Time, Options
 from utils import read_json
 
 
 def get_lang() -> Lang:
+    """get the language to study"""
     question = {
         'name': 'lang',
         'type': 'list',
@@ -15,6 +18,7 @@ def get_lang() -> Lang:
 
 
 def get_name() -> Name:
+    """the the user name"""
     return py_prompt({
         'name': 'name',
         'type': 'input',
@@ -23,6 +27,7 @@ def get_name() -> Name:
 
 
 def get_mode(lang: Lang) -> Mode:
+    """get the mode of the language to study"""
     modes = read_json(f"languages/{lang}/modes")
 
     answer = py_prompt({
@@ -36,6 +41,7 @@ def get_mode(lang: Lang) -> Mode:
 
 
 def get_time(lang: Lang, mode: Mode) -> Time:
+    """get the time of the mode to study"""
 
     times = read_json(f"languages/{lang}/times")
 
@@ -53,6 +59,7 @@ def get_time(lang: Lang, mode: Mode) -> Time:
 
 
 def get_pre_state() -> Options:
+    """get the options to initialize the app"""
     name = get_name()
     lang = get_lang()
     mode = get_mode(lang)

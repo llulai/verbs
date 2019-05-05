@@ -1,5 +1,5 @@
 # TOP
-[ ] add types
+[X] add types
 [X] refactor long functions
 [X] person translation to json
 [ ] keep last 100 performance

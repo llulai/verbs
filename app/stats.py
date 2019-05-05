@@ -1,3 +1,5 @@
+"""module to compute stats"""
+
 import math
 import random
 from datatypes import Lambda, VerbStats
@@ -6,14 +8,15 @@ from utils import get_progression
 
 def _get_index(lambda_: Lambda, progression) -> Lambda:
     idx = 0
-    for i, l in enumerate(progression):
-        if l > lambda_:
+    for i, lam_val in enumerate(progression):
+        if lam_val > lambda_:
             return Lambda(idx)
         idx = i
     return Lambda(idx)
 
 
 def update_lambda(lambda_: Lambda, right: bool, accuracy: float) -> Lambda:
+    """update the lambda value given if the word was answered correctly"""
     progression = get_progression(accuracy)
     idx = _get_index(lambda_, progression)
 
@@ -29,16 +32,20 @@ def _get_max_lambda(idx, progression) -> Lambda:
 
 
 def pick(stats: VerbStats) -> bool:
+    """pick the work given the stats"""
     return random.random() <= poisson_cdf(*stats)
 
 
 def poisson_df(lambda_: Lambda, k: int) -> float:
+    """returns the lambda mass probability"""
     return ((math.e ** -lambda_) * (lambda_ ** k)) / math.factorial(k)
 
 
 def poisson_cdf(lambda_: Lambda, k: int) -> float:
+    """returns the lambda cumulative distribution"""
     return sum(poisson_df(lambda_, i) for i in range(k + 1))
 
 
-def logistic(x, x0, k, l):
-    return l / (1 + math.e ** (-k * (x - x0)))
+def logistic(accuracy: float, mean: float, discriminant: float, max_val: float) -> float:
+    """returns the value of the logistic function"""
+    return max_val / (1 + math.e ** (-discriminant * (accuracy - mean)))

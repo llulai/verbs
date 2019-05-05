@@ -1,3 +1,5 @@
+"""types for the objects used"""
+
 from typing import NewType, Union, Dict, List, Tuple
 
 Name = NewType('Name', str)
