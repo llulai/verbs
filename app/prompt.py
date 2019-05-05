@@ -1,8 +1,9 @@
+from datatypes import Name, Lang, Mode, Time, Options
 from PyInquirer import prompt as py_prompt
 from utils import read_json
 
 
-def get_lang() -> str:
+def get_lang() -> Lang:
     question = {
         'name': 'lang',
         'type': 'list',
@@ -13,7 +14,7 @@ def get_lang() -> str:
     return py_prompt(question)['lang']
 
 
-def get_name() -> str:
+def get_name() -> Name:
     return py_prompt({
         'name': 'name',
         'type': 'input',
@@ -21,7 +22,7 @@ def get_name() -> str:
     })['name']
 
 
-def get_mode(lang: str) -> str:
+def get_mode(lang: Lang) -> Mode:
     modes = read_json(f"languages/{lang}/modes")
 
     answer = py_prompt({
@@ -34,12 +35,12 @@ def get_mode(lang: str) -> str:
     return [k for k, mode in modes.items() if answer['mode'] == mode['name']][0]
 
 
-def get_time(lang: str, mode: str) -> str:
+def get_time(lang: Lang, mode: Mode) -> Time:
 
     times = read_json(f"languages/{lang}/times")
 
     if mode not in times:
-        return mode
+        return Time(mode)
 
     answer = py_prompt({
         'name': 'time',
@@ -51,7 +52,7 @@ def get_time(lang: str, mode: str) -> str:
     return times[mode][answer['time']]
 
 
-def get_pre_state() -> dict:
+def get_pre_state() -> Options:
     name = get_name()
     lang = get_lang()
     mode = get_mode(lang)

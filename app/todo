@@ -1,7 +1,7 @@
 # TOP
 [ ] add types
-[ ] refactor long functions
-[ ] person translation to json
+[X] refactor long functions
+[X] person translation to json
 [ ] keep last 100 performance
 [ ] check pyinquirer back menu
 [ ] take average of min_to_review
@@ -11,12 +11,15 @@
 [ ] save conjugations by mode>time>verb>person
 [ ] add spanish
 [ ] add unittests
+[ ] add readme
 
 
 # FUTURE
+[ ] add simulations of results
+[ ] save performance online
+[ ] log results
 [ ] learn verbs
 [ ] start with regular verbs
-[ ] log results
 
 
 DONE
