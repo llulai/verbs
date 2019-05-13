@@ -6,7 +6,7 @@ import colorama
 from termcolor import colored
 from prompt import get_pre_state
 from models import State
-from utils import shuffle_list, get_progression
+from utils import shuffle_list
 from datatypes import VerbsList, VerbInf, VerbReview
 
 colorama.init()
@@ -53,7 +53,8 @@ def ask_conjugation(right_answer, message="") -> bool:
     """asks the conjugation and returns whether it was answered right or not"""
     user_answer = get_answer(message)
     print_answer(user_answer, right_answer, message)
-    return user_answer == right_answer
+
+    return is_right(user_answer, right_answer)
 
 
 def get_answer(message: str = "") -> str:
@@ -65,11 +66,17 @@ def get_answer(message: str = "") -> str:
     return user_answer
 
 
+def is_right(user_answer, right_answer):
+    if ',' in right_answer:
+        return any([user_answer == answer for answer in right_answer.split(',')])
+    return user_answer == right_answer
+
+
 def print_answer(user_answer: str, right_answer: str, message="") -> None:
     """prints the right answer"""
     sys.stdout.write("\033[F")
 
-    if user_answer == right_answer:
+    if is_right(user_answer, right_answer):
         print(message,
               colored(right_answer, 'green'))
     else:
@@ -84,10 +91,10 @@ def print_summary(state: State) -> None:
     print()
     print(colored("=== SUMMARY ===", 'blue'))
     counter = Counter([stats[0] for stats in state.practice_list.values()])
-    for i in get_progression(0):
-        print(colored(f"{i}: {counter[i]}", 'blue'))
-    print(colored(f"min words: {state.min_to_review}", 'blue'))
-    print(colored(f"accuracy: {state.total_accuracy}", 'blue'))
+    print(colored(f"initial: {counter[1] + counter[2] + counter[3] + counter[5]}", 'blue'))
+    print(colored(f"intermediate: {counter[8] + counter[13]}", 'blue'))
+    print(colored(f"advanced: {counter[21] + counter[34]}", 'blue'))
+    print(colored(f"total words: {len(state.practice_list)}", 'blue'))
 
 
 if __name__ == '__main__':

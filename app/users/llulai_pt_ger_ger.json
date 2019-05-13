@@ -1,0 +1,1150 @@
+{
+  "name": "llulai",
+  "lang": "pt",
+  "mode": "ger",
+  "time": "ger",
+  "has_times": false,
+  "has_persons": false,
+  "persons_translation": {
+    "1s": "eu",
+    "2s": "tu",
+    "3s": "voc\u00ea/ele/ela",
+    "1p": "n\u00f3s",
+    "2p": "v\u00f3s",
+    "3p": "voc\u00eas/eles/elas"
+  },
+  "persons": [],
+  "min_to_review": 134,
+  "practice_list": {
+    "estar": [
+      21,
+      8
+    ],
+    "ter": [
+      21,
+      3
+    ],
+    "ser": [
+      21,
+      8
+    ],
+    "ir": [
+      21,
+      7
+    ],
+    "fazer": [
+      21,
+      6
+    ],
+    "haver": [
+      21,
+      8
+    ],
+    "poder": [
+      21,
+      9
+    ],
+    "dizer": [
+      21,
+      5
+    ],
+    "querer": [
+      21,
+      2
+    ],
+    "saber": [
+      21,
+      6
+    ],
+    "dar": [
+      21,
+      7
+    ],
+    "ficar": [
+      21,
+      5
+    ],
+    "ver": [
+      21,
+      6
+    ],
+    "vir": [
+      21,
+      4
+    ],
+    "dever": [
+      21,
+      4
+    ],
+    "chegar": [
+      21,
+      5
+    ],
+    "falar": [
+      21,
+      4
+    ],
+    "passar": [
+      21,
+      6
+    ],
+    "deixar": [
+      21,
+      5
+    ],
+    "encontrar": [
+      21,
+      1
+    ],
+    "levar": [
+      21,
+      2
+    ],
+    "come\u00e7ar": [
+      21,
+      3
+    ],
+    "apresentar": [
+      8,
+      7
+    ],
+    "pensar": [
+      21,
+      4
+    ],
+    "sair": [
+      8,
+      6
+    ],
+    "partir": [
+      8,
+      9
+    ],
+    "voltar": [
+      21,
+      4
+    ],
+    "parecer": [
+      21,
+      4
+    ],
+    "olhar": [
+      8,
+      6
+    ],
+    "tornar": [
+      21,
+      2
+    ],
+    "existir": [
+      8,
+      8
+    ],
+    "achar": [
+      21,
+      2
+    ],
+    "entrar": [
+      21,
+      2
+    ],
+    "sentir": [
+      21,
+      1
+    ],
+    "chamar": [
+      21,
+      2
+    ],
+    "conseguir": [
+      8,
+      6
+    ],
+    "tomar": [
+      8,
+      6
+    ],
+    "ouvir": [
+      21,
+      1
+    ],
+    "continuar": [
+      8,
+      5
+    ],
+    "viver": [
+      8,
+      5
+    ],
+    "acabar": [
+      8,
+      4
+    ],
+    "p\u00f4r": [
+      8,
+      5
+    ],
+    "considerar": [
+      8,
+      7
+    ],
+    "conhecer": [
+      8,
+      7
+    ],
+    "afirmar": [
+      8,
+      3
+    ],
+    "acontecer": [
+      21,
+      1
+    ],
+    "criar": [
+      8,
+      3
+    ],
+    "pedir": [
+      8,
+      4
+    ],
+    "perder": [
+      8,
+      4
+    ],
+    "esperar": [
+      8,
+      4
+    ],
+    "andar": [
+      8,
+      6
+    ],
+    "tratar": [
+      8,
+      5
+    ],
+    "trabalhar": [
+      8,
+      5
+    ],
+    "contar": [
+      8,
+      5
+    ],
+    "seguir": [
+      21,
+      1
+    ],
+    "receber": [
+      8,
+      4
+    ],
+    "gostar": [
+      8,
+      5
+    ],
+    "usar": [
+      8,
+      2
+    ],
+    "lembrar": [
+      8,
+      3
+    ],
+    "realizar": [
+      8,
+      3
+    ],
+    "ocorrer": [
+      8,
+      4
+    ],
+    "correr": [
+      8,
+      2
+    ],
+    "incluir": [
+      8,
+      2
+    ],
+    "permitir": [
+      8,
+      3
+    ],
+    "escrever": [
+      8,
+      3
+    ],
+    "cair": [
+      21,
+      1
+    ],
+    "aparecer": [
+      8,
+      4
+    ],
+    "trazer": [
+      8,
+      3
+    ],
+    "abrir": [
+      8,
+      2
+    ],
+    "morrer": [
+      8,
+      3
+    ],
+    "formar": [
+      8,
+      4
+    ],
+    "manter": [
+      8,
+      5
+    ],
+    "ganhar": [
+      8,
+      4
+    ],
+    "procurar": [
+      8,
+      4
+    ],
+    "mostrar": [
+      8,
+      3
+    ],
+    "tentar": [
+      8,
+      5
+    ],
+    "mandar": [
+      8,
+      2
+    ],
+    "surgir": [
+      8,
+      3
+    ],
+    "obter": [
+      8,
+      4
+    ],
+    "explicar": [
+      8,
+      2
+    ],
+    "constituir": [
+      1,
+      1
+    ],
+    "entender": [
+      8,
+      2
+    ],
+    "descobrir": [
+      8,
+      2
+    ],
+    "servir": [
+      8,
+      2
+    ],
+    "precisar": [
+      8,
+      2
+    ],
+    "tirar": [
+      8,
+      2
+    ],
+    "colocar": [
+      8,
+      3
+    ],
+    "produzir": [
+      8,
+      4
+    ],
+    "pagar": [
+      8,
+      4
+    ],
+    "representar": [
+      8,
+      3
+    ],
+    "perguntar": [
+      8,
+      2
+    ],
+    "desenvolver": [
+      8,
+      2
+    ],
+    "possuir": [
+      8,
+      4
+    ],
+    "ler": [
+      8,
+      4
+    ],
+    "acreditar": [
+      8,
+      3
+    ],
+    "nascer": [
+      8,
+      3
+    ],
+    "levantar": [
+      8,
+      2
+    ],
+    "responder": [
+      8,
+      2
+    ],
+    "pretender": [
+      8,
+      3
+    ],
+    "sofrer": [
+      8,
+      2
+    ],
+    "subir": [
+      8,
+      2
+    ],
+    "participar": [
+      8,
+      1
+    ],
+    "perceber": [
+      8,
+      2
+    ],
+    "vender": [
+      8,
+      2
+    ],
+    "utilizar": [
+      8,
+      1
+    ],
+    "estudar": [
+      8,
+      2
+    ],
+    "mudar": [
+      8,
+      1
+    ],
+    "acompanhar": [
+      8,
+      3
+    ],
+    "atingir": [
+      8,
+      1
+    ],
+    "comprar": [
+      8,
+      3
+    ],
+    "aceitar": [
+      8,
+      1
+    ],
+    "compreender": [
+      8,
+      1
+    ],
+    "referir": [
+      8,
+      1
+    ],
+    "observar": [
+      8,
+      1
+    ],
+    "aumentar": [
+      8,
+      1
+    ],
+    "iniciar": [
+      8,
+      1
+    ],
+    "resolver": [
+      8,
+      3
+    ],
+    "provocar": [
+      8,
+      2
+    ],
+    "parar": [
+      8,
+      2
+    ],
+    "bater": [
+      8,
+      3
+    ],
+    "defender": [
+      8,
+      1
+    ],
+    "resultar": [
+      8,
+      3
+    ],
+    "garantir": [
+      8,
+      3
+    ],
+    "fechar": [
+      8,
+      1
+    ],
+    "comer": [
+      8,
+      2
+    ],
+    "lan\u00e7ar": [
+      8,
+      3
+    ],
+    "decidir": [
+      8,
+      2
+    ],
+    "estabelecer": [
+      3,
+      4
+    ],
+    "publicar": [
+      8,
+      1
+    ],
+    "terminar": [
+      8,
+      1
+    ],
+    "oferecer": [
+      3,
+      3
+    ],
+    "destacar": [
+      8,
+      1
+    ],
+    "determinar": [
+      3,
+      3
+    ],
+    "exigir": [
+      8,
+      2
+    ],
+    "envolver": [
+      3,
+      3
+    ],
+    "jogar": [
+      8,
+      1
+    ],
+    "evitar": [
+      8,
+      2
+    ],
+    "casar": [
+      8,
+      1
+    ],
+    "marcar": [
+      8,
+      1
+    ],
+    "indicar": [
+      8,
+      1
+    ],
+    "causar": [
+      3,
+      3
+    ],
+    "anunciar": [
+      8,
+      2
+    ],
+    "permanecer": [
+      8,
+      2
+    ],
+    "valer": [
+      3,
+      3
+    ],
+    "ocupar": [
+      8,
+      1
+    ],
+    "reconhecer": [
+      3,
+      3
+    ],
+    "esquecer": [
+      3,
+      3
+    ],
+    "crescer": [
+      3,
+      3
+    ],
+    "revelar": [
+      8,
+      2
+    ],
+    "matar": [
+      3,
+      3
+    ],
+    "transformar": [
+      8,
+      2
+    ],
+    "eleger": [
+      3,
+      2
+    ],
+    "prever": [
+      3,
+      3
+    ],
+    "escolher": [
+      8,
+      1
+    ],
+    "rir": [
+      8,
+      2
+    ],
+    "sentar": [
+      3,
+      3
+    ],
+    "ajudar": [
+      3,
+      3
+    ],
+    "fugir": [
+      8,
+      1
+    ],
+    "descer": [
+      8,
+      1
+    ],
+    "tocar": [
+      8,
+      1
+    ],
+    "apontar": [
+      8,
+      1
+    ],
+    "dormir": [
+      3,
+      3
+    ],
+    "dirigir": [
+      3,
+      3
+    ],
+    "entregar": [
+      3,
+      3
+    ],
+    "construir": [
+      8,
+      2
+    ],
+    "pegar": [
+      8,
+      2
+    ],
+    "assumir": [
+      8,
+      2
+    ],
+    "julgar": [
+      3,
+      3
+    ],
+    "faltar": [
+      8,
+      2
+    ],
+    "reunir": [
+      8,
+      1
+    ],
+    "vencer": [
+      3,
+      3
+    ],
+    "definir": [
+      8,
+      1
+    ],
+    "conter": [
+      3,
+      1
+    ],
+    "aproximar": [
+      3,
+      2
+    ],
+    "cumprir": [
+      3,
+      2
+    ],
+    "virar": [
+      3,
+      2
+    ],
+    "gerar": [
+      3,
+      2
+    ],
+    "propor": [
+      8,
+      1
+    ],
+    "preferir": [
+      3,
+      2
+    ],
+    "concluir": [
+      3,
+      2
+    ],
+    "discutir": [
+      3,
+      2
+    ],
+    "apoiar": [
+      3,
+      2
+    ],
+    "pertencer": [
+      3,
+      1
+    ],
+    "verificar": [
+      3,
+      2
+    ],
+    "dividir": [
+      8,
+      1
+    ],
+    "fixar": [
+      3,
+      2
+    ],
+    "aplicar": [
+      3,
+      2
+    ],
+    "atravessar": [
+      3,
+      2
+    ],
+    "significar": [
+      3,
+      2
+    ],
+    "depender": [
+      8,
+      1
+    ],
+    "chorar": [
+      3,
+      2
+    ],
+    "integrar": [
+      3,
+      2
+    ],
+    "aproveitar": [
+      8,
+      1
+    ],
+    "retirar": [
+      3,
+      2
+    ],
+    "reduzir": [
+      3,
+      2
+    ],
+    "buscar": [
+      3,
+      2
+    ],
+    "obrigar": [
+      3,
+      2
+    ],
+    "imaginar": [
+      3,
+      2
+    ],
+    "gritar": [
+      3,
+      2
+    ],
+    "admitir": [
+      3,
+      2
+    ],
+    "alcan\u00e7ar": [
+      3,
+      2
+    ],
+    "afastar": [
+      8,
+      1
+    ],
+    "estender": [
+      3,
+      2
+    ],
+    "preparar": [
+      3,
+      2
+    ],
+    "repetir": [
+      3,
+      2
+    ],
+    "funcionar": [
+      3,
+      2
+    ],
+    "sorrir": [
+      3,
+      2
+    ],
+    "dispor": [
+      3,
+      2
+    ],
+    "abandonar": [
+      3,
+      2
+    ],
+    "desejar": [
+      3,
+      2
+    ],
+    "cantar": [
+      3,
+      2
+    ],
+    "promover": [
+      3,
+      2
+    ],
+    "erguer": [
+      8,
+      1
+    ],
+    "acrescentar": [
+      3,
+      2
+    ],
+    "meter": [
+      3,
+      2
+    ],
+    "citar": [
+      3,
+      1
+    ],
+    "enviar": [
+      3,
+      1
+    ],
+    "informar": [
+      3,
+      1
+    ],
+    "conquistar": [
+      3,
+      1
+    ],
+    "confirmar": [
+      3,
+      1
+    ],
+    "morar": [
+      3,
+      1
+    ],
+    "guardar": [
+      3,
+      1
+    ],
+    "enfrentar": [
+      3,
+      1
+    ],
+    "prestar": [
+      3,
+      1
+    ],
+    "assistir": [
+      3,
+      1
+    ],
+    "cobrir": [
+      3,
+      1
+    ],
+    "prometer": [
+      3,
+      1
+    ],
+    "durar": [
+      3,
+      1
+    ],
+    "atuar": [
+      3,
+      1
+    ],
+    "exercer": [
+      3,
+      1
+    ],
+    "importar": [
+      3,
+      1
+    ],
+    "conversar": [
+      3,
+      1
+    ],
+    "cuidar": [
+      3,
+      1
+    ],
+    "consistir": [
+      3,
+      1
+    ],
+    "impedir": [
+      3,
+      1
+    ],
+    "contribuir": [
+      3,
+      1
+    ],
+    "aprender": [
+      3,
+      1
+    ],
+    "adotar": [
+      3,
+      1
+    ],
+    "completar": [
+      3,
+      1
+    ],
+    "introduzir": [
+      3,
+      1
+    ],
+    "jantar": [
+      3,
+      1
+    ],
+    "notar": [
+      3,
+      1
+    ],
+    "regressar": [
+      1,
+      1
+    ],
+    "apanhar": [
+      3,
+      1
+    ],
+    "esconder": [
+      3,
+      1
+    ],
+    "salvar": [
+      3,
+      1
+    ],
+    "atribuir": [
+      3,
+      1
+    ],
+    "bastar": [
+      3,
+      1
+    ],
+    "ligar": [
+      3,
+      1
+    ],
+    "pesar": [
+      3,
+      1
+    ],
+    "custar": [
+      3,
+      1
+    ],
+    "juntar": [
+      3,
+      1
+    ],
+    "avan\u00e7ar": [
+      3,
+      1
+    ],
+    "baixar": [
+      3,
+      1
+    ],
+    "conduzir": [
+      3,
+      1
+    ],
+    "caber": [
+      3,
+      1
+    ],
+    "atirar": [
+      3,
+      1
+    ],
+    "dedicar": [
+      3,
+      1
+    ],
+    "demonstrar": [
+      3,
+      1
+    ],
+    "declarar": [
+      3,
+      1
+    ],
+    "acusar": [
+      3,
+      1
+    ],
+    "fornecer": [
+      3,
+      1
+    ],
+    "compor": [
+      3,
+      1
+    ],
+    "corresponder": [
+      3,
+      1
+    ],
+    "controlar": [
+      3,
+      1
+    ],
+    "interessar": [
+      3,
+      1
+    ],
+    "analisar": [
+      3,
+      1
+    ],
+    "alimentar": [
+      3,
+      1
+    ],
+    "decorrer": [
+      3,
+      1
+    ],
+    "adquirir": [
+      3,
+      1
+    ],
+    "cortar": [
+      3,
+      1
+    ],
+    "desaparecer": [
+      3,
+      1
+    ],
+    "amar": [
+      3,
+      1
+    ],
+    "designar": [
+      3,
+      1
+    ],
+    "variar": [
+      3,
+      1
+    ],
+    "descrever": [
+      3,
+      1
+    ],
+    "substituir": [
+      1,
+      1
+    ],
+    "identificar": [
+      3,
+      1
+    ],
+    "atender": [
+      3,
+      1
+    ],
+    "deitar": [
+      3,
+      1
+    ],
+    "caracterizar": [
+      3,
+      1
+    ],
+    "beber": [
+      3,
+      1
+    ]
+  },
+  "total_right": 477,
+  "total_answers": 486
+}

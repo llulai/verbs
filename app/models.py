@@ -99,7 +99,7 @@ class State:
                      persons=get_persons(lang, mode),
                      persons_translation=get_pers_trans(lang),
                      min_to_review=3,
-                     practice_list=PracticeList({}),
+                     practice_list=dict(),
                      to_learn_list=get_verb_list(lang),
                      conjugations=get_conjugations(lang, mode, time))
 

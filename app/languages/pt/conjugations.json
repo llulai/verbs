@@ -857,7 +857,7 @@
       "3p": "absorverem",
       "3s": "absorver"
     },
-    "par": "absorvido \u21d4 absorto",
+    "par": "absorvido,absorto",
     "sub": {
       "fdpres": {
         "1p": "absorvermos",
@@ -1177,7 +1177,7 @@
       "3p": "aceitarem",
       "3s": "aceitar"
     },
-    "par": "aceitado \u21d4 aceite, aceito (Brasil)",
+    "par": "aceitado,aceite, aceito (Brasil)",
     "sub": {
       "fdpres": {
         "1p": "aceitarmos",
@@ -1417,7 +1417,7 @@
       "3p": "acenderem",
       "3s": "acender"
     },
-    "par": "acendido \u21d4 aceso",
+    "par": "acendido,aceso",
     "sub": {
       "fdpres": {
         "1p": "acendermos",
@@ -4377,7 +4377,7 @@
       "3p": "agradecerem",
       "3s": "agradecer"
     },
-    "par": "agradecido \u21d4 grato",
+    "par": "agradecido,grato",
     "sub": {
       "fdpres": {
         "1p": "agradecermos",
@@ -9657,7 +9657,7 @@
       "3p": "assentarem",
       "3s": "assentar"
     },
-    "par": "assentado \u21d4 assente",
+    "par": "assentado,assente",
     "sub": {
       "fdpres": {
         "1p": "assentarmos",
@@ -10377,7 +10377,7 @@
       "3p": "atenderem",
       "3s": "atender"
     },
-    "par": "atendido \u21d4 atento",
+    "par": "atendido,atento",
     "sub": {
       "fdpres": {
         "1p": "atendermos",
@@ -16137,7 +16137,7 @@
       "3p": "cobrirem",
       "3s": "cobrir"
     },
-    "par": "cobrido \u21d4 coberto",
+    "par": "cobrido,coberto",
     "sub": {
       "fdpres": {
         "1p": "cobrirmos",
@@ -17577,7 +17577,7 @@
       "3p": "completarem",
       "3s": "completar"
     },
-    "par": "completado \u21d4 completo",
+    "par": "completado,completo",
     "sub": {
       "fdpres": {
         "1p": "completarmos",
@@ -18537,7 +18537,7 @@
       "3p": "conclu\u00edrem",
       "3s": "concluir"
     },
-    "par": "conclu\u00eddo \u21d4 concluso",
+    "par": "conclu\u00eddo,concluso",
     "sub": {
       "fdpres": {
         "1p": "concluirmos",
@@ -19417,7 +19417,7 @@
       "3p": "confundirem",
       "3s": "confundir"
     },
-    "par": "confundido \u21d4 confuso",
+    "par": "confundido,confuso",
     "sub": {
       "fdpres": {
         "1p": "confundirmos",
@@ -21577,7 +21577,7 @@
       "3p": "convencerem",
       "3s": "convencer"
     },
-    "par": "convencido \u21d4 convicto",
+    "par": "convencido,convicto",
     "sub": {
       "fdpres": {
         "1p": "convencermos",
@@ -22457,7 +22457,7 @@
       "3p": "corrigirem",
       "3s": "corrigir"
     },
-    "par": "corrigido \u21d4 correcto",
+    "par": "corrigido,correcto",
     "sub": {
       "fdpres": {
         "1p": "corrigirmos",
@@ -23417,7 +23417,7 @@
       "3p": "cultivarem",
       "3s": "cultivar"
     },
-    "par": "cultivado \u21d4 culto",
+    "par": "cultivado,culto",
     "sub": {
       "fdpres": {
         "1p": "cultivarmos",
@@ -24697,7 +24697,7 @@
       "3p": "defenderem",
       "3s": "defender"
     },
-    "par": "defendido \u21d4 defeso",
+    "par": "defendido,defeso",
     "sub": {
       "fdpres": {
         "1p": "defendermos",
@@ -27497,7 +27497,7 @@
       "3p": "desenvolverem",
       "3s": "desenvolver"
     },
-    "par": "desenvolvido \u21d4 desenvolto",
+    "par": "desenvolvido,desenvolto",
     "sub": {
       "fdpres": {
         "1p": "desenvolvermos",
@@ -28217,7 +28217,7 @@
       "3p": "despertarem",
       "3s": "despertar"
     },
-    "par": "despertado \u21d4 desperto",
+    "par": "despertado,desperto",
     "sub": {
       "fdpres": {
         "1p": "despertarmos",
@@ -29577,7 +29577,7 @@
       "3p": "dirigirem",
       "3s": "dirigir"
     },
-    "par": "dirigido \u21d4 directo",
+    "par": "dirigido,directo",
     "sub": {
       "fdpres": {
         "1p": "dirigirmos",
@@ -30057,7 +30057,7 @@
       "3p": "dispersarem",
       "3s": "dispersar"
     },
-    "par": "dispersado \u21d4 disperso",
+    "par": "dispersado,disperso",
     "sub": {
       "fdpres": {
         "1p": "dispersarmos",
@@ -30377,7 +30377,7 @@
       "3p": "dissolverem",
       "3s": "dissolver"
     },
-    "par": "dissolvido \u21d4 dissoluto",
+    "par": "dissolvido,dissoluto",
     "sub": {
       "fdpres": {
         "1p": "dissolvermos",
@@ -30457,7 +30457,7 @@
       "3p": "distinguirem",
       "3s": "distinguir"
     },
-    "par": "distinguido \u21d4 distinto",
+    "par": "distinguido,distinto",
     "sub": {
       "fdpres": {
         "1p": "distinguirmos",
@@ -32057,7 +32057,7 @@
       "3p": "elegerem",
       "3s": "eleger"
     },
-    "par": "elegido \u21d4 eleito",
+    "par": "elegido,eleito",
     "sub": {
       "fdpres": {
         "1p": "elegermos",
@@ -32457,7 +32457,7 @@
       "3p": "emergirem",
       "3s": "emergir"
     },
-    "par": "emergido \u21d4 emerso",
+    "par": "emergido,emerso",
     "sub": {
       "fdpres": {
         "1p": "emergirmos",
@@ -32937,7 +32937,7 @@
       "3p": "empregarem",
       "3s": "empregar"
     },
-    "par": "empregado \u21d4 empregue",
+    "par": "empregado,empregue",
     "sub": {
       "fdpres": {
         "1p": "empregarmos",
@@ -33337,7 +33337,7 @@
       "3p": "encarregarem",
       "3s": "encarregar"
     },
-    "par": "encarregado \u21d4 encarregue",
+    "par": "encarregado,encarregue",
     "sub": {
       "fdpres": {
         "1p": "encarregarmos",
@@ -33497,7 +33497,7 @@
       "3p": "encherem",
       "3s": "encher"
     },
-    "par": "enchido \u21d4 cheio",
+    "par": "enchido,cheio",
     "sub": {
       "fdpres": {
         "1p": "enchermos",
@@ -34857,7 +34857,7 @@
       "3p": "entregarem",
       "3s": "entregar"
     },
-    "par": "entregado \u21d4 entregue",
+    "par": "entregado,entregue",
     "sub": {
       "fdpres": {
         "1p": "entregarmos",
@@ -35097,7 +35097,7 @@
       "3p": "envolverem",
       "3s": "envolver"
     },
-    "par": "envolvido \u21d4 envolto",
+    "par": "envolvido,envolto",
     "sub": {
       "fdpres": {
         "1p": "envolvermos",
@@ -35257,7 +35257,7 @@
       "3p": "enxugarem",
       "3s": "enxugar"
     },
-    "par": "enxugado \u21d4 enxuto",
+    "par": "enxugado,enxuto",
     "sub": {
       "fdpres": {
         "1p": "enxugarmos",
@@ -37497,7 +37497,7 @@
       "3p": "estenderem",
       "3s": "estender"
     },
-    "par": "estendido \u21d4 extenso",
+    "par": "estendido,extenso",
     "sub": {
       "fdpres": {
         "1p": "estendermos",
@@ -39737,7 +39737,7 @@
       "3p": "expressarem",
       "3s": "expressar"
     },
-    "par": "expressado \u21d4 expresso",
+    "par": "expressado,expresso",
     "sub": {
       "fdpres": {
         "1p": "expressarmos",
@@ -39817,7 +39817,7 @@
       "3p": "exprimirem",
       "3s": "exprimir"
     },
-    "par": "exprimido \u21d4 expresso",
+    "par": "exprimido,expresso",
     "sub": {
       "fdpres": {
         "1p": "exprimirmos",
@@ -39897,7 +39897,7 @@
       "3p": "expulsarem",
       "3s": "expulsar"
     },
-    "par": "expulsado \u21d4 expulso",
+    "par": "expulsado,expulso",
     "sub": {
       "fdpres": {
         "1p": "expulsarmos",
@@ -39977,7 +39977,7 @@
       "3p": "extinguirem",
       "3s": "extinguir"
     },
-    "par": "extinguido \u21d4 extinto",
+    "par": "extinguido,extinto",
     "sub": {
       "fdpres": {
         "1p": "extinguirmos",
@@ -40617,7 +40617,7 @@
       "3p": "fartarem",
       "3s": "fartar"
     },
-    "par": "fartado \u21d4 farto",
+    "par": "fartado,farto",
     "sub": {
       "fdpres": {
         "1p": "fartarmos",
@@ -41577,7 +41577,7 @@
       "3p": "findarem",
       "3s": "findar"
     },
-    "par": "findado \u21d4 findo",
+    "par": "findado,findo",
     "sub": {
       "fdpres": {
         "1p": "findarmos",
@@ -41977,7 +41977,7 @@
       "3p": "fixarem",
       "3s": "fixar"
     },
-    "par": "fixado \u21d4 fixo",
+    "par": "fixado,fixo",
     "sub": {
       "fdpres": {
         "1p": "fixarmos",
@@ -43417,7 +43417,7 @@
       "3p": "ganharem",
       "3s": "ganhar"
     },
-    "par": "ganhado \u21d4 ganho",
+    "par": "ganhado,ganho",
     "sub": {
       "fdpres": {
         "1p": "ganharmos",
@@ -43577,7 +43577,7 @@
       "3p": "gastarem",
       "3s": "gastar"
     },
-    "par": "gastado \u21d4 gasto",
+    "par": "gastado,gasto",
     "sub": {
       "fdpres": {
         "1p": "gastarmos",
@@ -46057,7 +46057,7 @@
       "3p": "imprimirem",
       "3s": "imprimir"
     },
-    "par": "imprimido \u21d4 impresso",
+    "par": "imprimido,impresso",
     "sub": {
       "fdpres": {
         "1p": "imprimirmos",
@@ -47337,7 +47337,7 @@
       "3p": "inserirem",
       "3s": "inserir"
     },
-    "par": "inserido \u21d4 inserto",
+    "par": "inserido,inserto",
     "sub": {
       "fdpres": {
         "1p": "inserirmos",
@@ -49577,7 +49577,7 @@
       "3p": "juntarem",
       "3s": "juntar"
     },
-    "par": "juntado \u21d4 junto",
+    "par": "juntado,junto",
     "sub": {
       "fdpres": {
         "1p": "juntarmos",
@@ -50617,7 +50617,7 @@
       "3p": "libertarem",
       "3s": "libertar"
     },
-    "par": "libertado \u21d4 liberto",
+    "par": "libertado,liberto",
     "sub": {
       "fdpres": {
         "1p": "libertarmos",
@@ -51097,7 +51097,7 @@
       "3p": "limparem",
       "3s": "limpar"
     },
-    "par": "limpado \u21d4 limpo",
+    "par": "limpado,limpo",
     "sub": {
       "fdpres": {
         "1p": "limparmos",
@@ -51177,7 +51177,7 @@
       "3p": "livrarem",
       "3s": "livrar"
     },
-    "par": "livrado \u21d4 livre",
+    "par": "livrado,livre",
     "sub": {
       "fdpres": {
         "1p": "livrarmos",
@@ -51497,7 +51497,7 @@
       "3p": "manifestarem",
       "3s": "manifestar"
     },
-    "par": "manifestado \u21d4 manifesto",
+    "par": "manifestado,manifesto",
     "sub": {
       "fdpres": {
         "1p": "manifestarmos",
@@ -54057,7 +54057,7 @@
       "3p": "nascerem",
       "3s": "nascer"
     },
-    "par": "nascido \u21d4 nado",
+    "par": "nascido,nado",
     "sub": {
       "fdpres": {
         "1p": "nascermos",
@@ -55097,7 +55097,7 @@
       "3p": "ocultarem",
       "3s": "ocultar"
     },
-    "par": "ocultado \u21d4 oculto",
+    "par": "ocultado,oculto",
     "sub": {
       "fdpres": {
         "1p": "ocultarmos",
@@ -56457,7 +56457,7 @@
       "3p": "pagarem",
       "3s": "pagar"
     },
-    "par": "pagado \u21d4 pago",
+    "par": "pagado,pago",
     "sub": {
       "fdpres": {
         "1p": "pagarmos",
@@ -60377,7 +60377,7 @@
       "3p": "prenderem",
       "3s": "prender"
     },
-    "par": "prendido \u21d4 preso",
+    "par": "prendido,preso",
     "sub": {
       "fdpres": {
         "1p": "prendermos",
@@ -61017,7 +61017,7 @@
       "3p": "pretenderem",
       "3s": "pretender"
     },
-    "par": "pretendido \u21d4 pretenso",
+    "par": "pretendido,pretenso",
     "sub": {
       "fdpres": {
         "1p": "pretendermos",
@@ -68937,7 +68937,7 @@
       "3p": "restringirem",
       "3s": "restringir"
     },
-    "par": "restringido \u21d4 restrito",
+    "par": "restringido,restrito",
     "sub": {
       "fdpres": {
         "1p": "restringirmos",
@@ -70377,7 +70377,7 @@
       "3p": "romperem",
       "3s": "romper"
     },
-    "par": "rompido \u21d4 roto",
+    "par": "rompido,roto",
     "sub": {
       "fdpres": {
         "1p": "rompermos",
@@ -71097,7 +71097,7 @@
       "3p": "salvarem",
       "3s": "salvar"
     },
-    "par": "salvado \u21d4 salvo",
+    "par": "salvado,salvo",
     "sub": {
       "fdpres": {
         "1p": "salvarmos",
@@ -71337,7 +71337,7 @@
       "3p": "secarem",
       "3s": "secar"
     },
-    "par": "secado \u21d4 seco",
+    "par": "secado,seco",
     "sub": {
       "fdpres": {
         "1p": "secarmos",
@@ -71497,7 +71497,7 @@
       "3p": "segurarem",
       "3s": "segurar"
     },
-    "par": "segurado \u21d4 seguro",
+    "par": "segurado,seguro",
     "sub": {
       "fdpres": {
         "1p": "segurarmos",
@@ -72297,7 +72297,7 @@
       "3p": "situarem",
       "3s": "situar"
     },
-    "par": "situado \u21d4 sito",
+    "par": "situado,sito",
     "sub": {
       "fdpres": {
         "1p": "situarmos",
@@ -72777,7 +72777,7 @@
       "3p": "soltarem",
       "3s": "soltar"
     },
-    "par": "soltado \u21d4 solto",
+    "par": "soltado,solto",
     "sub": {
       "fdpres": {
         "1p": "soltarmos",
@@ -73497,7 +73497,7 @@
       "3p": "submeterem",
       "3s": "submeter"
     },
-    "par": "submetido \u21d4 submisso",
+    "par": "submetido,submisso",
     "sub": {
       "fdpres": {
         "1p": "submetermos",
@@ -73977,7 +73977,7 @@
       "3p": "sujeitarem",
       "3s": "sujeitar"
     },
-    "par": "sujeitado \u21d4 sujeito",
+    "par": "sujeitado,sujeito",
     "sub": {
       "fdpres": {
         "1p": "sujeitarmos",
@@ -74377,7 +74377,7 @@
       "3p": "surgirem",
       "3s": "surgir"
     },
-    "par": "surgido \u21d4 surto",
+    "par": "surgido,surto",
     "sub": {
       "fdpres": {
         "1p": "surgirmos",
@@ -74457,7 +74457,7 @@
       "3p": "surpreenderem",
       "3s": "surpreender"
     },
-    "par": "surpreendido \u21d4 surpreso",
+    "par": "surpreendido,surpreso",
     "sub": {
       "fdpres": {
         "1p": "surpreendermos",
@@ -74617,7 +74617,7 @@
       "3p": "suspeitarem",
       "3s": "suspeitar"
     },
-    "par": "suspeitado \u21d4 suspeito",
+    "par": "suspeitado,suspeito",
     "sub": {
       "fdpres": {
         "1p": "suspeitarmos",
@@ -74697,7 +74697,7 @@
       "3p": "suspenderem",
       "3s": "suspender"
     },
-    "par": "suspendido \u21d4 suspenso",
+    "par": "suspendido,suspenso",
     "sub": {
       "fdpres": {
         "1p": "suspendermos",
@@ -75417,7 +75417,7 @@
       "3p": "tenderem",
       "3s": "tender"
     },
-    "par": "tendido \u21d4 tenso",
+    "par": "tendido,tenso",
     "sub": {
       "fdpres": {
         "1p": "tendermos",
@@ -76137,7 +76137,7 @@
       "3p": "torcerem",
       "3s": "torcer"
     },
-    "par": "torcido \u21d4 torto",
+    "par": "torcido,torto",
     "sub": {
       "fdpres": {
         "1p": "torcermos",
@@ -77817,7 +77817,7 @@
       "3p": "vagarem",
       "3s": "vagar"
     },
-    "par": "vagado \u21d4 vago",
+    "par": "vagado,vago",
     "sub": {
       "fdpres": {
         "1p": "vagarmos",

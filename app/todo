@@ -4,14 +4,16 @@
 [X] person translation to json
 [ ] keep last 100 performance
 [ ] check pyinquirer back menu
+[ ] ask to continue
 [ ] take average of min_to_review
 [ ] download 5K verbs https://www.conjugacao.com.br/verbos-populares/50/
-[ ] allow for multiple versions of conjugation
+[X] allow for multiple versions of conjugation
 [ ] prioritize verbs on use
 [ ] save conjugations by mode>time>verb>person
 [ ] add spanish
 [ ] add unittests
 [ ] add readme
+[ ] add verb translation
 
 
 # FUTURE
