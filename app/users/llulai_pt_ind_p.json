@@ -19,195 +19,195 @@
     "1p",
     "3p"
   ],
-  "min_to_review": 5,
+  "min_to_review": 3,
   "practice_list": {
     "ser": [
-      21,
-      2
+      34,
+      12
     ],
     "ter": [
       34,
-      20
+      21
     ],
     "estar": [
       34,
-      6
+      10
     ],
     "fazer": [
       34,
-      13
+      14
     ],
     "poder": [
       34,
-      26
+      29
     ],
     "dar": [
       34,
-      1
+      32
     ],
     "ir": [
       34,
-      30
+      5
     ],
     "haver": [
       34,
-      15
+      20
     ],
     "dizer": [
       34,
-      6
+      12
     ],
     "saber": [
       34,
-      16
+      1
     ],
     "dever": [
       34,
-      14
+      12
     ],
     "querer": [
       34,
-      1
+      10
     ],
     "ficar": [
       34,
-      28
+      2
     ],
     "ver": [
       34,
-      15
+      23
     ],
     "passar": [
       34,
-      23
+      29
     ],
     "encontrar": [
-      34,
-      15
+      21,
+      16
     ],
     "falar": [
       34,
-      1
+      5
     ],
     "vir": [
-      34,
-      36
+      21,
+      5
     ],
     "chegar": [
       34,
-      17
+      3
     ],
     "deixar": [
       34,
-      20
+      23
     ],
     "parecer": [
       34,
-      32
+      3
     ],
     "pensar": [
       34,
-      22
+      19
     ],
     "come\u00e7ar": [
       34,
-      12
+      19
     ],
     "levar": [
       34,
-      18
+      3
     ],
     "partir": [
       34,
-      12
+      14
     ],
     "apresentar": [
       34,
-      17
+      19
     ],
     "olhar": [
       34,
-      17
+      19
     ],
     "tornar": [
       34,
-      21
+      20
     ],
     "conseguir": [
-      34,
-      14
+      21,
+      9
     ],
     "voltar": [
       34,
-      10
+      16
     ],
     "sair": [
-      34,
-      2
+      21,
+      5
     ],
     "sentir": [
       34,
-      4
+      9
     ],
     "achar": [
       34,
-      9
+      11
     ],
     "existir": [
       34,
-      2
+      7
     ],
     "entrar": [
       34,
-      6
+      9
     ],
     "conhecer": [
-      21,
-      7
+      34,
+      15
     ],
     "chamar": [
       34,
-      1
+      3
     ],
     "considerar": [
       34,
-      3
+      11
     ],
     "p\u00f4r": [
       34,
-      4
+      5
     ],
     "ouvir": [
       34,
-      28
+      26
     ],
     "continuar": [
       34,
-      26
+      23
     ],
     "viver": [
-      34,
-      8
+      21,
+      13
     ],
     "tomar": [
       34,
-      30
+      27
     ],
     "acabar": [
       34,
-      28
+      8
     ],
     "criar": [
       34,
-      30
+      27
     ],
     "andar": [
       34,
-      24
+      8
     ],
     "perder": [
       34,
-      25
+      24
     ],
     "trabalhar": [
       34,
@@ -215,31 +215,31 @@
     ],
     "receber": [
       34,
-      29
+      30
     ],
     "acontecer": [
       34,
-      29
+      1
     ],
     "afirmar": [
       34,
-      26
+      8
     ],
     "pedir": [
       34,
-      26
+      27
     ],
     "seguir": [
       34,
-      26
+      23
     ],
     "contar": [
       34,
-      9
+      12
     ],
     "tratar": [
       34,
-      27
+      1
     ],
     "realizar": [
       34,
@@ -251,27 +251,27 @@
     ],
     "usar": [
       34,
-      19
+      17
     ],
     "manter": [
-      21,
-      18
+      34,
+      1
     ],
     "abrir": [
-      34,
-      23
+      8,
+      4
     ],
     "gostar": [
-      34,
-      22
+      21,
+      2
     ],
     "escrever": [
       34,
-      14
+      19
     ],
     "permitir": [
-      34,
-      8
+      21,
+      12
     ],
     "ocorrer": [
       34,
@@ -279,161 +279,209 @@
     ],
     "mostrar": [
       34,
-      17
+      18
     ],
     "morrer": [
       34,
-      17
+      21
     ],
     "procurar": [
       34,
-      18
+      22
     ],
     "trazer": [
       34,
-      18
+      17
     ],
     "tentar": [
       34,
-      13
+      17
     ],
     "lembrar": [
       34,
-      22
+      2
     ],
     "aparecer": [
       34,
-      12
+      11
     ],
     "formar": [
       34,
-      14
+      21
     ],
     "cair": [
-      21,
-      8
+      34,
+      22
     ],
     "incluir": [
       34,
-      16
+      17
     ],
     "correr": [
       34,
-      13
+      17
     ],
     "ganhar": [
       34,
-      5
+      8
     ],
     "surgir": [
       34,
-      2
+      7
     ],
     "nascer": [
-      21,
-      18
+      34,
+      1
     ],
     "pagar": [
-      21,
-      17
+      34,
+      4
     ],
     "ler": [
-      34,
+      21,
       2
     ],
     "entender": [
       34,
-      1
+      2
     ],
     "representar": [
       34,
-      2
+      5
     ],
     "produzir": [
-      21,
-      14
+      34,
+      2
     ],
     "precisar": [
       34,
-      6
+      9
     ],
     "perguntar": [
       21,
-      9
+      1
     ],
     "colocar": [
-      21,
-      11
+      34,
+      25
     ],
     "constituir": [
-      21,
-      10
+      34,
+      21
     ],
     "possuir": [
-      21,
-      4
+      34,
+      25
     ],
     "servir": [
       21,
-      10
+      14
     ],
     "tirar": [
+      34,
+      3
+    ],
+    "responder": [
+      34,
+      21
+    ],
+    "desenvolver": [
+      34,
+      11
+    ],
+    "obter": [
+      34,
+      12
+    ],
+    "explicar": [
+      34,
+      19
+    ],
+    "levantar": [
+      34,
+      7
+    ],
+    "mandar": [
+      34,
+      14
+    ],
+    "descobrir": [
+      21,
+      11
+    ],
+    "acreditar": [
+      34,
+      9
+    ],
+    "estudar": [
+      34,
+      13
+    ],
+    "atingir": [
+      34,
+      5
+    ],
+    "sofrer": [
+      34,
+      3
+    ],
+    "bater": [
+      34,
+      9
+    ],
+    "parar": [
+      34,
+      4
+    ],
+    "decidir": [
+      21,
+      16
+    ],
+    "referir": [
+      21,
+      10
+    ],
+    "fechar": [
       21,
       8
     ],
-    "responder": [
+    "acompanhar": [
+      21,
+      6
+    ],
+    "aumentar": [
       21,
       9
     ],
-    "desenvolver": [
+    "lan\u00e7ar": [
+      21,
+      5
+    ],
+    "defender": [
       8,
       6
     ],
-    "obter": [
-      21,
-      2
-    ],
-    "explicar": [
-      21,
-      2
-    ],
-    "levantar": [
+    "mudar": [
       8,
       4
     ],
-    "mandar": [
+    "subir": [
+      3,
+      5
+    ],
+    "resolver": [
+      8,
+      2
+    ],
+    "utilizar": [
       8,
       5
     ],
-    "descobrir": [
-      3,
-      4
-    ],
-    "acreditar": [
-      8,
-      3
-    ],
-    "estudar": [
-      8,
-      4
-    ],
-    "atingir": [
+    "participar": [
       8,
       2
-    ],
-    "sofrer": [
-      8,
-      1
-    ],
-    "bater": [
-      8,
-      1
-    ],
-    "parar": [
-      8,
-      1
     ]
   },
-  "total_right": 491,
-  "total_answers": 550
+  "total_right": 645,
+  "total_answers": 728
 }
